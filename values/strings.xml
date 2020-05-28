@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">No new music sessions have been started yet!\n
+        If you need help, please tap the 3-dots menu</string>
+    <string name="single_user_warning">Please install this app as system user</string>
+    <string name="warning_library_null">Wavelet was unable to instantiate %s effects</string>
+    <string name="warning_no_browser">Could not open url %s</string>
+    <string name="warning_billing_service">Error %i: Billing service unavailable</string>
+    <string name="paid_feature">Unlock all features for %s</string>
+    <string name="unlock">Unlock</string>
+
+    <!-- Menu -->
+    <string name="menu_legacy_mode">Legacy mode</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_reduce_clipping">Reduce clipping</string>
+    <string name="clipping_over_latency">Clipping is preferred over latency</string>
+    <string name="latency_over_clipping">Latency is preferred over clipping</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Wavelet service</string>
+    <string name="service_description">Wavelet service to keep your audio rocking</string>
+    <string name="service_notification_title">%s connected</string>
+    <string name="service_notification_text">Apps using Wavelet: %s</string>
+    <string name="service_notification_text_default">Tap for more options</string>
+
+    <string name="device_unknown">Unknown</string>
+    <string name="device_headphone">Headphone</string>
+    <string name="device_headset">Headset</string>
+    <string name="device_speaker">Speaker</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="category_equalization">Equalization</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Headphone model</string>
+    <string name="auto_eq_import">Import</string>
+    <string name="auto_eq_file_import_success">Successfully imported %s</string>
+    <string name="auto_eq_file_import_fail">Failed to import %s</string>
+    <string name="auto_eq_remove_item">Remove item</string>
+    <string name="graphic_eq_title">Graphic equalizer</string>
+    <string name="graphic_eq_dialog_title">Overwrite personal preset</string>
+    <string name="graphic_eq_presets">Presets</string>
+
+    <string name="category_effects">Effects</string>
+    <string name="bass_boost_title">Bass booster</string>
+    <string name="bass_boost_strength">Bass boost strength</string>
+    <string name="preset_reverb_title">Reverberation</string>
+    <string name="preset_reverb_preset">Preset</string>
+    <string name="virtualizer_title">Virtualizer</string>
+    <string name="virtualizer_strength">Virtualization strength</string>
+    <string name="bass_tuner_title">Bass tuner</string>
+
+    <string name="category_gain_control">Gain control</string>
+    <string name="limiter_title">Limiter</string>
+    <string name="limiter_attack_time">Attack time</string>
+    <string name="limiter_release_time">Release time</string>
+    <string name="limiter_ratio">Ratio</string>
+    <string name="limiter_threshold">Threshold</string>
+    <string name="limiter_post_gain">Post-gain</string>
+    <string name="channel_balance_title">Channel balance</string>
+    <string name="channel_balance_left_gain">Channel gain left</string>
+    <string name="channel_balance_right_gain">Channel gain right</string>
+
+    <string name="graphic_eq_preset_flat">Flat</string>
+    <string name="graphic_eq_preset_dark">Dark</string>
+    <string name="graphic_eq_preset_bright">Bright</string>
+    <string name="graphic_eq_preset_bass_boost">Bass boost</string>
+    <string name="graphic_eq_preset_bass_reduction">Bass reduction</string>
+    <string name="graphic_eq_preset_treble_boost">Treble boost</string>
+    <string name="graphic_eq_preset_treble_reduction">Treble reduction</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">Vocal boost</string>
+    <string name="graphic_eq_preset_m_shaped">M-shaped</string>
+    <string name="graphic_eq_preset_u_shaped">U-shaped</string>
+    <string name="graphic_eq_preset_v_shaped">V-shaped</string>
+    <string name="graphic_eq_preset_w_shaped">W-shaped</string>
+    <string name="graphic_eq_preset_personal">Personal</string>
+
+    <string name="preset_reverb_small_room">Small room</string>
+    <string name="preset_reverb_medium_room">Medium room</string>
+    <string name="preset_reverb_large_room">Large room</string>
+    <string name="preset_reverb_medium_hall">Medium hall</string>
+    <string name="preset_reverb_large_hall">Large hall</string>
+    <string name="preset_reverb_plate">Plate</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+</resources>
