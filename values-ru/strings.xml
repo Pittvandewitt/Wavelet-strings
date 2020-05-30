@@ -71,10 +71,10 @@
     <string name="graphic_eq_preset_treble_reduction">Снижение низких частот</string>
     <string name="graphic_eq_preset_loudness">Усиление</string>
     <string name="graphic_eq_preset_vocal_boost">Усиление вокала</string>
-    <string name="graphic_eq_preset_m_образный">M-образный</string>
-    <string name="graphic_eq_preset_u_образный">U-образный</string>
-    <string name="graphic_eq_preset_v_образный">V-образный</string>
-    <string name="graphic_eq_preset_w_образный">W-образный</string>
+    <string name="graphic_eq_preset_m_shaped">M-образный</string>
+    <string name="graphic_eq_preset_u_shaped">U-образный</string>
+    <string name="graphic_eq_preset_v_shaped">V-образный</string>
+    <string name="graphic_eq_preset_w_shaped">W-образный</string>
     <string name="graphic_eq_preset_personal">Свой</string>
 
     <string name="preset_reverb_small_room">Маленькая комната</string>
