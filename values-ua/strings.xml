@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
     <string name="no_active_sessions">Музичні сесії поки що не запущені.\n
@@ -71,10 +72,10 @@
     <string name="graphic_eq_preset_treble_reduction">Зниження низких частот</string>
     <string name="graphic_eq_preset_loudness">Посилення</string>
     <string name="graphic_eq_preset_vocal_boost">Посилення вокалу</string>
-    <string name="graphic_eq_preset_m_образный">M-подібний</string>
-    <string name="graphic_eq_preset_u_образный">U-подібний</string>
-    <string name="graphic_eq_preset_v_образный">V-подібний</string>
-    <string name="graphic_eq_preset_w_образный">W-подібний</string>
+    <string name="graphic_eq_preset_m_shaped">M-подібний</string>
+    <string name="graphic_eq_preset_u_shaped">U-подібний</string>
+    <string name="graphic_eq_preset_v_shaped">V-подібний</string>
+    <string name="graphic_eq_preset_w_shaped">W-подібний</string>
     <string name="graphic_eq_preset_personal">Свій</string>
 
     <string name="preset_reverb_small_room">Маленька кімната</string>
@@ -89,3 +90,4 @@
     <string name="unit_decibel">дБ</string>
     <string name="unit_hertz">Гц</string>
 </resources>
+
