@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">No hay sesiones abiertas todavía!\n
+        Si necesitas ayuda utiliza el menú de arriba</string>
+    <string name="single_user_warning">Favor de instalar esta aplicación como usuario de sistema</string>
+    <string name="warning_library_null">Wavelet no pudo inicializar efectos %s</string>
+    <string name="warning_no_browser">Error al navegar a %s</string>
+    <string name="warning_billing_service">Error %i: Servicio de cobro no disponible</string>
+    <string name="paid_feature">Desbloquear todas las características por %s</string>
+    <string name="Desbloquear">Desbloquear</string>
+
+    <!-- Menu -->
+    <string name="menu_legacy_mode">Modo original</string>
+    <string name="menu_help">Ayuda</string>
+    <string name="menu_reduce_clipping">Reducir recortes</string>
+    <string name="clipping_over_latency">Preferir recortes a latencia</string>
+    <string name="latency_over_clipping">Preferir latencia a recortes</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Servicio Wavelet</string>
+    <string name="service_description">Servicio Wavelet optimizar la calidad de tu audio</string>
+    <string name="service_notification_title">%s conectados</string>
+    <string name="service_notification_text">Aplicaciones usando Wavelet: %s</string>
+    <string name="service_notification_text_default">Selecciona para más opciones</string>
+
+    <string name="device_unknown">Desconocido</string>
+    <string name="device_headphone">Audífonos pequeños</string>
+    <string name="device_headset">Audífonos medianos</string>
+    <string name="device_speaker">Bocina</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="category_equalization">Equalizador</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Modelo de audífonos</string>
+    <string name="auto_eq_import">Importar</string>
+    <string name="auto_eq_file_import_success">%s importado</string>
+    <string name="auto_eq_file_import_fail">Error al importar %s</string>
+    <string name="auto_eq_remove_item">Remover elemento</string>
+    <string name="graphic_eq_title">Ecualizador gráfico</string>
+    <string name="graphic_eq_dialog_title">Sobreescribir configuración personal</string>
+    <string name="graphic_eq_presets">Configuraciones</string>
+
+    <string name="category_effects">Efectos</string>
+    <string name="bass_boost_title">Resaltar bajos</string>
+    <string name="bass_boost_strength">Potencia de bajos</string>
+    <string name="preset_reverb_title">Reverberación</string>
+    <string name="preset_reverb_preset">Configuración</string>
+    <string name="virtualizer_title">Virtualizador</string>
+    <string name="virtualizer_strength">Potencia de virtualización</string>
+    <string name="bass_tuner_title">Ajustar bajos</string>
+
+    <string name="category_gain_control">Control de ganancia</string>
+    <string name="limiter_title">Limitador</string>
+    <string name="limiter_attack_time">Tiempo de ataque</string>
+    <string name="limiter_release_time">Tiempo de salida</string>
+    <string name="limiter_ratio">Radio</string>
+    <string name="limiter_threshold">Umbral</string>
+    <string name="limiter_post_gain">Post-ganancia</string>
+    <string name="channel_balance_title">Balance de canales</string>
+    <string name="channel_balance_left_gain">Ganancia canal izquierdo</string>
+    <string name="channel_balance_right_gain">Ganancia canal derecho</string>
+
+    <string name="graphic_eq_preset_flat">Plano</string>
+    <string name="graphic_eq_preset_dark">Opaco</string>
+    <string name="graphic_eq_preset_bright">Brillante</string>
+    <string name="graphic_eq_preset_bass_boost">Resaltar bajos</string>
+    <string name="graphic_eq_preset_bass_reduction">Reducir bajos</string>
+    <string name="graphic_eq_preset_treble_boost">Resaltar agudos</string>
+    <string name="graphic_eq_preset_treble_reduction">Reducir agudos</string>
+    <string name="graphic_eq_preset_loudness">Potencia</string>
+    <string name="graphic_eq_preset_vocal_boost">Resaltar vocales</string>
+    <string name="graphic_eq_preset_m_shaped">Figura 'M'</string>
+    <string name="graphic_eq_preset_u_shaped">Figura 'U'</string>
+    <string name="graphic_eq_preset_v_shaped">Figura 'V'</string>
+    <string name="graphic_eq_preset_w_shaped">Figura 'W'</string>
+    <string name="graphic_eq_preset_personal">Personal</string>
+
+    <string name="preset_reverb_small_room">Habitación pequeña</string>
+    <string name="preset_reverb_medium_room">Habitación mediana</string>
+    <string name="preset_reverb_large_room">Habitación grande</string>
+    <string name="preset_reverb_medium_hall">Salón mediano</string>
+    <string name="preset_reverb_large_hall">Salón grande</string>
+    <string name="preset_reverb_plate">Plato</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+</resources>
