@@ -6,7 +6,7 @@
     <string name="single_user_warning">Установите Wavelet как обычное приложение.</string>
     <string name="warning_library_null">Wavelet не может создать экземпляр %s эффектов.</string>
     <string name="warning_no_browser">Невозможно открыть ссылку %s</string>
-    <string name="warning_billing_service">Ошибка %i: Оплата недоступна.</string>
+    <string name="warning_billing_service">Ошибка %d: Оплата недоступна.</string>
     <string name="paid_feature">Разблокировать все функции за %s</string>
     <string name="unlock">Разблокировать</string>
 
@@ -51,6 +51,10 @@
     <string name="virtualizer_title">Виртуализатор</string>
     <string name="virtualizer_strength">Сила</string>
     <string name="bass_tuner_title">Басс-тюнер</string>
+    <string name="bass_tuner_type">Bass type</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
 
     <string name="category_gain_control">Усилитель</string>
     <string name="limiter_title">Ограничитель</string>

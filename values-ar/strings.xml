@@ -5,7 +5,7 @@
     <string name="single_user_warning">المرجو تثبيث هذا التطبيق كمستخدم النظام</string>
     <string name="warning_library_null">ويفليت لم يتمكن من إنشاء %s تأثيرات</string>
     <string name="warning_no_browser">لا يمكن فتح الرابط %s</string>
-    <string name="warning_billing_service">خطأ %i: خدمة الفوترة غير متاحة</string>
+    <string name="warning_billing_service">خطأ %d: خدمة الفوترة غير متاحة</string>
     <string name="paid_feature">فتح كل الميزات بـ %s</string>
     <string name="unlock">فتح</string>
 
@@ -50,6 +50,10 @@
     <string name="virtualizer_title">المحاكي</string>
     <string name="virtualizer_strength">قوة المحاكاة</string>
     <string name="bass_tuner_title">موالف الجهير</string>
+    <string name="bass_tuner_type">Bass type</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
 
     <string name="category_gain_control">التحكم في الكسب</string>
     <string name="limiter_title">المحدد</string>

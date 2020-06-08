@@ -6,7 +6,7 @@
     <string name="single_user_warning">Please install this app as system user</string>
     <string name="warning_library_null">Wavelet was unable to instantiate %s effects</string>
     <string name="warning_no_browser">Could not open url %s</string>
-    <string name="warning_billing_service">Error %i: Billing service unavailable</string>
+    <string name="warning_billing_service">Error %d: Billing service unavailable</string>
     <string name="paid_feature">Unlock all features for %s</string>
     <string name="unlock">Unlock</string>
 
@@ -51,6 +51,10 @@
     <string name="virtualizer_title">Virtualizer</string>
     <string name="virtualizer_strength">Virtualization strength</string>
     <string name="bass_tuner_title">Bass tuner</string>
+    <string name="bass_tuner_type">Bass type</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
 
     <string name="category_gain_control">Gain control</string>
     <string name="limiter_title">Limiter</string>

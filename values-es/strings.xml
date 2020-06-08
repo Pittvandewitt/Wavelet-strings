@@ -6,9 +6,9 @@
     <string name="single_user_warning">Favor de instalar esta aplicación como usuario de sistema</string>
     <string name="warning_library_null">Wavelet no pudo inicializar efectos %s</string>
     <string name="warning_no_browser">Error al navegar a %s</string>
-    <string name="warning_billing_service">Error %i: Servicio de cobro no disponible</string>
+    <string name="warning_billing_service">Error %d: Servicio de cobro no disponible</string>
     <string name="paid_feature">Desbloquear todas las características por %s</string>
-    <string name="Desbloquear">Desbloquear</string>
+    <string name="unlock">Desbloquear</string>
 
     <!-- Menu -->
     <string name="menu_legacy_mode">Modo original</string>
@@ -32,7 +32,7 @@
     <string name="device_usb">USB</string>
 
     <!-- Preference strings -->
-    <string name="category_equalization">Equalizador</string>
+    <string name="category_equalization">Ecualizador</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modelo de audífonos</string>
     <string name="auto_eq_import">Importar</string>
@@ -51,6 +51,10 @@
     <string name="virtualizer_title">Virtualizador</string>
     <string name="virtualizer_strength">Potencia de virtualización</string>
     <string name="bass_tuner_title">Ajustar bajos</string>
+    <string name="bass_tuner_type">Bass type</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Compresor sostenido</string>
 
     <string name="category_gain_control">Control de ganancia</string>
     <string name="limiter_title">Limitador</string>
@@ -72,10 +76,10 @@
     <string name="graphic_eq_preset_treble_reduction">Reducir agudos</string>
     <string name="graphic_eq_preset_loudness">Potencia</string>
     <string name="graphic_eq_preset_vocal_boost">Resaltar vocales</string>
-    <string name="graphic_eq_preset_m_shaped">Figura 'M'</string>
-    <string name="graphic_eq_preset_u_shaped">Figura 'U'</string>
-    <string name="graphic_eq_preset_v_shaped">Figura 'V'</string>
-    <string name="graphic_eq_preset_w_shaped">Figura 'W'</string>
+    <string name="graphic_eq_preset_m_shaped">Figura \'M\'</string>
+    <string name="graphic_eq_preset_u_shaped">Figura \'U\'</string>
+    <string name="graphic_eq_preset_v_shaped">Figura \'V\'</string>
+    <string name="graphic_eq_preset_w_shaped">Figura \'W\'</string>
     <string name="graphic_eq_preset_personal">Personal</string>
 
     <string name="preset_reverb_small_room">Habitación pequeña</string>

@@ -6,7 +6,7 @@
     <string name="single_user_warning">Встановіть Wavelet як звичайну програму.</string>
     <string name="warning_library_null">Wavelet не може свторити екземпляр %s ефектів.</string>
     <string name="warning_no_browser">Неможливо відкрити посилання %s</string>
-    <string name="warning_billing_service">Помилка %i: Оплата недоступна.</string>
+    <string name="warning_billing_service">Помилка %d: Оплата недоступна.</string>
     <string name="paid_feature">Розблокувати всі функції за %s</string>
     <string name="unlock">Разблокувати</string>
 
@@ -51,6 +51,10 @@
     <string name="virtualizer_title">Віртуалізатор</string>
     <string name="virtualizer_strength">Сила</string>
     <string name="bass_tuner_title">Бас-тюнер</string>
+    <string name="bass_tuner_type">Bass type</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
 
     <string name="category_gain_control">Посилювач</string>
     <string name="limiter_title">обмежувач</string>
