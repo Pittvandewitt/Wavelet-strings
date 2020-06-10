@@ -50,10 +50,10 @@
     <string name="virtualizer_title">المحاكي</string>
     <string name="virtualizer_strength">قوة المحاكاة</string>
     <string name="bass_tuner_title">موالف الجهير</string>
-    <string name="bass_tuner_type">Bass type</string>
-    <string name="bass_tuner_type_natural">Natural</string>
-    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
-    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
+    <string name="bass_tuner_type">نوع الجهير</string>
+    <string name="bass_tuner_type_natural">طبيعي</string>
+    <string name="bass_tuner_type_transient_compressor">ضاغط الانتقال</string>
+    <string name="bass_tuner_type_sustain_compressor">ضاغط الدعم</string>
 
     <string name="category_gain_control">التحكم في الكسب</string>
     <string name="limiter_title">المحدد</string>
