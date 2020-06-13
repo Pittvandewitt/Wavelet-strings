@@ -19,7 +19,7 @@
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Servicio Wavelet</string>
-    <string name="service_description">Servicio Wavelet optimizar la calidad de tu audio</string>
+    <string name="service_description">Servicio Wavelet para optimizar la calidad de tu audio</string>
     <string name="service_notification_title">%s conectados</string>
     <string name="service_notification_text">Aplicaciones usando Wavelet: %s</string>
     <string name="service_notification_text_default">Selecciona para más opciones</string>
@@ -51,9 +51,9 @@
     <string name="virtualizer_title">Virtualizador</string>
     <string name="virtualizer_strength">Potencia de virtualización</string>
     <string name="bass_tuner_title">Ajustar bajos</string>
-    <string name="bass_tuner_type">Bass type</string>
+    <string name="bass_tuner_type">Tipo de implementación</string>
     <string name="bass_tuner_type_natural">Natural</string>
-    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_transient_compressor">Compresor transitorio</string>
     <string name="bass_tuner_type_sustain_compressor">Compresor sostenido</string>
 
     <string name="category_gain_control">Control de ganancia</string>
