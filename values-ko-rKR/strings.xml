@@ -30,6 +30,7 @@
     <string name="device_speaker">스피커</string>
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_usb">USB</string>
+    <string name="device_amplifier">Amplifier</string>
 
     <!-- Preference strings -->
     <string name="category_equalization">이퀄라이저</string>
@@ -55,6 +56,8 @@
     <string name="bass_tuner_type_natural">내츄럴</string>
     <string name="bass_tuner_type_transient_compressor">트랜전트 컴프레서</string>
     <string name="bass_tuner_type_sustain_compressor">서스테인 컴프레서</string>
+    <string name="bass_tuner_cutoff_frequency">Cutoff frequency</string>
+    <string name="bass_tuner_post_gain">포스트 게인</string>
 
     <string name="category_gain_control">게인 컨트롤</string>
     <string name="limiter_title">리미터</string>

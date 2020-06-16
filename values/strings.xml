@@ -30,6 +30,7 @@
     <string name="device_speaker">Speaker</string>
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_usb">USB</string>
+    <string name="device_amplifier">Amplifier</string>
 
     <!-- Preference strings -->
     <string name="category_equalization">Equalization</string>
@@ -55,6 +56,8 @@
     <string name="bass_tuner_type_natural">Natural</string>
     <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
     <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
+    <string name="bass_tuner_cutoff_frequency">Cutoff frequency</string>
+    <string name="bass_tuner_post_gain">Post-gain</string>
 
     <string name="category_gain_control">Gain control</string>
     <string name="limiter_title">Limiter</string>
