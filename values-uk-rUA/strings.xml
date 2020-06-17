@@ -33,6 +33,7 @@
     <string name="device_amplifier">Amplifier</string>
 
     <!-- Preference strings -->
+    <string name="reset">Reset</string>
     <string name="category_equalization">Еквалізація</string>
     <string name="auto_eq_title">Автоматична еквалізація</string>
     <string name="auto_eq_dialog_title">Модель навушників</string>
