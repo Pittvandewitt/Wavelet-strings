@@ -28,8 +28,8 @@
     <string name="device_headset">سماعة</string>
     <string name="device_speaker">مكبر الصوت</string>
     <string name="device_bluetooth">البلوتوث</string>
+    <string name="device_hearing_aid">مساعد السمع</string>
     <string name="device_usb">يو إس بي</string>
-    <string name="device_amplifier">المضخم</string>
 
     <!-- Preference strings -->
     <string name="reset">إعادة الضبط</string>

@@ -29,8 +29,8 @@
     <string name="device_headset">Навушники</string>
     <string name="device_speaker">Динамік</string>
     <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Hearing aid</string>
     <string name="device_usb">USB</string>
-    <string name="device_amplifier">Amplifier</string>
 
     <!-- Preference strings -->
     <string name="reset">Reset</string>
