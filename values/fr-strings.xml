@@ -11,7 +11,7 @@
     <string name="unlock">Déverrouillé</string>
 
     <!-- Menu -->
-    <string name="menu_legacy_mode">Mode Legacy</string>
+    <string name="menu_legacy_mode">Mode Global</string>
     <string name="menu_help">Aide</string>
     <string name="menu_reduce_clipping">Réduire l\'écrêtage</string>
     <string name="clipping_over_latency">L\'écrêtage est préférable à la latence</string>
@@ -19,13 +19,13 @@
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Service Wavelet</string>
-    <string name="service_description">Service Wavelet pour garder votre audio rocking</string>
+    <string name="service_description">Service Wavelet pour améliorer votre écoute audio</string>
     <string name="service_notification_title">%s connecté</string>
     <string name="service_notification_text">Applications utilisant Wavelet: %s</string>
     <string name="service_notification_text_default">Appuyez pour plus d\'options</string>
 
     <string name="device_unknown">Inconnu</string>
-    <string name="device_headphone">Casque de musique</string>
+    <string name="device_headphone">Casque audio</string>
     <string name="device_headset">Ecouteurs</string>
     <string name="device_speaker">Haut-parleurs</string>
     <string name="device_bluetooth">Bluetooth</string>
