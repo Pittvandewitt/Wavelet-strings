@@ -39,7 +39,7 @@
     <string name="auto_eq_dialog_title">Modèle de casque</string>
     <string name="auto_eq_import">Importer</string>
     <string name="auto_eq_file_import_success">Importation réussie %s</string>
-    <string name="auto_eq_file_import_fail">Échec de l\'importation %s</string>
+    <string name="auto_eq_file_import_fail">Echec de l\'importation %s</string>
     <string name="auto_eq_remove_item">Retirer l\'objet</string>
     <string name="graphic_eq_title">Egaliseur graphique</string>
     <string name="graphic_eq_dialog_title">Ecraser le préréglage personnel</string>
