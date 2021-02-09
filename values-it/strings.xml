@@ -1,1 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Nessuna sessione musicale è partita!\n
+        Se hai bisogno di aiuto, clicca il menu a tre puntini</string>
+    <string name="single_user_warning">Perfavore installa quest\'app come utente di sistema</string>
+    <string name="warning_library_null">Wavelet non è riuscito ad istanziare %s effetti</string>
+    <string name="warning_no_browser">Impossibile aprire url %s</string>
+    <string name="warning_billing_service">Errore %d: servizio di fatturazione non disponibile</string>
+    <string name="paid_feature">Sblocca tutte le funzioni per %s</string>
+    <string name="unlock">Sblocca</string>
 
+    <!-- Menu -->
+    <string name="menu_legacy_mode">Modalità Legacy</string>
+    <string name="menu_help">Aiuto</string>
+    <string name="menu_reduce_clipping">Riduci clipping</string>
+    <string name="clipping_over_latency">Clipping preferito alla latenza</string>
+    <string name="latency_over_clipping">Latenza preferita al clipping</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Servizio di Wavelet</string>
+    <string name="service_description">Servizio di Wavelet per tenere l\'audio migliorato</string>
+    <string name="service_notification_title">%s connesso</string>
+    <string name="service_notification_text">App che usano Wavelet: %s</string>
+    <string name="service_notification_text_default">Clicca per più opzioni</string>
+
+    <string name="device_unknown">Sconosciuto</string>
+    <string name="device_headphone">Cuffie</string>
+    <string name="device_headset">Auricolari</string>
+    <string name="device_speaker">Altoparlanti</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Apparecchio acustico</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Reset</string>
+    <string name="category_equalization">Equalizzazione</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Modello cuffie</string>
+    <string name="auto_eq_import">Importa</string>
+    <string name="auto_eq_file_import_success">%s importato con successo</string>
+    <string name="auto_eq_file_import_fail">Importazione fallita di %s</string>
+    <string name="auto_eq_remove_item">Rimuovi</string>
+    <string name="graphic_eq_title">Equalizzatore Grafico</string>
+    <string name="graphic_eq_dialog_title">Sovrascrivi preset personale</string>
+    <string name="graphic_eq_presets">Preset</string>
+
+    <string name="category_effects">Effetti</string>
+    <string name="bass_boost_title">Incremento bassi</string>
+    <string name="bass_boost_strength">Potenza dell'incremento bassi</string>
+    <string name="preset_reverb_title">Riverbero</string>
+    <string name="preset_reverb_preset">Preset</string>
+    <string name="virtualizer_title">Virtualizzatore</string>
+    <string name="virtualizer_strength">Potenza Virtualizzatore</string>
+    <string name="bass_tuner_title">Sintonizzatore bassi</string>
+    <string name="bass_tuner_type">Tipo di bassi</string>
+    <string name="bass_tuner_type_natural">Naturali</string>
+    <string name="bass_tuner_type_transient_compressor">Compressore transitorio</string>
+    <string name="bass_tuner_type_sustain_compressor">Compressore sostenuto</string>
+    <string name="bass_tuner_cutoff_frequency">Frequenza di taglio</string>
+    <string name="bass_tuner_post_gain">Post-guadagno</string>
+
+    <string name="category_gain_control">Controllo guadagno audio</string>
+    <string name="limiter_title">Limitatore</string>
+    <string name="limiter_attack_time">Tempo d\'attacco</string>
+    <string name="limiter_release_time">Tempo di rilascio</string>
+    <string name="limiter_ratio">Rapporto</string>
+    <string name="limiter_threshold">Soglia</string>
+    <string name="limiter_post_gain">Post-guadagno</string>
+    <string name="channel_balance_title">Equilibrio canali</string>
+    <string name="channel_balance_left_gain">Guadagno canale sinistro</string>
+    <string name="channel_balance_right_gain">Guadagno canale destro</string>
+
+    <string name="graphic_eq_preset_flat">Piatto</string>
+    <string name="graphic_eq_preset_dark">Profondo</string>
+    <string name="graphic_eq_preset_bright">Cristallino</string>
+    <string name="graphic_eq_preset_bass_boost">Bassi incrementati</string>
+    <string name="graphic_eq_preset_bass_reduction">Bassi ridotti</string>
+    <string name="graphic_eq_preset_treble_boost">Alti incrementati</string>
+    <string name="graphic_eq_preset_treble_reduction">Alti ridotti</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">Vocali incrementati</string>
+    <string name="graphic_eq_preset_m_shaped">M-forma</string>
+    <string name="graphic_eq_preset_u_shaped">U-forma</string>
+    <string name="graphic_eq_preset_v_shaped">V-forma</string>
+    <string name="graphic_eq_preset_w_shaped">W-forma</string>
+    <string name="graphic_eq_preset_personal">Personalizzato</string>
+
+    <string name="preset_reverb_small_room">Stanza piccola</string>
+    <string name="preset_reverb_medium_room">Stanza media</string>
+    <string name="preset_reverb_large_room">Stanza grande</string>
+    <string name="preset_reverb_medium_hall">Hall media</string>
+    <string name="preset_reverb_large_hall">Hall grande</string>
+    <string name="preset_reverb_plate">Plate</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+</resources>
