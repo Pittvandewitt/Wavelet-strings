@@ -47,7 +47,7 @@
 
     <string name="category_effects">Effetti</string>
     <string name="bass_boost_title">Incremento bassi</string>
-    <string name="bass_boost_strength">Potenza dell'incremento bassi</string>
+    <string name="bass_boost_strength">Potenza dell\'incremento bassi</string>
     <string name="preset_reverb_title">Riverbero</string>
     <string name="preset_reverb_preset">Preset</string>
     <string name="virtualizer_title">Virtualizzatore</string>
