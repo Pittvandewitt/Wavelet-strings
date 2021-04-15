@@ -29,7 +29,7 @@
     <string name="device_headset">Headset</string>
     <string name="device_speaker">Speaker</string>
     <string name="device_bluetooth">Bluetooth</string>
-    <string name="device_hearing_aid">Bantuan pendengaran</string>
+    <string name="device_hearing_aid">Alat bantu dengar</string>
     <string name="device_usb">USB</string>
 
     <!-- Preference strings -->
@@ -65,7 +65,7 @@
     <string name="limiter_attack_time">Waktu attack</string>
     <string name="limiter_release_time">Waktu rilis</string>
     <string name="limiter_ratio">Rasio</string>
-    <string name="limiter_threshold">Ambang(Threshold)</string>
+    <string name="limiter_threshold">Ambang (Threshold)</string>
     <string name="limiter_post_gain">Gain akhir</string>
     <string name="channel_balance_title">Keseimbangan channel</string>
     <string name="channel_balance_left_gain">Channel gain kiri</string>
