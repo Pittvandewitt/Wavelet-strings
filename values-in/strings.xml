@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Belum ada sesi musik yang dimulai!\n
+        Jika kamu perlu bantuan, tekan menu 3 titik</string>
+    <string name="single_user_warning">Harap pasang aplikasi ini sebagai pengguna Admin/Sistem</string>
+    <string name="warning_library_null">Wavelet tidak dapat menyalakan efek %s</string>
+    <string name="warning_no_browser">Tidak dapat membuka tautan %s</string>
+    <string name="warning_billing_service">Error %d: Jasa pembayaran tidak ditemukan</string>
+    <string name="paid_feature">Buka semua fitur seharga %s</string>
+    <string name="unlock">Buka</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet on/off</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_legacy_mode">Mode Lama</string>
+    <string name="settings_dump_permission">DUMP permission</string>
+    <string name="settings_notification_access">Notification access</string>
+    <string name="settings_permission_granted">Permission granted</string>
+    <string name="settings_permission_denied">Permission denied</string>
+    <string name="menu_help">Bantuan</string>
+    <string name="settings_reduce_clipping">Kurangi clipping</string>
+    <string name="settings_buffer_size">Buffer size</string>
+    <string name="clipping_over_latency">Clipping diutamakan dibanding latensi</string>
+    <string name="latency_over_clipping">Latensi diutamakan dibanding clipping</string>
+    <string name="setting_enhanced_session_title">Enhanced session detection</string>
+    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Wavelet service</string>
+    <string name="service_description">Wavelet agar audiomu mantap</string>
+    <string name="service_notification_title">%s tersambung</string>
+    <string name="service_notification_text">Aplikasi menggunakan Wavelet: %s</string>
+    <string name="service_notification_text_default">Tekan untuk pilihan lebih</string>
+
+    <string name="device_unknown">Tidak diketahui</string>
+    <string name="device_headphone">Headphone</string>
+    <string name="device_headset">Headset</string>
+    <string name="device_speaker">Speaker</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Alat bantu dengar</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Reset</string>
+    <string name="category_equalization">Ekualisasi</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Model headphone</string>
+    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_import">Impor</string>
+    <string name="auto_eq_file_import_success">Berhasil mengimpor %s</string>
+    <string name="auto_eq_file_import_fail">Gagal mengimpor %s</string>
+    <string name="auto_eq_remove_item">Buang</string>
+    <string name="graphic_eq_title">Graphic equalizer</string>
+    <string name="graphic_eq_dialog_title">Tindih preset pribadi</string>
+    <string name="graphic_eq_presets">Preset</string>
+
+    <string name="category_effects">Efek</string>
+    <string name="bass_boost_title">Bass booster</string>
+    <string name="bass_boost_strength">Kekuatan bass boost</string>
+    <string name="preset_reverb_title">Gema</string>
+    <string name="preset_reverb_preset">Preset</string>
+    <string name="virtualizer_title">Virtualisasi</string>
+    <string name="virtualizer_strength">Kekuatan virtualisasi</string>
+    <string name="bass_tuner_title">Pengatur bass</string>
+    <string name="bass_tuner_type">Jenis bass</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
+    <string name="bass_tuner_cutoff_frequency">Frekuensi potong</string>
+    <string name="bass_tuner_post_gain">Gain akhir</string>
+
+    <string name="category_gain_control">Kontrol gain</string>
+    <string name="limiter_title">Pembatas (Limiter)</string>
+    <string name="limiter_attack_time">Waktu attack</string>
+    <string name="limiter_release_time">Waktu rilis</string>
+    <string name="limiter_ratio">Rasio</string>
+    <string name="limiter_threshold">Ambang (Threshold)</string>
+    <string name="limiter_post_gain">Gain akhir</string>
+    <string name="channel_balance_title">Keseimbangan channel</string>
+    <string name="channel_balance_left_gain">Channel gain kiri</string>
+    <string name="channel_balance_right_gain">Channel gain kanan</string>
+
+    <string name="graphic_eq_preset_flat">Datar/Flat</string>
+    <string name="graphic_eq_preset_dark">Gelap/Dark</string>
+    <string name="graphic_eq_preset_bright">Terang/Bright</string>
+    <string name="graphic_eq_preset_bass_boost">Penambahan bass</string>
+    <string name="graphic_eq_preset_bass_reduction">Pengurangan bass</string>
+    <string name="graphic_eq_preset_treble_boost">Penambahan treble</string>
+    <string name="graphic_eq_preset_treble_reduction">Pengurangan treble</string>
+    <string name="graphic_eq_preset_loudness">Perkeras</string>
+    <string name="graphic_eq_preset_vocal_boost">Penguatan vokal</string>
+    <string name="graphic_eq_preset_m_shaped">Bentuk M</string>
+    <string name="graphic_eq_preset_u_shaped">Bentuk U</string>
+    <string name="graphic_eq_preset_v_shaped">Bentuk V</string>
+    <string name="graphic_eq_preset_w_shaped">Bentuk W</string>
+    <string name="graphic_eq_preset_personal">Pribadi</string>
+
+    <string name="preset_reverb_small_room">Ruangan kecil</string>
+    <string name="preset_reverb_medium_room">Ruangan sedang</string>
+    <string name="preset_reverb_large_room">Ruangan besar</string>
+    <string name="preset_reverb_medium_hall">Aula sedang</string>
+    <string name="preset_reverb_large_hall">Aula besar</string>
+    <string name="preset_reverb_plate">Pelat(Plate)</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
+</resources>

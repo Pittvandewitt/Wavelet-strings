@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Er zijn nog geen muzieksessies gestart</string>
+    <string name="single_user_warning">Installeer deze app alsjeblieft als systeemgebruiker</string>
+    <string name="warning_library_null">Wavelet kon geen %s effecten instantiëren</string>
+    <string name="warning_no_browser">Kon de url %s niet openen</string>
+    <string name="warning_billing_service">Fout %d: Factureringsservice niet beschikbaar</string>
+    <string name="paid_feature">Ontgrendel all functies voor %s</string>
+    <string name="unlock">Ontgrendel</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet aan/uit</string>
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_legacy_mode">Legacy-modus</string>
+    <string name="settings_dump_permission">DUMP permissie</string>
+    <string name="settings_notification_access">Notificatietoegang</string>
+    <string name="settings_permission_granted">Permissie verleend</string>
+    <string name="settings_permission_denied">Permissie geweigerd</string>
+    <string name="menu_help">Ondersteuning</string>
+    <string name="settings_buffer_size">Buffergrootte</string>
+    <string name="settings_reduce_clipping">Clippen reduceren</string>
+    <string name="clipping_over_latency">Clippen is geprefereerd over latentie</string>
+    <string name="latency_over_clipping">Latentie is geprefereerd over clipping</string>
+    <string name="setting_enhanced_session_title">Verbeterde sessie detectie</string>
+    <string name="setting_enhanced_session_summary">Beide permissies zijn vereist</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Wavelet service</string>
+    <string name="service_description">Wavelet service voor een ongekende audioervaring</string>
+    <string name="service_notification_title">%s verbonden</string>
+    <string name="service_notification_text">Wavelet in gebruik door: %s</string>
+    <string name="service_notification_text_default">Druk voor meer opties</string>
+
+    <string name="device_unknown">Onbekend</string>
+    <string name="device_headphone">Hoofdtelefoon</string>
+    <string name="device_headset">Headset</string>
+    <string name="device_speaker">Luidspreker</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Hoorapparaat</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Herstel</string>
+    <string name="category_equalization">Equalisatie</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Hoofdtelefoonmodel</string>
+    <string name="auto_eq_strength">AutoEq sterkte</string>
+    <string name="auto_eq_import">Importeren</string>
+    <string name="auto_eq_file_import_success">%s succesvol geïmporteerd</string>
+    <string name="auto_eq_file_import_fail">Kon %s niet importeren</string>
+    <string name="auto_eq_remove_item">Item verwijderen</string>
+    <string name="graphic_eq_title">Grafische equalizer</string>
+    <string name="graphic_eq_dialog_title">Persoonlijke instelling overschrijven</string>
+    <string name="graphic_eq_presets">Voorinstellingen</string>
+
+    <string name="category_effects">Effecten</string>
+    <string name="bass_boost_title">Basversterker</string>
+    <string name="bass_boost_strength">Basversterkingssterkte</string>
+    <string name="preset_reverb_title">Weerkaatsing</string>
+    <string name="preset_reverb_preset">Voorinstelling</string>
+    <string name="virtualizer_title">Virtualisatie</string>
+    <string name="virtualizer_strength">Virtualisatiesterkte</string>
+    <string name="bass_tuner_title">Bas tuner</string>
+    <string name="bass_tuner_type">Bas type</string>
+    <string name="bass_tuner_type_natural">Natuurlijk</string>
+    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
+    <string name="bass_tuner_cutoff_frequency">Cutoff frequentie</string>
+    <string name="bass_tuner_post_gain">Post-gain</string>
+
+    <string name="category_gain_control">Geluidssterkteregeling</string>
+    <string name="limiter_title">Begrenzer</string>
+    <string name="limiter_attack_time">Attack-tijd</string>
+    <string name="limiter_release_time">Release-tijd</string>
+    <string name="limiter_ratio">Ratio</string>
+    <string name="limiter_threshold">Drempelwaarde</string>
+    <string name="limiter_post_gain">Post-gain</string>
+    <string name="channel_balance_title">Kanaalbalans</string>
+    <string name="channel_balance_left_gain">Kanaalsterkte links</string>
+    <string name="channel_balance_right_gain">Kanaalsterkte rechts</string>
+
+    <string name="graphic_eq_preset_flat">Vlak</string>
+    <string name="graphic_eq_preset_dark">Donker</string>
+    <string name="graphic_eq_preset_bright">Helder</string>
+    <string name="graphic_eq_preset_bass_boost">Basversterking</string>
+    <string name="graphic_eq_preset_bass_reduction">Basreductie</string>
+    <string name="graphic_eq_preset_treble_boost">Treble-versterking</string>
+    <string name="graphic_eq_preset_treble_reduction">Treble-reductie</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">Stemversterking</string>
+    <string name="graphic_eq_preset_m_shaped">M-vormig</string>
+    <string name="graphic_eq_preset_u_shaped">U-vormig</string>
+    <string name="graphic_eq_preset_v_shaped">V-vormig</string>
+    <string name="graphic_eq_preset_w_shaped">W-vormig</string>
+    <string name="graphic_eq_preset_personal">Persoonlijk</string>
+
+    <string name="preset_reverb_small_room">Kleine kamer</string>
+    <string name="preset_reverb_medium_room">Gemiddelde kamer</string>
+    <string name="preset_reverb_large_room">Grote kamer</string>
+    <string name="preset_reverb_medium_hall">Gemiddelde hal</string>
+    <string name="preset_reverb_large_hall">Grote hal</string>
+    <string name="preset_reverb_plate">Plaatgalm</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
+</resources>

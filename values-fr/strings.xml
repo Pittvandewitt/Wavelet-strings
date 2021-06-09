@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Aucune nouvelle session musicale n\'a encore commencé!\n
-        Si vous avez besoin d\'aide, veuillez appuyer sur le menu 3-points</string>
+    <string name="no_active_sessions">Aucune nouvelle session musicale n\'a encore commencé</string>
     <string name="single_user_warning">Veuillez installer cette application en tant qu\'utilisateur système</string>
     <string name="warning_library_null">Wavelet n\'a pas pu instancier les effets %s</string>
     <string name="warning_no_browser">Impossible d\'ouvrir l\'url %s</string>
@@ -10,18 +9,27 @@
     <string name="paid_feature">Déverrouillez toutes les fonctionnalités pour %s</string>
     <string name="unlock">Déverrouillé</string>
 
-    <!-- Menu -->
-    <string name="menu_legacy_mode">Mode Legacy</string>
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet on/off</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_legacy_mode">Ancien mode</string>
+    <string name="settings_dump_permission">DUMP permission</string>
+    <string name="settings_notification_access">Notification access</string>
+    <string name="settings_permission_granted">Permission granted</string>
+    <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">Aide</string>
-    <string name="menu_reduce_clipping">Réduire l\'écrêtage</string>
+    <string name="settings_reduce_clipping">Réduire l\'écrêtage</string>
+    <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">L\'écrêtage est préférable à la latence</string>
     <string name="latency_over_clipping">La latence est préférable à l\'écrêtage</string>
+    <string name="setting_enhanced_session_title">Enhanced session detection</string>
+    <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Service Wavelet</string>
     <string name="service_description">Service Wavelet pour améliorer votre expérience audio</string>
-    <string name="service_notification_title">%s connecté</string>
-    <string name="service_notification_text">Applications utilisant Wavelet: %s</string>
+    <string name="service_notification_title">%s -Connecté-</string>
+    <string name="service_notification_text">Applications utilisant Wavelet : %s</string>
     <string name="service_notification_text_default">Appuyez pour plus d\'options</string>
 
     <string name="device_unknown">Inconnu</string>
@@ -37,6 +45,7 @@
     <string name="category_equalization">Egalisation</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modèle de casque</string>
+    <string name="auto_eq_strength">Force de AutoEq</string>
     <string name="auto_eq_import">Importer</string>
     <string name="auto_eq_file_import_success">Importation %s réussie</string>
     <string name="auto_eq_file_import_fail">Echec de l\'importation %s</string>
@@ -97,4 +106,5 @@
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
 </resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Não há novas sessões de música iniciadas!</string>
+    <string name="single_user_warning">Por gentileza instale este aplicativo como um usuário de sistema</string>
+    <string name="warning_library_null">O Wavelet não foi capaz de instanciar o(s) efeito(s) %s</string>
+    <string name="warning_no_browser">Não foi possível abrir a URL %s</string>
+    <string name="warning_billing_service">Erro %d: O serviço de cobrança está indisponível</string>
+    <string name="paid_feature">Desbloqueie todos os recursos para %s</string>
+    <string name="unlock">Desbloqueio</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet on/off</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_legacy_mode">Modo legado</string>
+    <string name="settings_dump_permission">DUMP permission</string>
+    <string name="settings_notification_access">Notification access</string>
+    <string name="settings_permission_granted">Permission granted</string>
+    <string name="settings_permission_denied">Permission denied</string>
+    <string name="menu_help">Ajuda</string>
+    <string name="settings_reduce_clipping">Reduzir clipping</string>
+    <string name="settings_buffer_size">Buffer size</string>
+    <string name="clipping_over_latency">Clipagem será preferida sobre a latência</string>
+    <string name="latency_over_clipping">Latência será preferida sobre a clipagem</string>
+    <string name="setting_enhanced_session_title">Enhanced session detection</string>
+    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Serviço Wavelet</string>
+    <string name="service_description">Serviço wavelet para manter seu som sensacional</string>
+    <string name="service_notification_title">%s conectado</string>
+    <string name="service_notification_text">Aplicativos usando Wavelet: %s</string>
+    <string name="service_notification_text_default">Pressione para mais opções</string>
+
+    <string name="device_unknown">Desconhecido</string>
+    <string name="device_headphone">Fones de ouvido</string>
+    <string name="device_headset">Fones com microfone</string>
+    <string name="device_speaker">Auto-falante</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Aparelho auditivo</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Reset</string>
+    <string name="category_equalization">Equalização</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Modelo de fone de ouvido</string>
+    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_import">Importar</string>
+    <string name="auto_eq_file_import_success">Arquivo %s importado com sucesso</string>
+    <string name="auto_eq_file_import_fail">Arquivo %s falhou a importação</string>
+    <string name="auto_eq_remove_item">Remover item</string>
+    <string name="graphic_eq_title">Equalizador gráfico</string>
+    <string name="graphic_eq_dialog_title">Sobrescrever perfil pessoal</string>
+    <string name="graphic_eq_presets">Perfis</string>
+
+    <string name="category_effects">Efeitos</string>
+    <string name="bass_boost_title">Ganho de graves</string>
+    <string name="bass_boost_strength">Alcance do ganho de graves</string>
+    <string name="preset_reverb_title">Reverberação</string>
+    <string name="preset_reverb_preset">Perfil</string>
+    <string name="virtualizer_title">Virtualizador</string>
+    <string name="virtualizer_strength">Amplitude do virtualizador</string>
+    <string name="bass_tuner_title">Ajuste de graves</string>
+    <string name="bass_tuner_type">Tipo de graves</string>
+    <string name="bass_tuner_type_natural">Natural</string>
+    <string name="bass_tuner_type_transient_compressor">Compressor transiente</string>
+    <string name="bass_tuner_type_sustain_compressor">Compressor Sustain</string>
+    <string name="bass_tuner_cutoff_frequency">Frequência de corte</string>
+    <string name="bass_tuner_post_gain">Ganho de saída</string>
+
+    <string name="category_gain_control">Controle de ganho</string>
+    <string name="limiter_title">Limitador</string>
+    <string name="limiter_attack_time">Tempo de ataque</string>
+    <string name="limiter_release_time">Tempo de Release</string>
+    <string name="limiter_ratio">Razão</string>
+    <string name="limiter_threshold">Limiar</string>
+    <string name="limiter_post_gain">Ganho de saída</string>
+    <string name="channel_balance_title">Balanço</string>
+    <string name="channel_balance_left_gain">Ganho do canal esquerdo</string>
+    <string name="channel_balance_right_gain">Ganho do canal direito</string>
+
+    <string name="graphic_eq_preset_flat">Plano</string>
+    <string name="graphic_eq_preset_dark">Escuro</string>
+    <string name="graphic_eq_preset_bright">Vívido</string>
+    <string name="graphic_eq_preset_bass_boost">Reforço de graves</string>
+    <string name="graphic_eq_preset_bass_reduction">Redução de graves</string>
+    <string name="graphic_eq_preset_treble_boost">Reforço de agudos</string>
+    <string name="graphic_eq_preset_treble_reduction">Redução de agudos</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">Reforço vocal</string>
+    <string name="graphic_eq_preset_m_shaped">Curva em M</string>
+    <string name="graphic_eq_preset_u_shaped">Curva em U</string>
+    <string name="graphic_eq_preset_v_shaped">Curva em V</string>
+    <string name="graphic_eq_preset_w_shaped">Curva em W</string>
+    <string name="graphic_eq_preset_personal">Personalizado</string>
+
+    <string name="preset_reverb_small_room">Sala pequena</string>
+    <string name="preset_reverb_medium_room">Sala média</string>
+    <string name="preset_reverb_large_room">Sala grande</string>
+    <string name="preset_reverb_medium_hall">Teatro médio</string>
+    <string name="preset_reverb_large_hall">Teatro grande</string>
+    <string name="preset_reverb_plate">Plate</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
+</resources>

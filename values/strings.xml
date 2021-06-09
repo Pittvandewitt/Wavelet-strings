@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">No new music sessions have been started yet!\n
-        If you need help, please tap the 3-dots menu</string>
+    <string name="no_active_sessions">No new music sessions have been started yet</string>
     <string name="single_user_warning">Please install this app as system user</string>
     <string name="warning_library_null">Wavelet was unable to instantiate %s effects</string>
     <string name="warning_no_browser">Could not open url %s</string>
@@ -10,12 +9,21 @@
     <string name="paid_feature">Unlock all features for %s</string>
     <string name="unlock">Unlock</string>
 
-    <!-- Menu -->
-    <string name="menu_legacy_mode">Legacy mode</string>
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet on/off</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_legacy_mode">Legacy mode</string>
+    <string name="settings_dump_permission">DUMP permission</string>
+    <string name="settings_notification_access">Notification access</string>
+    <string name="settings_permission_granted">Permission granted</string>
+    <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">Help</string>
-    <string name="menu_reduce_clipping">Reduce clipping</string>
+    <string name="settings_reduce_clipping">Reduce clipping</string>
+    <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">Clipping is preferred over latency</string>
     <string name="latency_over_clipping">Latency is preferred over clipping</string>
+    <string name="setting_enhanced_session_title">Enhanced session detection</string>
+    <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Wavelet service</string>
@@ -37,6 +45,7 @@
     <string name="category_equalization">Equalization</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Headphone model</string>
+    <string name="auto_eq_strength">AutoEq strength</string>
     <string name="auto_eq_import">Import</string>
     <string name="auto_eq_file_import_success">Successfully imported %s</string>
     <string name="auto_eq_file_import_fail">Failed to import %s</string>
@@ -97,4 +106,5 @@
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
 </resources>

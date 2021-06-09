@@ -1,26 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Музыкальные сессии пока что не запущены.\n
-        Если вам необходима помощь, то нажмите на 3 точки.</string>
-    <string name="single_user_warning">Установите Wavelet как обычное приложение.</string>
-    <string name="warning_library_null">Wavelet не может создать экземпляр %s эффектов.</string>
+    <string name="no_active_sessions">Музыкальные сессии пока что не запущены</string>
+    <string name="single_user_warning">Установите Wavelet как обычное приложение</string>
+    <string name="warning_library_null">Wavelet не может создать экземпляр %s эффектов</string>
     <string name="warning_no_browser">Невозможно открыть ссылку %s</string>
-    <string name="warning_billing_service">Ошибка %d: Оплата недоступна.</string>
+    <string name="warning_billing_service">Ошибка %d: Оплата недоступна</string>
     <string name="paid_feature">Разблокировать все функции за %s</string>
     <string name="unlock">Разблокировать</string>
 
-    <!-- Menu -->
-    <string name="menu_legacy_mode">Legacy-режим</string>
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet on/off</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_legacy_mode">Legacy-режим</string>
+    <string name="settings_dump_permission">DUMP permission</string>
+    <string name="settings_notification_access">Notification access</string>
+    <string name="settings_permission_granted">Permission granted</string>
+    <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">Помощь</string>
-    <string name="menu_reduce_clipping">Уменьшение клиппинга</string>
+    <string name="settings_reduce_clipping">Уменьшение клиппинга</string>
+    <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">Клиппинг выше задержки</string>
     <string name="latency_over_clipping">Задержка выше клиппинга</string>
+    <string name="setting_enhanced_session_title">Enhanced session detection</string>
+    <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Wavelet</string>
-    <string name="service_description">Wavelet за сохранение звука!</string>
-    <string name="service_notification_title">%s connected</string>
+    <string name="service_description">Wavelet за сохранение звука</string>
+    <string name="service_notification_title">%s подключен</string>
     <string name="service_notification_text">Приложения, использующие Wavelet: %s</string>
     <string name="service_notification_text_default">Нажмите для большей настройки</string>
 
@@ -29,20 +37,21 @@
     <string name="device_headset">Наушники</string>
     <string name="device_speaker">Динамик</string>
     <string name="device_bluetooth">Bluetooth</string>
-    <string name="device_hearing_aid">Hearing aid</string>
+    <string name="device_hearing_aid">Слуховой аппарат</string>
     <string name="device_usb">USB</string>
 
     <!-- Preference strings -->
-    <string name="reset">Reset</string>
+    <string name="reset">Сброс</string>
     <string name="category_equalization">Эквализация</string>
     <string name="auto_eq_title">Автоматическая эквализация</string>
     <string name="auto_eq_dialog_title">Модель наушников</string>
+    <string name="auto_eq_strength">Сила</string>
     <string name="auto_eq_import">Импортировать</string>
-    <string name="auto_eq_file_import_success">%s успешно импортировано!</string>
-    <string name="auto_eq_file_import_fail">Ошибка при импортировании %s.</string>
+    <string name="auto_eq_file_import_success">Успешно импортировано %s</string>
+    <string name="auto_eq_file_import_fail">Ошибка при импортировании %s</string>
     <string name="auto_eq_remove_item">Сбросить</string>
     <string name="graphic_eq_title">Графический эквалайзер</string>
-    <string name="graphic_eq_dialog_title">Перезаписать </string>
+    <string name="graphic_eq_dialog_title">Перезаписать</string>
     <string name="graphic_eq_presets">Пресеты</string>
 
     <string name="category_effects">Эффекты</string>
@@ -52,21 +61,21 @@
     <string name="preset_reverb_preset">Пресет</string>
     <string name="virtualizer_title">Виртуализатор</string>
     <string name="virtualizer_strength">Сила</string>
-    <string name="bass_tuner_title">Басс-тюнер</string>
-    <string name="bass_tuner_type">Bass type</string>
-    <string name="bass_tuner_type_natural">Natural</string>
-    <string name="bass_tuner_type_transient_compressor">Transient compressor</string>
-    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
-    <string name="bass_tuner_cutoff_frequency">Cutoff frequency</string>
-    <string name="bass_tuner_post_gain">Громкость перегруженного канала</string>
+    <string name="bass_tuner_title">Басс тюнер</string>
+    <string name="bass_tuner_type">Алгоритм</string>
+    <string name="bass_tuner_type_natural">Натуральный</string>
+    <string name="bass_tuner_type_transient_compressor">Компрессор транзиент</string>
+    <string name="bass_tuner_type_sustain_compressor">Компрессор сустейн</string>
+    <string name="bass_tuner_cutoff_frequency">Частота</string>
+    <string name="bass_tuner_post_gain">Усиление</string>
 
     <string name="category_gain_control">Усилитель</string>
     <string name="limiter_title">Ограничитель</string>
     <string name="limiter_attack_time">Время атаки</string>
     <string name="limiter_release_time">Время релиза</string>
-    <string name="limiter_ratio">Ratio</string>
+    <string name="limiter_ratio">Соотношение</string>
     <string name="limiter_threshold">Порог</string>
-    <string name="limiter_post_gain">Громкость перегруженного канала</string>
+    <string name="limiter_post_gain">Усиление</string>
     <string name="channel_balance_title">Баланс каналов</string>
     <string name="channel_balance_left_gain">Левый</string>
     <string name="channel_balance_right_gain">Правый</string>
@@ -74,12 +83,12 @@
     <string name="graphic_eq_preset_flat">Плоский</string>
     <string name="graphic_eq_preset_dark">Темный</string>
     <string name="graphic_eq_preset_bright">Светлый</string>
-    <string name="graphic_eq_preset_bass_boost">Усиление басса</string>
-    <string name="graphic_eq_preset_bass_reduction">Снижение басса</string>
-    <string name="graphic_eq_preset_treble_boost">Усиление высоких частот</string>
-    <string name="graphic_eq_preset_treble_reduction">Снижение низких частот</string>
+    <string name="graphic_eq_preset_bass_boost">Усилить басс</string>
+    <string name="graphic_eq_preset_bass_reduction">Ослабить басс</string>
+    <string name="graphic_eq_preset_treble_boost">Усилить ВЧ</string>
+    <string name="graphic_eq_preset_treble_reduction">Ослабить НЧ</string>
     <string name="graphic_eq_preset_loudness">Усиление</string>
-    <string name="graphic_eq_preset_vocal_boost">Усиление вокала</string>
+    <string name="graphic_eq_preset_vocal_boost">Выровнить громкость</string>
     <string name="graphic_eq_preset_m_shaped">M-образный</string>
     <string name="graphic_eq_preset_u_shaped">U-образный</string>
     <string name="graphic_eq_preset_v_shaped">V-образный</string>
@@ -97,4 +106,5 @@
     <string name="unit_milliseconds">мс</string>
     <string name="unit_decibel">дБ</string>
     <string name="unit_hertz">Гц</string>
+    <string name="unit_samples">samples</string>
 </resources>

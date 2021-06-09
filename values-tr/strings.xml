@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Henüz yeni bir müzik oturumu başlatılmadı!\n
-      Yardıma ihtiyacınız varsa, lütfen 3 nokta menüsüne dokunun</string>
+    <string name="no_active_sessions">Henüz yeni bir müzik oturumu başlatılmadı</string>
     <string name="single_user_warning">Lütfen bu uygulamayı sistem kullanıcısı olarak yükleyin</string>
     <string name="warning_library_null">Wavelet %s efektlerini başlatamadı</string>
     <string name="warning_no_browser">%s URLsi açılamadı</string>
@@ -10,12 +9,21 @@
     <string name="paid_feature">Tüm özelliklerin kilidini %s ile açabilirsiniz</string>
     <string name="unlock">Kilidini aç</string>
 
-    <!-- Menu -->
-    <string name="menu_legacy_mode">Eski mod</string>
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet on/off</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_legacy_mode">Eski mod</string>
+    <string name="settings_dump_permission">DUMP permission</string>
+    <string name="settings_notification_access">Notification access</string>
+    <string name="settings_permission_granted">Permission granted</string>
+    <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">Yardım</string>
-    <string name="menu_reduce_clipping">Kırpmayı azalt</string>
+    <string name="settings_reduce_clipping">Kırpmayı azalt</string>
+    <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">Gecikme yerine kırpma tercih edilir</string>
     <string name="latency_over_clipping">Kırpmaya yerine gecikme tercih edilir</string>
+    <string name="setting_enhanced_session_title">Enhanced session detection</string>
+    <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Wavelet servisi</string>
@@ -37,6 +45,7 @@
     <string name="category_equalization">Dengeleyici</string>
     <string name="auto_eq_title">OtomatikEq</string>
     <string name="auto_eq_dialog_title">Kulaklık Modeli</string>
+    <string name="auto_eq_strength">AutoEq strength</string>
     <string name="auto_eq_import">İçe Aktar</string>
     <string name="auto_eq_file_import_success">%s Başarıyla içe aktarıldı</string>
     <string name="auto_eq_file_import_fail">%s içe aktarılamadı</string>
@@ -97,4 +106,5 @@
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
 </resources>
