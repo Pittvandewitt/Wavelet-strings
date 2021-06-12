@@ -32,20 +32,20 @@
     <string name="service_notification_text">Wavelet을 사용하는 앱: %s</string>
     <string name="service_notification_text_default">추가 옵션을 보려면 누르십시오</string>
 
-    <string name="device_unknown">알수없는 장치</string>
+    <string name="device_unknown">알 수 없는 장치</string>
     <string name="device_headphone">헤드폰</string>
     <string name="device_headset">헤드셋</string>
     <string name="device_speaker">스피커</string>
     <string name="device_bluetooth">Bluetooth</string>
-    <string name="device_hearing_aid">Hearing aid</string>
+    <string name="device_hearing_aid">보청기</string>
     <string name="device_usb">USB</string>
 
     <!-- Preference strings -->
-    <string name="reset">Reset</string>
+    <string name="reset">초기화</string>
     <string name="category_equalization">이퀄라이저</string>
     <string name="auto_eq_title">자동선택</string>
     <string name="auto_eq_dialog_title">기기 모델</string>
-    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_strength">AutoEq 강도</string>
     <string name="auto_eq_import">추가</string>
     <string name="auto_eq_file_import_success">성공적으로 추가됨 %s</string>
     <string name="auto_eq_file_import_fail">추가 실패 %s</string>
@@ -66,7 +66,7 @@
     <string name="bass_tuner_type_natural">내츄럴</string>
     <string name="bass_tuner_type_transient_compressor">트랜전트 컴프레서</string>
     <string name="bass_tuner_type_sustain_compressor">서스테인 컴프레서</string>
-    <string name="bass_tuner_cutoff_frequency">Cutoff frequency</string>
+    <string name="bass_tuner_cutoff_frequency">차단 프리퀀시</string>
     <string name="bass_tuner_post_gain">포스트 게인</string>
 
     <string name="category_gain_control">게인 컨트롤</string>
