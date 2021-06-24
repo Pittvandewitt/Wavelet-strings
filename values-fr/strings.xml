@@ -22,8 +22,8 @@
     <string name="settings_buffer_size">Taille de la mémoire tampon</string>
     <string name="clipping_over_latency">L\'écrêtage est préférable à la latence</string>
     <string name="latency_over_clipping">La latence est préférable à l\'écrêtage</string>
-    <string name="setting_enhanced_session_title">Amélioration de la détection de session</string>
-    <string name="setting_enhanced_session_summary">Les deux permissions sont requises</string>
+    <string name="setting_enhanced_session_title">Détection session améliorée</string>
+    <string name="setting_enhanced_session_summary">Les permissions sont requises</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Service Wavelet</string>
