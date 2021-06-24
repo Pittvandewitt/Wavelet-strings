@@ -45,7 +45,7 @@
     <string name="category_equalization">Égalisation</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modèle de casque</string>
-    <string name="auto_eq_strength">Intensité de l'AutoEq</string>
+    <string name="auto_eq_strength">Intensité de l\'AutoEq</string>
     <string name="auto_eq_import">Importer</string>
     <string name="auto_eq_file_import_success">Importation %s réussie</string>
     <string name="auto_eq_file_import_fail">Échec de l\'importation %s</string>
