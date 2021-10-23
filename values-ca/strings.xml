@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Encara no s\’han iniciat noves sessions musicals</string>
+    <string name="no_active_sessions">No s\'han iniciat noves sessions musicals</string>
     <string name="single_user_warning">Instal·leu aquesta aplicació com a usuari del sistema</string>
     <string name="warning_library_null">Wavelet no va poder instanciar %s efectes</string>
     <string name="warning_no_browser">No s\'ha pogut obrir l\'url %s</string>
@@ -27,7 +27,7 @@
 
     <!-- Foreground Service notification -->
     <string name="service_channel_id">Servei Wavelet</string>
-    <string name="service_description">Servei Wavelet per mantenir l\’àudio balancejat</string>
+    <string name="service_description">Servei Wavelet per mantenir l\'àudio balancejat</string>
     <string name="service_notification_title">%s connectats</string>
     <string name="service_notification_text">Apps que fan servir Wavelet: %s</string>
     <string name="service_notification_text_default">Toqueu per obtenir més opcions</string>
@@ -44,21 +44,21 @@
     <string name="reset">Restableix</string>
     <string name="category_equalization">Equalització</string>
     <string name="auto_eq_title">AutoEq</string>
-    <string name="auto_eq_dialog_title">Model d\’auriculars</string>
+    <string name="auto_eq_dialog_title">Model d\'auriculars</string>
     <string name="auto_eq_strength">Potència de AutoEq</string>
     <string name="auto_eq_import">Importar</string>
     <string name="auto_eq_file_import_success">S\'ha importat correctament %s</string>
     <string name="auto_eq_file_import_fail">No s\'ha pogut importar %s</string>
-    <string name="auto_eq_remove_item">Elimina l\’element</string>
+    <string name="auto_eq_remove_item">Elimina l\'element</string>
     <string name="graphic_eq_title">Equalitzador gràfic</string>
-    <string name="graphic_eq_dialog_title">Sobreescriu la configuració personal predeterminada</string>
-    <string name="graphic_eq_presets">Configuració predeterminada</string>
+    <string name="graphic_eq_dialog_title">Sobreescriu el preset personal</string>
+    <string name="graphic_eq_presets">Presets</string>
 
     <string name="category_effects">Efectes</string>
     <string name="bass_boost_title">Amplificador de baixos</string>
     <string name="bass_boost_strength">Fortalesa dels baixos</string>
     <string name="preset_reverb_title">Reverberació</string>
-    <string name="preset_reverb_preset">Configuració predeterminada</string>
+    <string name="preset_reverb_preset">Preset</string>
     <string name="virtualizer_title">Virtualitzador</string>
     <string name="virtualizer_strength">Fortalesa de la virtualització</string>
     <string name="bass_tuner_title">Ajustar els baixos</string>
@@ -72,7 +72,7 @@
     <string name="category_gain_control">Control de guany</string>
     <string name="limiter_title">Limitador</string>
     <string name="limiter_attack_time">Temps d\'atac</string>
-    <string name="limiter_release_time">Temps d'eixida</string>
+    <string name="limiter_release_time">Temps d\'eixida</string>
     <string name="limiter_ratio">Ràtio</string>
     <string name="limiter_threshold">Llindar</string>
     <string name="limiter_post_gain">Post-guany</string>
