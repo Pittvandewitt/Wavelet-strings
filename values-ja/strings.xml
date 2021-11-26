@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">まだ新しい音楽セッションが開始されていません</string>
+    <string name="single_user_warning">システムユーザーとしてこのアプリをインストールしてください</string>
+    <string name="warning_library_null">Wavelet は %s エフェクトをインスタンス化できませんでした</string>
+    <string name="warning_no_browser">URL %s を開くことができませんでした</string>
+    <string name="warning_billing_service">エラー %d: 課金サービスが利用できません</string>
+    <string name="paid_feature">%s のすべての機能をアンロックします</string>
+    <string name="unlock">アンロック</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet オン/オフ</string>
+    <string name="settings_title">設定</string>
+    <string name="settings_legacy_mode">レガシーモード</string>
+    <string name="settings_dump_permission">DUMP パーミッション</string>
+    <string name="settings_notification_access">通知へのアクセス</string>
+    <string name="settings_permission_granted">パーミッションが許可されています</string>
+    <string name="settings_permission_denied">パーミッションが拒否されました</string>
+    <string name="menu_help">Help</string>
+    <string name="settings_reduce_clipping">クリッピングの削減</string>
+    <string name="settings_buffer_size">バッファサイズ</string>
+    <string name="clipping_over_latency">レイテンシーよりもクリッピングが優先されます</string>
+    <string name="latency_over_clipping">クリッピングよりもレイテンシーが優先されます</string>
+    <string name="setting_enhanced_session_title">セッション検知の強化</string>
+    <string name="setting_enhanced_session_summary">両方のパーミッションが必要です</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Wavelet サービス</string>
+    <string name="service_description">あなたのオーディオ体験を向上させるWaveletサービス</string>
+    <string name="service_notification_title">%s が接続されています</string>
+    <string name="service_notification_text">Waveletを使用しているアプリ: %s</string>
+    <string name="service_notification_text_default">タップするとより多くのオプションが表示されます</string>
+
+    <string name="device_unknown">不明</string>
+    <string name="device_headphone">ヘッドホン</string>
+    <string name="device_headset">ヘッドセット</string>
+    <string name="device_speaker">スピーカー</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">補聴器</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">リセット</string>
+    <string name="category_equalization">イコライゼーション</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">ヘッドホンモデル</string>
+    <string name="auto_eq_strength">AutoEqの強さ</string>
+    <string name="auto_eq_import">インポート</string>
+    <string name="auto_eq_file_import_success">%s のインポートに成功しました</string>
+    <string name="auto_eq_file_import_fail">%sのインポートに失敗しました</string>
+    <string name="auto_eq_remove_item">項目を削除</string>
+    <string name="graphic_eq_title">グラフィック・イコライザー</string>
+    <string name="graphic_eq_dialog_title">個人用プリセットの上書き</string>
+    <string name="graphic_eq_presets">プリセット</string>
+
+    <string name="category_effects">エフェクト</string>
+    <string name="bass_boost_title">低音ブースト</string>
+    <string name="bass_boost_strength">低音ブーストの強さ</string>
+    <string name="preset_reverb_title">リバーブ</string>
+    <string name="preset_reverb_preset">プリセット</string>
+    <string name="virtualizer_title">バーチャライザー</string>
+    <string name="virtualizer_strength">バーチャライザーの強さ</string>
+    <string name="bass_tuner_title">低音チューナー</string>
+    <string name="bass_tuner_type">低音のタイプ</string>
+    <string name="bass_tuner_type_natural">ナチュラル</string>
+    <string name="bass_tuner_type_transient_compressor">トランジェント・コンプレッサー</string>
+    <string name="bass_tuner_type_sustain_compressor">サスティン・コンプレッサー</string>
+    <string name="bass_tuner_cutoff_frequency">カットオフ周波数</string>
+    <string name="bass_tuner_post_gain">ポストゲイン</string>
+
+    <string name="category_gain_control">ゲイン・コントロール</string>
+    <string name="limiter_title">リミッター</string>
+    <string name="limiter_attack_time">アタックタイム</string>
+    <string name="limiter_release_time">リリースタイム</string>
+    <string name="limiter_ratio">割合</string>
+    <string name="limiter_threshold">しきい値</string>
+    <string name="limiter_post_gain">ポストゲイン</string>
+    <string name="channel_balance_title">チャンネルバランス</string>
+    <string name="channel_balance_left_gain">左チャンネルのゲイン</string>
+    <string name="channel_balance_right_gain">右チャンネルのゲイン</string>
+
+    <string name="graphic_eq_preset_flat">Flat</string>
+    <string name="graphic_eq_preset_dark">Dark</string>
+    <string name="graphic_eq_preset_bright">Bright</string>
+    <string name="graphic_eq_preset_bass_boost">Bass boost</string>
+    <string name="graphic_eq_preset_bass_reduction">Bass reduction</string>
+    <string name="graphic_eq_preset_treble_boost">Treble boost</string>
+    <string name="graphic_eq_preset_treble_reduction">Treble reduction</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">ボーカルブースト</string>
+    <string name="graphic_eq_preset_m_shaped">M-shaped</string>
+    <string name="graphic_eq_preset_u_shaped">U-shaped</string>
+    <string name="graphic_eq_preset_v_shaped">V-shaped</string>
+    <string name="graphic_eq_preset_w_shaped">W-shaped</string>
+    <string name="graphic_eq_preset_personal">個人用</string>
+
+    <string name="preset_reverb_small_room">小部屋</string>
+    <string name="preset_reverb_medium_room">中部屋</string>
+    <string name="preset_reverb_large_room">大部屋</string>
+    <string name="preset_reverb_medium_hall">中規模ホール</string>
+    <string name="preset_reverb_large_hall">大規模ホール</string>
+    <string name="preset_reverb_plate">Plate</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
+</resources>
