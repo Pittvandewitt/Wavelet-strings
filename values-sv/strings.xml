@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Ingen musik har startats ännu</string>
+    <string name="single_user_warning">Vänligen installera appen som systemanvändare</string>
+    <string name="warning_library_null">Wavelet kunde inte verkställa %s effekter</string>
+    <string name="warning_no_browser">Kunde inte öppna URL:en %s</string>
+    <string name="warning_billing_service">Fel %d: Betaltjänst otillgänglig</string>
+    <string name="paid_feature">Lås upp alla funktioner för %s</string>
+    <string name="unlock">Lås upp</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet på/av</string>
+    <string name="settings_title">Inställningar</string>
+    <string name="settings_legacy_mode">Kompatibilitetsläge</string>
+    <string name="settings_dump_permission">DUMP-tillstånd</string>
+    <string name="settings_notification_access">Aviseringsåtkomst</string>
+    <string name="settings_permission_granted">Tillstånd beviljat</string>
+    <string name="settings_permission_denied">Tillstånd nekat</string>
+    <string name="menu_help">Hjälp</string>
+    <string name="settings_reduce_clipping">Reducera clipping</string>
+    <string name="settings_buffer_size">Bufferstorlek</string>
+    <string name="clipping_over_latency">Clipping föredras framför latens</string>
+    <string name="latency_over_clipping">Latens föredras framför clipping</string>
+    <string name="setting_enhanced_session_title">Förbättrad sessionsdetektering</string>
+    <string name="setting_enhanced_session_summary">Båda behörigheterna krävs</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_id">Wavelet-tjänst</string>
+    <string name="service_description">Wavelet-tjänst som håller ljudet igång</string>
+    <string name="service_notification_title">%s ansluten</string>
+    <string name="service_notification_text">Appar som använder Wavelet: %s</string>
+    <string name="service_notification_text_default">Tryck för fler alternativ</string>
+
+    <string name="device_unknown">Okänd</string>
+    <string name="device_headphone">Hörlurar</string>
+    <string name="device_headset">Headset</string>
+    <string name="device_speaker">Högtalare</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Hörapparat</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Återställ</string>
+    <string name="category_equalization">EQ</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Hörlursmodel</string>
+    <string name="auto_eq_strength">AutoEq-styrka</string>
+    <string name="auto_eq_import">Importera</string>
+    <string name="auto_eq_file_import_success">%s har importerats</string>
+    <string name="auto_eq_file_import_fail">Det gick inte att importera %s</string>
+    <string name="auto_eq_remove_item">Radera</string>
+    <string name="graphic_eq_title">Grafisk EQ</string>
+    <string name="graphic_eq_dialog_title">Ersätt personlig inställning</string>
+    <string name="graphic_eq_presets">Inställningar</string>
+
+    <string name="category_effects">Effekter</string>
+    <string name="bass_boost_title">Basförstärkning</string>
+    <string name="bass_boost_strength">Styrka på basförstärkning</string>
+    <string name="preset_reverb_title">Reverb</string>
+    <string name="preset_reverb_preset">Inställning</string>
+    <string name="virtualizer_title">Virtualisering</string>
+    <string name="virtualizer_strength">Styrka på virtualisering</string>
+    <string name="bass_tuner_title">Bas-tuner</string>
+    <string name="bass_tuner_type">Bastyp</string>
+    <string name="bass_tuner_type_natural">Naturlig</string>
+    <string name="bass_tuner_type_transient_compressor">Transient-kompressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain-kompressor</string>
+    <string name="bass_tuner_cutoff_frequency">Cutoff-frekvens</string>
+    <string name="bass_tuner_post_gain">Post-gain</string>
+
+    <string name="category_gain_control">Gain</string>
+    <string name="limiter_title">Limiter</string>
+    <string name="limiter_attack_time">Attack</string>
+    <string name="limiter_release_time">Release</string>
+    <string name="limiter_ratio">Ratio</string>
+    <string name="limiter_threshold">Threshold-nivå</string>
+    <string name="limiter_post_gain">Post-gain</string>
+    <string name="channel_balance_title">Kanalbalans</string>
+    <string name="channel_balance_left_gain">Nivå vänster</string>
+    <string name="channel_balance_right_gain">Nivå höger</string>
+
+    <string name="graphic_eq_preset_flat">Flat</string>
+    <string name="graphic_eq_preset_dark">Mörk</string>
+    <string name="graphic_eq_preset_bright">Ljus</string>
+    <string name="graphic_eq_preset_bass_boost">Basförstärkning</string>
+    <string name="graphic_eq_preset_bass_reduction">Basreducering</string>
+    <string name="graphic_eq_preset_treble_boost">Diskantförstärkning</string>
+    <string name="graphic_eq_preset_treble_reduction">Diskantreducering</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">Vokalförstärkning</string>
+    <string name="graphic_eq_preset_m_shaped">M-formad</string>
+    <string name="graphic_eq_preset_u_shaped">U-formad</string>
+    <string name="graphic_eq_preset_v_shaped">V-formad</string>
+    <string name="graphic_eq_preset_w_shaped">W-formad</string>
+    <string name="graphic_eq_preset_personal">Personlig</string>
+
+    <string name="preset_reverb_small_room">Litet rum</string>
+    <string name="preset_reverb_medium_room">Mellanstort rum</string>
+    <string name="preset_reverb_large_room">Stort rum</string>
+    <string name="preset_reverb_medium_hall">Mellanstor sal</string>
+    <string name="preset_reverb_large_hall">Stor sal</string>
+    <string name="preset_reverb_plate">Plate-reverb</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samples</string>
+</resources>
