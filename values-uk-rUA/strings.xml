@@ -18,7 +18,6 @@
     <string name="settings_permission_granted">Permission granted</string>
     <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">Допомога</string>
-    <string name="settings_reduce_clipping">Зменшення кліппінга</string>
     <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">Кліппінг вище затримки</string>
     <string name="latency_over_clipping">Затримка вище кліппінга</string>
@@ -26,10 +25,9 @@
     <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Wavelet</string>
+    <string name="service_channel_name">Wavelet</string>
     <string name="service_description">Wavelet за збереження звуку!</string>
-    <string name="service_notification_title">%s connected</string>
-    <string name="service_notification_text">Програми, які користуються Wavelet: %s</string>
+    <string name="service_notification_text">Програми, які користуються Wavelet:</string>
     <string name="service_notification_text_default">Натисните для більшої настройки</string>
 
     <string name="device_unknown">Невідомий пристрій</string>

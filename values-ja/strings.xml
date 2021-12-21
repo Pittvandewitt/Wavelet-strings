@@ -18,7 +18,6 @@
     <string name="settings_permission_granted">パーミッションが許可されています</string>
     <string name="settings_permission_denied">パーミッションが拒否されました</string>
     <string name="menu_help">Help</string>
-    <string name="settings_reduce_clipping">クリッピングの削減</string>
     <string name="settings_buffer_size">バッファサイズ</string>
     <string name="clipping_over_latency">レイテンシーよりもクリッピングが優先されます</string>
     <string name="latency_over_clipping">クリッピングよりもレイテンシーが優先されます</string>
@@ -26,10 +25,9 @@
     <string name="setting_enhanced_session_summary">両方のパーミッションが必要です</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Wavelet サービス</string>
+    <string name="service_channel_name">Wavelet サービス</string>
     <string name="service_description">あなたのオーディオ体験を向上させるWaveletサービス</string>
-    <string name="service_notification_title">%s が接続されています</string>
-    <string name="service_notification_text">Waveletを使用しているアプリ: %s</string>
+    <string name="service_notification_text">Waveletを使用しているアプリ:</string>
     <string name="service_notification_text_default">タップするとより多くのオプションが表示されます</string>
 
     <string name="device_unknown">不明</string>

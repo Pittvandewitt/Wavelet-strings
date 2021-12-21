@@ -18,7 +18,6 @@
     <string name="settings_permission_granted">Permission granted</string>
     <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">Ajuda</string>
-    <string name="settings_reduce_clipping">Reduzir clipping</string>
     <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">Clipagem será preferida sobre a latência</string>
     <string name="latency_over_clipping">Latência será preferida sobre a clipagem</string>
@@ -26,10 +25,9 @@
     <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Serviço Wavelet</string>
+    <string name="service_channel_name">Serviço Wavelet</string>
     <string name="service_description">Serviço wavelet para manter seu som sensacional</string>
-    <string name="service_notification_title">%s conectado</string>
-    <string name="service_notification_text">Aplicativos usando Wavelet: %s</string>
+    <string name="service_notification_text">Aplicativos usando Wavelet:</string>
     <string name="service_notification_text_default">Pressione para mais opções</string>
 
     <string name="device_unknown">Desconhecido</string>

@@ -18,7 +18,6 @@
     <string name="settings_permission_granted">Permís concedit</string>
     <string name="settings_permission_denied">Permís denegat</string>
     <string name="menu_help">Ajuda</string>
-    <string name="settings_reduce_clipping">Reduir el retall</string>
     <string name="settings_buffer_size">Mida del buffer</string>
     <string name="clipping_over_latency">Es prefereix retall sobre latència</string>
     <string name="latency_over_clipping">Es prefereix latència sobre retall</string>
@@ -26,10 +25,9 @@
     <string name="setting_enhanced_session_summary">Es requereixen tots dos permisos</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Servei Wavelet</string>
+    <string name="service_channel_name">Servei Wavelet</string>
     <string name="service_description">Servei Wavelet per mantenir l\'àudio balancejat</string>
-    <string name="service_notification_title">%s connectats</string>
-    <string name="service_notification_text">Apps que fan servir Wavelet: %s</string>
+    <string name="service_notification_text">Apps que fan servir Wavelet:</string>
     <string name="service_notification_text_default">Toqueu per obtenir més opcions</string>
 
     <string name="device_unknown">Desconegut</string>

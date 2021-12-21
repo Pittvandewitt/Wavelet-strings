@@ -18,7 +18,6 @@
     <string name="settings_permission_granted">Permission granted</string>
     <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">مساعدة</string>
-    <string name="settings_reduce_clipping">تقليل التقطّع</string>
     <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">التقطّع مفضّل على الاستجابة</string>
     <string name="latency_over_clipping">الاستجابة مفضّلة على التقطّع</string>
@@ -26,10 +25,9 @@
     <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">خدمة ويفليت</string>
+    <string name="service_channel_name">خدمة ويفليت</string>
     <string name="service_description">خدمة ويفليت للاحتفاظ على أحسن صوت</string>
-    <string name="service_notification_title">متّصَل %s</string>
-    <string name="service_notification_text">التطبيقات التي تستعمل ويفليت: %s</string>
+    <string name="service_notification_text">التطبيقات التي تستعمل ويفليت:</string>
     <string name="service_notification_text_default">اضغط للمزيد من الخيارات</string>
 
     <string name="device_unknown">غير معروف</string>
