@@ -3,7 +3,7 @@
     <string name="app_name">Wavelet</string>
     <string name="no_active_sessions">Nessuna sessione musicale è partita</string>
     <string name="single_user_warning">Per favore installa quest\'app come utente di sistema</string>
-    <string name="warning_library_null">Wavelet non è riuscito ad istanziare %s effetti</string>
+    <string name="warning_library_null">Wavelet non è riuscito ad avviare gli effetti %</string>
     <string name="warning_no_browser">Impossibile aprire url %s</string>
     <string name="warning_billing_service">Errore %d: servizio di fatturazione non disponibile</string>
     <string name="paid_feature">Sblocca tutte le funzioni per %s</string>
