@@ -87,10 +87,10 @@
     <string name="graphic_eq_preset_treble_reduction">Alti ridotti</string>
     <string name="graphic_eq_preset_loudness">Loudness</string>
     <string name="graphic_eq_preset_vocal_boost">Vocali incrementati</string>
-    <string name="graphic_eq_preset_m_shaped">A forma a M</string>
-    <string name="graphic_eq_preset_u_shaped">A forma di U</string>
-    <string name="graphic_eq_preset_v_shaped">A forma di V</string>
-    <string name="graphic_eq_preset_w_shaped">A forma di W</string>
+    <string name="graphic_eq_preset_m_shaped">M-forma</string>
+    <string name="graphic_eq_preset_u_shaped">U-forma</string>
+    <string name="graphic_eq_preset_v_shaped">V-forma</string>
+    <string name="graphic_eq_preset_w_shaped">W-forma</string>
     <string name="graphic_eq_preset_personal">Personalizzato</string>
 
     <string name="preset_reverb_small_room">Stanza piccola</string>
