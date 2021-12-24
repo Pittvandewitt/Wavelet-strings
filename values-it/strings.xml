@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Wavelet</string>
     <string name="no_active_sessions">Nessuna sessione musicale è partita</string>
-    <string name="single_user_warning">Perfavore installa quest\'app come utente di sistema</string>
+    <string name="single_user_warning">Per favore installa quest\'app come utente di sistema</string>
     <string name="warning_library_null">Wavelet non è riuscito ad istanziare %s effetti</string>
     <string name="warning_no_browser">Impossibile aprire url %s</string>
     <string name="warning_billing_service">Errore %d: servizio di fatturazione non disponibile</string>
@@ -11,26 +11,24 @@
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
-    <string name="settings_title">Settings</string>
+    <string name="settings_title">Impostazioni</string>
     <string name="settings_legacy_mode">Modalità Legacy</string>
-    <string name="settings_dump_permission">DUMP permission</string>
-    <string name="settings_notification_access">Notification access</string>
-    <string name="settings_permission_granted">Permission granted</string>
-    <string name="settings_permission_denied">Permission denied</string>
+    <string name="settings_dump_permission">Permesso DUMP permission</string>
+    <string name="settings_notification_access">Accesso alle notifiche</string>
+    <string name="settings_permission_granted">Autorizzazione concessa</string>
+    <string name="settings_permission_denied">Autorizzazione negata</string>
     <string name="menu_help">Aiuto</string>
-    <string name="settings_reduce_clipping">Riduci clipping</string>
-    <string name="settings_buffer_size">Buffer size</string>
+    <string name="settings_buffer_size">Dimensioni Buffer</string>
     <string name="clipping_over_latency">Clipping preferito alla latenza</string>
     <string name="latency_over_clipping">Latenza preferita al clipping</string>
-    <string name="setting_enhanced_session_title">Enhanced session detection</string>
-    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+    <string name="setting_enhanced_session_title">Rilevamento ottimizzato sessione</string>
+    <string name="setting_enhanced_session_summary">Sono necessarie entrambe le autorizzazioni</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Servizio di Wavelet</string>
-    <string name="service_description">Servizio di Wavelet per tenere l\'audio migliorato</string>
-    <string name="service_notification_title">%s connesso</string>
-    <string name="service_notification_text">App che usano Wavelet: %s</string>
-    <string name="service_notification_text_default">Clicca per più opzioni</string>
+    <string name="service_channel_name">Servizio di Wavelet</string>
+    <string name="service_description">Servizio di Wavelet per una fantastica esperienza audio</string>
+    <string name="service_notification_text">App che usano Wavelet:</string>
+    <string name="service_notification_text_default">Tocca per più opzioni</string>
 
     <string name="device_unknown">Sconosciuto</string>
     <string name="device_headphone">Cuffie</string>

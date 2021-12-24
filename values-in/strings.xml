@@ -19,7 +19,6 @@
     <string name="settings_permission_granted">Permission granted</string>
     <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">Bantuan</string>
-    <string name="settings_reduce_clipping">Kurangi clipping</string>
     <string name="settings_buffer_size">Buffer size</string>
     <string name="clipping_over_latency">Clipping diutamakan dibanding latensi</string>
     <string name="latency_over_clipping">Latensi diutamakan dibanding clipping</string>
@@ -27,10 +26,9 @@
     <string name="setting_enhanced_session_summary">Both permissions are required</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Wavelet service</string>
+    <string name="service_channel_name">Wavelet service</string>
     <string name="service_description">Wavelet agar audiomu mantap</string>
-    <string name="service_notification_title">%s tersambung</string>
-    <string name="service_notification_text">Aplikasi menggunakan Wavelet: %s</string>
+    <string name="service_notification_text">Aplikasi menggunakan Wavelet:</string>
     <string name="service_notification_text_default">Tekan untuk pilihan lebih</string>
 
     <string name="device_unknown">Tidak diketahui</string>

@@ -19,17 +19,15 @@
     <string name="settings_permission_denied">Permissie geweigerd</string>
     <string name="menu_help">Ondersteuning</string>
     <string name="settings_buffer_size">Buffergrootte</string>
-    <string name="settings_reduce_clipping">Clippen reduceren</string>
     <string name="clipping_over_latency">Clippen is geprefereerd over latentie</string>
     <string name="latency_over_clipping">Latentie is geprefereerd over clipping</string>
     <string name="setting_enhanced_session_title">Verbeterde sessie detectie</string>
     <string name="setting_enhanced_session_summary">Beide permissies zijn vereist</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Wavelet service</string>
+    <string name="service_channel_name">Wavelet service</string>
     <string name="service_description">Wavelet service voor een ongekende audioervaring</string>
-    <string name="service_notification_title">%s verbonden</string>
-    <string name="service_notification_text">Wavelet in gebruik door: %s</string>
+    <string name="service_notification_text">Wavelet in gebruik door:</string>
     <string name="service_notification_text_default">Druk voor meer opties</string>
 
     <string name="device_unknown">Onbekend</string>

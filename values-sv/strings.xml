@@ -18,7 +18,6 @@
     <string name="settings_permission_granted">Tillstånd beviljat</string>
     <string name="settings_permission_denied">Tillstånd nekat</string>
     <string name="menu_help">Hjälp</string>
-    <string name="settings_reduce_clipping">Reducera clipping</string>
     <string name="settings_buffer_size">Bufferstorlek</string>
     <string name="clipping_over_latency">Clipping föredras framför latens</string>
     <string name="latency_over_clipping">Latens föredras framför clipping</string>
@@ -26,10 +25,9 @@
     <string name="setting_enhanced_session_summary">Båda behörigheterna krävs</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_id">Wavelet-tjänst</string>
+    <string name="service_channel_name">Wavelet-tjänst</string>
     <string name="service_description">Wavelet-tjänst som håller ljudet igång</string>
-    <string name="service_notification_title">%s ansluten</string>
-    <string name="service_notification_text">Appar som använder Wavelet: %s</string>
+    <string name="service_notification_text">Appar som använder Wavelet:</string>
     <string name="service_notification_text_default">Tryck för fler alternativ</string>
 
     <string name="device_unknown">Okänd</string>
