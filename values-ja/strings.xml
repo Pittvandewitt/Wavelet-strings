@@ -8,6 +8,12 @@
     <string name="warning_billing_service">エラー %d: 課金サービスが利用できません</string>
     <string name="paid_feature">%s のすべての機能をアンロックします</string>
     <string name="unlock">アンロック</string>
+	
+    <string name="purchase_dialog_title">体験のアップグレード</string>
+    <string name="purchase_dialog_text">あなたのオーディオ体験は、%sでもっと良くなる</string>
+    <string name="purchase_dialog_refund">Google Playでは、すべての機能をお試しいただけるよう、<annotation url="refund">購入から48時間以内</annotation>であれば払い戻しが可能です</string>
+    <string name="purchase_dialog_positive">購入する</string>
+    <string name="purchase_dialog_negative">また後で</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet オン/オフ</string>
@@ -45,7 +51,7 @@
     <string name="auto_eq_dialog_title">ヘッドホンモデル</string>
     <string name="auto_eq_strength">AutoEqの強さ</string>
     <string name="auto_eq_import">インポート</string>
-    <string name="auto_eq_file_import_success">%s のインポートに成功しました</string>
+    <string name="auto_eq_file_import_success">%sのインポートに成功しました</string>
     <string name="auto_eq_file_import_fail">%sのインポートに失敗しました</string>
     <string name="auto_eq_remove_item">項目を削除</string>
     <string name="graphic_eq_title">グラフィック・イコライザー</string>
@@ -78,19 +84,19 @@
     <string name="channel_balance_left_gain">左チャンネルのゲイン</string>
     <string name="channel_balance_right_gain">右チャンネルのゲイン</string>
 
-    <string name="graphic_eq_preset_flat">Flat</string>
-    <string name="graphic_eq_preset_dark">Dark</string>
-    <string name="graphic_eq_preset_bright">Bright</string>
-    <string name="graphic_eq_preset_bass_boost">Bass boost</string>
-    <string name="graphic_eq_preset_bass_reduction">Bass reduction</string>
-    <string name="graphic_eq_preset_treble_boost">Treble boost</string>
-    <string name="graphic_eq_preset_treble_reduction">Treble reduction</string>
-    <string name="graphic_eq_preset_loudness">Loudness</string>
-    <string name="graphic_eq_preset_vocal_boost">ボーカルブースト</string>
-    <string name="graphic_eq_preset_m_shaped">M-shaped</string>
-    <string name="graphic_eq_preset_u_shaped">U-shaped</string>
-    <string name="graphic_eq_preset_v_shaped">V-shaped</string>
-    <string name="graphic_eq_preset_w_shaped">W-shaped</string>
+    <string name="graphic_eq_preset_flat">フラット</string>
+    <string name="graphic_eq_preset_dark">ダーク</string>
+    <string name="graphic_eq_preset_bright">ブライト</string>
+    <string name="graphic_eq_preset_bass_boost">低域の強調</string>
+    <string name="graphic_eq_preset_bass_reduction">低域の減少</string>
+    <string name="graphic_eq_preset_treble_boost">高域の強調</string>
+    <string name="graphic_eq_preset_treble_reduction">高域の減少</string>
+    <string name="graphic_eq_preset_loudness">ラウドネス</string>
+    <string name="graphic_eq_preset_vocal_boost">ボーカルの強調</string>
+    <string name="graphic_eq_preset_m_shaped">M-シャープ</string>
+    <string name="graphic_eq_preset_u_shaped">U-シャープ</string>
+    <string name="graphic_eq_preset_v_shaped">V-シャープ</string>
+    <string name="graphic_eq_preset_w_shaped">W-シャープ</string>
     <string name="graphic_eq_preset_personal">個人用</string>
 
     <string name="preset_reverb_small_room">小部屋</string>
@@ -98,7 +104,7 @@
     <string name="preset_reverb_large_room">大部屋</string>
     <string name="preset_reverb_medium_hall">中規模ホール</string>
     <string name="preset_reverb_large_hall">大規模ホール</string>
-    <string name="preset_reverb_plate">Plate</string>
+    <string name="preset_reverb_plate">プレート</string>
 
     <!-- Units -->
     <string name="unit_milliseconds">ms</string>
