@@ -33,7 +33,7 @@
     <string name="device_unknown">未知</string>
     <string name="device_headphone">耳机</string>
     <string name="device_headset">头戴式耳机</string>
-    <string name="device_speaker">音箱</string>
+    <string name="device_speaker">扬声器</string>
     <string name="device_bluetooth">蓝牙</string>
     <string name="device_hearing_aid">助听器</string>
     <string name="device_usb">USB</string>
