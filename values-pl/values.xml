@@ -110,5 +110,5 @@
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
-    <string name="unit_samples">samples</string>
+    <string name="unit_samples">próbki</string>
 </resources>
