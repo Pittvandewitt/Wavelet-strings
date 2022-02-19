@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Zatím nebyly zahájeny žádné nové hudební relace</string>
+    <string name="single_user_warning">Nainstalujte tuto aplikaci jako uživatel systému</string>
+    <string name="warning_library_null">Waveletu se nepodařilo nainstalovat %s efektů</string>
+    <string name="warning_no_browser">Nelze otevřít adresu url %s</string>
+    <string name="warning_billing_service">Error %d: Fakturační služba není k dispozici</string>
+    <string name="paid_feature">Odemknout všechny funkce pro %s</string>
+    <string name="unlock">Odemknout</string>
+
+    <string name="purchase_dialog_title">Vylepšete své zážitky</string>
+    <string name="purchase_dialog_text">Váš zvukový zážitek by mohl být ještě lepší za %s</string>
+    <string name="purchase_dialog_refund">Google Play zajišťuje <annotation url="refund">48hodinovou záruku vrácení peněz</annotation> abyste mohli vyzkoušet všechny funkce</string>
+    <string name="purchase_dialog_positive">Koupit nyní</string>
+    <string name="purchase_dialog_negative">Později</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet vyp/zap</string>
+    <string name="settings_title">Nastavení</string>
+    <string name="settings_legacy_mode">Kompatibilní režim</string>
+    <string name="settings_dump_permission">Povolení DUMP</string>
+    <string name="settings_notification_access">Přístup k oznámení</string>
+    <string name="settings_permission_granted">Povolení uděleno</string>
+    <string name="settings_permission_denied">Povolení neuděleno</string>
+    <string name="menu_help">Pomoc</string>
+    <string name="settings_buffer_size">Vyrovnávací paměť</string>
+    <string name="clipping_over_latency">Ořezání je důležitější než zpoždění</string>
+    <string name="latency_over_clipping">Zpoždění je důležitější než oříznutí</string>
+    <string name="setting_enhanced_session_title">Rozšířená detekce relací</string>
+    <string name="setting_enhanced_session_summary">Vyžadují se obě oprávnění</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_name">Služba Wavelet</string>
+    <string name="service_description">Služba Wavelet, která udržuje zvuk v pohybu</string>
+    <string name="service_notification_text">Aplikace používající Wavelet:</string>
+    <string name="service_notification_text_default">Klepněte na pro více možností</string>
+
+    <string name="device_unknown">Neznámý</string>
+    <string name="device_headphone">Sluchátka</string>
+    <string name="device_headset">Handsfree</string>
+    <string name="device_speaker">Reproduktor</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Naslouchátko</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Reset</string>
+    <string name="category_equalization">Equalizér</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Model sluchátek</string>
+    <string name="auto_eq_strength">Intenzita AutoEq</string>
+    <string name="auto_eq_import">Importovat</string>
+    <string name="auto_eq_file_import_success">Úspěšně importováno %s</string>
+    <string name="auto_eq_file_import_fail">Selhal Import %s</string>
+    <string name="auto_eq_remove_item">Odstranit položku</string>
+    <string name="graphic_eq_title">Grafický equalizér</string>
+    <string name="graphic_eq_dialog_title">Přepsat vlatní předvolbu</string>
+    <string name="graphic_eq_presets">Předvolby</string>
+
+    <string name="category_effects">Efekty</string>
+    <string name="bass_boost_title">Zesílení basů</string>
+    <string name="bass_boost_strength">Intenzita zesílení basů</string>
+    <string name="preset_reverb_title">Dozvuk</string>
+    <string name="preset_reverb_preset">Předvolba</string>
+    <string name="virtualizer_title">Virtualizér</string>
+    <string name="virtualizer_strength">Intenzita Virtualizace</string>
+    <string name="bass_tuner_title">Ladění basů</string>
+    <string name="bass_tuner_type">Typ basu</string>
+    <string name="bass_tuner_type_natural">Přírodní</string>
+    <string name="bass_tuner_type_transient_compressor">Přechodný kompresor</string>
+    <string name="bass_tuner_type_sustain_compressor">Udržovací kompresor</string>
+    <string name="bass_tuner_cutoff_frequency">Mezní kmitočet</string>
+    <string name="bass_tuner_post_gain">Zisk</string>
+
+    <string name="category_gain_control">Ovládání zisku</string>
+    <string name="limiter_title">Omezovač</string>
+    <string name="limiter_attack_time">Doba náběhu</string>
+    <string name="limiter_release_time">Doba uvolnění</string>
+    <string name="limiter_ratio">Poměr</string>
+    <string name="limiter_threshold">Prahová hodnota</string>
+    <string name="limiter_post_gain">Zisk</string>
+    <string name="channel_balance_title">Vyvážení kanálů</string>
+    <string name="channel_balance_left_gain">Zisk levého kanálu</string>
+    <string name="channel_balance_right_gain">Zisk pravého kanálu</string>
+
+    <string name="graphic_eq_preset_flat">Plochý</string>
+    <string name="graphic_eq_preset_dark">Tmavý</string>
+    <string name="graphic_eq_preset_bright">Světlý</string>
+    <string name="graphic_eq_preset_bass_boost">Zesílení basů</string>
+    <string name="graphic_eq_preset_bass_reduction">Omezení basů</string>
+    <string name="graphic_eq_preset_treble_boost">Zesílení výšek</string>
+    <string name="graphic_eq_preset_treble_reduction">Zeslabení výšek</string>
+    <string name="graphic_eq_preset_loudness">Normalizace</string>
+    <string name="graphic_eq_preset_vocal_boost">Zlepšení podání hlasu</string>
+    <string name="graphic_eq_preset_m_shaped">Tvar M</string>
+    <string name="graphic_eq_preset_u_shaped">Tvar U</string>
+    <string name="graphic_eq_preset_v_shaped">Tvar V</string>
+    <string name="graphic_eq_preset_w_shaped">Tvar W</string>
+    <string name="graphic_eq_preset_personal">Vlastní</string>
+
+    <string name="preset_reverb_small_room">Malá místnost</string>
+    <string name="preset_reverb_medium_room">Střední místnost</string>
+    <string name="preset_reverb_large_room">Velká místnost</string>
+    <string name="preset_reverb_medium_hall">Střední hala</string>
+    <string name="preset_reverb_large_hall">Velká hala</string>
+    <string name="preset_reverb_plate">Plocha</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">samplů</string>
+</resources>
