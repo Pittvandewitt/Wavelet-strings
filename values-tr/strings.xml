@@ -20,9 +20,9 @@
     <string name="menu_help">Yardım</string>
     <string name="settings_buffer_size">Arabellek boyutu</string>
     <string name="clipping_over_latency">Gecikme yerine kırpma tercih edilir</string>
-    <string name="latency_over_clipping">Kırpmaya yerine gecikme tercih edilir</string>
+    <string name="latency_over_clipping">Kırpma yerine gecikme tercih edilir</string>
     <string name="setting_enhanced_session_title">Gelişmiş oturum algılama</string>
-    <string name="setting_enhanced_session_summary">Her iki izinde gereklidir</string>
+    <string name="setting_enhanced_session_summary">Her iki izin de gereklidir</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">Wavelet servisi</string>
@@ -40,10 +40,10 @@
 
     <!-- Preference strings -->
     <string name="reset">Sıfırla</string>
-    <string name="category_equalization">Dengeleyici</string>
-    <string name="auto_eq_title">OtomatikEq</string>
+    <string name="category_equalization">Ekolayzer</string>
+    <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Kulaklık Modeli</string>
-    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_strength">AutoEq yoğunluğu</string>
     <string name="auto_eq_import">İçe Aktar</string>
     <string name="auto_eq_file_import_success">%s Başarıyla içe aktarıldı</string>
     <string name="auto_eq_file_import_fail">%s içe aktarılamadı</string>
@@ -53,17 +53,17 @@
     <string name="graphic_eq_presets">Ön Ayarlar</string>
 
     <string name="category_effects">Efektler</string>
-    <string name="bass_boost_title">Bas Arttırıcı</string>
-    <string name="bass_boost_strength">Bas arttırıcı gücü</string>
+    <string name="bass_boost_title">Bas Yükseltici</string>
+    <string name="bass_boost_strength">Bas yükseltici yoğunluğu</string>
     <string name="preset_reverb_title">Yankı</string>
     <string name="preset_reverb_preset">Ön Ayar</string>
     <string name="virtualizer_title">Sanallaştırıcı</string>
-    <string name="virtualizer_strength">Sanallaştırıcı gücü</string>
-    <string name="bass_tuner_title">Bas Yönetimi</string>
+    <string name="virtualizer_strength">Sanallaştırıcı yoğunluğu</string>
+    <string name="bass_tuner_title">Bas Ayarı</string>
     <string name="bass_tuner_type">Bas türü</string>
     <string name="bass_tuner_type_natural">Doğal</string>
-    <string name="bass_tuner_type_transient_compressor">Transient kompresörü</string>
-    <string name="bass_tuner_type_sustain_compressor">Sustain kompresörü</string>
+    <string name="bass_tuner_type_transient_compressor">"Transient" kompresörü</string>
+    <string name="bass_tuner_type_sustain_compressor">"Sustain" kompresörü</string>
     <string name="bass_tuner_cutoff_frequency">Kesme frekansı</string>
     <string name="bass_tuner_post_gain">Ön-kazanç</string>
 
@@ -78,9 +78,9 @@
     <string name="channel_balance_left_gain">Sol kanal kazancı</string>
     <string name="channel_balance_right_gain">Sağ kanal kazancı</string>
 
-    <string name="graphic_eq_preset_flat">Düz</string>
-    <string name="graphic_eq_preset_dark">Koyu</string>
-    <string name="graphic_eq_preset_bright">Canlı</string>
+    <string name="graphic_eq_preset_flat">Flat</string>
+    <string name="graphic_eq_preset_dark">Karanlık</string>
+    <string name="graphic_eq_preset_bright">Parlak</string>
     <string name="graphic_eq_preset_bass_boost">Bas yükseltici</string>
     <string name="graphic_eq_preset_bass_reduction">Bas azaltıcı</string>
     <string name="graphic_eq_preset_treble_boost">Tiz yükseltici</string>
