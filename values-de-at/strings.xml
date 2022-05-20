@@ -19,7 +19,7 @@
     <!-- Einstellungen //jokingly translates Comments rofl -->
     <string name="wavelet_toggle">Wavelet an/aus</string>
     <string name="settings_title">Einstellungen</string>
-    <string name="settings_legacy_mode">Legacy Modus</string>
+    <string name="settings_legacy_mode">Kompatibilitätsmodus</string>
     <string name="settings_dump_permission">DUMP Berechtigungen</string>
     <string name="settings_notification_access">Benachrichtigungszugriff</string>
     <string name="settings_permission_granted">Berechtigung gebn</string>
