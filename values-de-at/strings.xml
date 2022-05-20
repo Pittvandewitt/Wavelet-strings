@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Es wurd noch kane Musik-Session gstartet</string>
+    <string name="single_user_warning">Bitte installier die App ois System Nutzer</string>
+    <string name="warning_library_null">Wavelet konnt die %s Effekt net instanzieren</string>
+    <string name="warning_no_browser">Konnte die URL %s net öffnen</string>
+    <string name="warning_billing_service">Fehler %d: Abrechnungsservice net erreichbar</string>
+    <string name="paid_feature">Alle Features für %s freischoiten</string>
+    <string name="unlock">Freischoiten</string>
+
+    <string name="purchase_dialog_title">Upgrade dei Erfahrung</string>
+    <string name="purchase_dialog_text">Dei Audioerfahrung könnt für %s no besser sein</string>
+    <string name="purchase_dialog_refund">Google Play ermöglicht ane <annotation url="refund">48h Money-back Garantie</annotation>, damitst alle Features ausprobiern kannst</string>
+    <string name="purchase_dialog_positive">Jetzt kaufn</string>
+    <string name="purchase_dialog_negative">Nacher</string>
+
+    <!-- Settings -->
+    <!-- Einstellungen //jokingly translates Comments rofl -->
+    <string name="wavelet_toggle">Wavelet an/aus</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_legacy_mode">Legacy Modus</string>
+    <string name="settings_dump_permission">DUMP Berechtigungen</string>
+    <string name="settings_notification_access">Benachrichtigungszugriff</string>
+    <string name="settings_permission_granted">Berechtigung gebn</string>
+    <string name="settings_permission_denied">Berechtigung net gebn</string>
+    <string name="menu_help">Hüf</string>
+    <string name="settings_buffer_size">Buffergröße</string>
+    <string name="clipping_over_latency">Übersteuerung üwa Verzögerung bevorzugen</string>
+    <string name="latency_over_clipping">Verzögerung üwa Übersteuerung bevorzugen</string>
+    <string name="setting_enhanced_session_title">Erweitate Session-Dakennung</string>
+    <string name="setting_enhanced_session_summary">Beide Berechtigungen wern braucht</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_name">Wavelet Service</string>
+    <string name="service_description">Des Wavelet Service, damit dein Audio gscheit rockt</string>
+    <string name="service_notification_text">Apps welchane Wavelet verwenden:</string>
+    <string name="service_notification_text_default">Drück hier für mehr Optionen</string>
+
+    <string name="device_unknown">Was i net</string>
+    <string name="device_headphone">Kopfhörer</string>
+    <string name="device_headset">Headset</string>
+    <string name="device_speaker">Lautsprecher</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Hörgrät</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Zrucksetzn</string>
+	<!-- Equalization doesn't really have an adequat translation, as it's an Equalizer in German, too -->
+	<!-- If someone else can think of anything, gladly change it, I'm not entirely certain it's perfect like this -->
+    <string name="category_equalization">Equalization</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Kopfhörermodell</string>
+    <string name="auto_eq_strength">AutoEq Stärkn</string>
+    <string name="auto_eq_import">Importiern</string>
+    <string name="auto_eq_file_import_success">%s wurd erfolgreich importiert</string>
+    <string name="auto_eq_file_import_fail">%s konnt net importiert wern</string>
+    <string name="auto_eq_remove_item">Eintrag entfernen</string>
+    <string name="graphic_eq_title">Graphischer Equalizer</string>
+    <string name="graphic_eq_dialog_title">Eigne Voreinstellungen überschreiben</string>
+    <string name="graphic_eq_presets">Voreinstellungen</string>
+
+    <string name="category_effects">Effekt</string>
+    <string name="bass_boost_title">Bass Booster</string>
+    <string name="bass_boost_strength">Bass Boost Stärkn</string>
+    <string name="preset_reverb_title">Hall Stärkn</string>
+    <string name="preset_reverb_preset">Voreinstellungen</string>
+    <string name="virtualizer_title">Virtualisierer</string>
+    <string name="virtualizer_strength">Virtualisierer Stärkn</string>
+    <string name="bass_tuner_title">Bass Tuner</string>
+    <string name="bass_tuner_type">Bass Typ</string>
+    <string name="bass_tuner_type_natural">Natürlich</string>
+    <string name="bass_tuner_type_transient_compressor">Transient Kompressor</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain Kompressor</string>
+    <string name="bass_tuner_cutoff_frequency">Cutoff Frequenz</string>
+    <string name="bass_tuner_post_gain">Nachvastärkung</string>
+
+    <string name="category_gain_control">Vastärkung</string>
+    <string name="limiter_title">Limiter</string>
+    <string name="limiter_attack_time">Attack Zeit</string>
+    <string name="limiter_release_time">Release Zeit</string>
+    <string name="limiter_ratio">Verhötnis</string>
+    <string name="limiter_threshold">Schwön</string>
+    <string name="limiter_post_gain">Nachvastärkung</string>
+    <string name="channel_balance_title">Kanalbalance</string>
+    <string name="channel_balance_left_gain">Vastärkung Links</string>
+    <string name="channel_balance_right_gain">Vastärkung Rechts</string>
+
+    <string name="graphic_eq_preset_flat">Floch</string>
+    <string name="graphic_eq_preset_dark">Dunkl</string>
+    <string name="graphic_eq_preset_bright">Höll</string>
+    <string name="graphic_eq_preset_bass_boost">Bass Boost</string>
+    <string name="graphic_eq_preset_bass_reduction">Bassreduktion</string>
+    <string name="graphic_eq_preset_treble_boost">Höhen Boost</string>
+    <string name="graphic_eq_preset_treble_reduction">Höhnreduktion</string>
+    <string name="graphic_eq_preset_loudness">Loudness</string>
+    <string name="graphic_eq_preset_vocal_boost">Stimmenboost</string>
+    <string name="graphic_eq_preset_m_shaped">M-Form</string>
+    <string name="graphic_eq_preset_u_shaped">U-Form</string>
+    <string name="graphic_eq_preset_v_shaped">V-Form</string>
+    <string name="graphic_eq_preset_w_shaped">W-Form</string>
+    <string name="graphic_eq_preset_personal">Benutzadefiniert</string>
+
+    <string name="preset_reverb_small_room">Klana Raum</string>
+    <string name="preset_reverb_medium_room">Mittelgroßa Raum</string>
+    <string name="preset_reverb_large_room">Großa Raum</string>
+    <string name="preset_reverb_medium_hall">Mittelgroße Halle</string>
+    <string name="preset_reverb_large_hall">Große Halle</string>
+	<!-- I'm very much not sure how to translate this, maybe someone else'll have an idea, I'll leave it as Plate -->
+	<!-- I don't have the full version, so I can't even judge, if "Teller" would be an adequat description -->
+    <!-- <string name="preset_reverb_plate">Teller</string> -->
+    <string name="preset_reverb_plate">Plate</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">Samples</string>
+</resources>
