@@ -10,7 +10,7 @@
     <string name="unlock">Freischalten</string>
 
     <string name="purchase_dialog_title">Upgrade deine Erfahrung</string>
-    <string name="purchase_dialog_text">Deine Audioerfahrung könnte für %s nocht besser sein</string>
+    <string name="purchase_dialog_text">Deine Audioerfahrung könnte für %s noch besser sein</string>
     <string name="purchase_dialog_refund">Google Play ermöglicht eine <annotation url="refund">48h Money-back Garantie</annotation>, damit du alle Features ausprobieren kannst</string>
     <string name="purchase_dialog_positive">Jetzt kaufen</string>
     <string name="purchase_dialog_negative">Später</string>
@@ -33,7 +33,7 @@
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">Wavelet Service</string>
-    <string name="service_description">Das Wavelet Service, damit dein Audio rockt</string>
+    <string name="service_description">Das Wavelet Service, damit dein Audio richtig rockt</string>
     <string name="service_notification_text">Apps die Wavelet verwenden:</string>
     <string name="service_notification_text_default">Drücke hier für mehr Optionen</string>
 
