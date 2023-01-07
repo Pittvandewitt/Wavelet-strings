@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">ยังไม่มีเซสชั่นเพลงใช้งานในขณะนี้</string>
+    <string name="single_user_warning">กรุณาติดตั้งแอปฯ ในฐานะผู้ใช้ระบบ</string>
+    <string name="warning_library_null">Wavelet ไม่สามารถแสดงเอฟเฟ็กต์ %s ได้</string>
+    <string name="warning_no_browser">ไม่สามารถเปิดลิ้งก์ %s ได้</string>
+    <string name="warning_billing_service">ข้อผิดพลาด %d: บริการเรียกเก็บเงินไม่พร้อมใช้งาน</string>
+    <string name="paid_feature">ปลดล็อคทุกคุณสมบัติของ %s</string>
+    <string name="unlock">ปลดล็อค</string>
+
+    <string name="purchase_dialog_title">อัพเกรดประสบการณ์ของคุณ</string>
+    <string name="purchase_dialog_text">ประสบการณืด้านเสียงของ %s อาจจะดียิ่งขึ้น</string>
+    <string name="purchase_dialog_refund">Google Play <annotation url="refund">รับประกันการคืนเงินใน 48 ชั่วโมง</annotation> ให้คุณได้ทดลองใช้งานทุกคุณสมบัติ</string>
+    <string name="purchase_dialog_positive">ซื้อเลย</string>
+    <string name="purchase_dialog_negative">ภายหลัง</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet เปิด/ปิด</string>
+    <string name="settings_title">การตั้งค่า</string>
+    <string name="settings_legacy_mode">โหมดดั้งเดิม</string>
+    <string name="settings_dump_permission">การขออนุญาต DUMP</string>
+    <string name="settings_notification_access">เข้าถึงการแจ้งเตือน</string>
+    <string name="settings_permission_granted">มอบสิทธิ์แล้ว</string>
+    <string name="settings_permission_denied">ปฏิเสธการเข้าถึง</string>
+    <string name="menu_help">ช่วยเหลือ</string>
+    <string name="settings_buffer_size">ขนาดบัฟเฟอร์</string>
+    <string name="clipping_over_latency"ใช้การตัดทอนมากกว่าเวลาแฝง</string>
+    <string name="latency_over_clipping">ใช้เวลาแฝงมากกว่าการตัดทอน</string>
+    <string name="setting_enhanced_session_title">ปรับปรุงการตรวจจับเซสชั่น</string>
+    <string name="setting_enhanced_session_summary">ต้องใช้สิทธิ์ทั้งสองอย่างนี้</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_name">บริการ Wavelet</string>
+    <string name="service_description">บริการ Wavelet เพื่อคงเสียงของคุณให้ดียิ่งขึ้น</string>
+    <string name="service_notification_text">แอปฯ กำลังใช้ Wavelet:</string>
+    <string name="service_notification_text_default">แตะเพื่อดูตัวเลือกเพิ่มเติม</string>
+
+    <string name="device_unknown">ไม่รู้จัก</string>
+    <string name="device_headphone">หูฟัง</string>
+    <string name="device_headset">ชุดหูฟัง</string>
+    <string name="device_speaker">ลำโพง</string>
+    <string name="device_bluetooth">บลูธูท</string>
+    <string name="device_hearing_aid">เครื่องช่วยฟัง</string>
+    <string name="device_usb">USB</string>
+
+    <!-- Preference strings -->
+    <string name="reset">รีเซ็ต</string>
+    <string name="category_equalization">การปรับแต่ง</string>
+    <string name="auto_eq_title">ปรับอัตโนมัติ</string>
+    <string name="auto_eq_dialog_title">รุ่นหูฟัง</string>
+    <string name="auto_eq_strength">ความเข้มของปรับอัตโนมัติ</string>
+    <string name="auto_eq_import">นำเข้า</string>
+    <string name="auto_eq_file_import_success">นำเข้า %s สำเร็จ</string>
+    <string name="auto_eq_file_import_fail">นำเข้า %s ไม่สำเร็จ</string>
+    <string name="auto_eq_remove_item">นำออก</string>
+    <string name="graphic_eq_title">กราฟปรับแต่ง</string>
+    <string name="graphic_eq_dialog_title">เขียนทับการตั้งค่าส่วนตัว</string>
+    <string name="graphic_eq_presets">ที่กำหนดไว้</string>
+
+    <string name="category_effects">เอฟเฟ็กต์</string>
+    <string name="bass_boost_title">เพิ่มเบส</string>
+    <string name="bass_boost_strength">เพิ่มความเข้มเบส</string>
+    <string name="preset_reverb_title">เสียงก้อง</string>
+    <string name="preset_reverb_preset">ที่กำหนดไว้</string>
+    <string name="virtualizer_title">การจำลองเสียง</string>
+    <string name="virtualizer_strength">ความเข้มการจำลองเสียง</string>
+    <string name="bass_tuner_title">จูนเบส</string>
+    <string name="bass_tuner_type">ประเภทเบส</string>
+    <string name="bass_tuner_type_natural">ธรรมชาติ</string>
+    <string name="bass_tuner_type_transient_compressor">บีบอัดชั่วคราว</string>
+    <string name="bass_tuner_type_sustain_compressor">บีบอัดสม่ำเสมอ</string>
+    <string name="bass_tuner_cutoff_frequency">ความถี่ตัด</string>
+    <string name="bass_tuner_post_gain">อัตราขยายหลังปรับ</string>
+
+    <string name="category_gain_control">ควบคุมอัตราขยาย</string>
+    <string name="limiter_title">ตัวจำกัด</string>
+    <string name="limiter_attack_time">ความเร็วเวลา</string>
+    <string name="limiter_release_time">เวลาเปลี่ยน</string>
+    <string name="limiter_ratio">อัตราส่วน</string>
+    <string name="limiter_threshold">ระดับเกณฑ์</string>
+    <string name="limiter_post_gain">อัตราขยายหลังปรับ</string>
+    <string name="channel_balance_title">สมดุลช่อง</string>
+    <string name="channel_balance_left_gain">ปรับช่องฝั่งซ้าย</string>
+    <string name="channel_balance_right_gain">ปรับช่องฝั่งขวา</string>
+
+    <string name="graphic_eq_preset_flat">ราบเรียบ</string>
+    <string name="graphic_eq_preset_dark">ดาร์ก</string>
+    <string name="graphic_eq_preset_bright">สดใส</string>
+    <string name="graphic_eq_preset_bass_boost">เร่งเบส</string>
+    <string name="graphic_eq_preset_bass_reduction">ลดเบส</string>
+    <string name="graphic_eq_preset_treble_boost">เร่งเสียงแหลม</string>
+    <string name="graphic_eq_preset_treble_reduction">ลดเสียงแหลม</string>
+    <string name="graphic_eq_preset_loudness">ความดัง</string>
+    <string name="graphic_eq_preset_vocal_boost">เร่งเสียงร้อง</string>
+    <string name="graphic_eq_preset_m_shaped">รูปตัว M</string>
+    <string name="graphic_eq_preset_u_shaped">รูปตัว U</string>
+    <string name="graphic_eq_preset_v_shaped">รูปตัว V</string>
+    <string name="graphic_eq_preset_w_shaped">รูปตัว W</string>
+    <string name="graphic_eq_preset_personal">ส่วนตัว</string>
+
+    <string name="preset_reverb_small_room">ห้องเล็ก</string>
+    <string name="preset_reverb_medium_room">ห้องกลาง</string>
+    <string name="preset_reverb_large_room">ห้องใหญ่</string>
+    <string name="preset_reverb_medium_hall">โถงกลาง</string>
+    <string name="preset_reverb_large_hall">โถงใหญ่</string>
+    <string name="preset_reverb_plate">แผ่นใหญ่</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">ตัวอย่าง</string>
+</resources>
