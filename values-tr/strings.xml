@@ -34,7 +34,7 @@
     <string name="device_headphone">Kulaklık</string>
     <string name="device_headset">Kulaküstü kulaklık</string>
     <string name="device_speaker">Hoparlör</string>
-    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_bluetooth">Bluetooth cihaz</string>
     <string name="device_hearing_aid">İşitme cihazı</string>
     <string name="device_usb">USB</string>
 
@@ -43,12 +43,12 @@
     <string name="category_equalization">Ekolayzer</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Kulaklık Modeli</string>
-    <string name="auto_eq_strength">AutoEq yoğunluğu</string>
+    <string name="auto_eq_strength">AutoEq Yoğunluğu</string>
     <string name="auto_eq_import">İçe Aktar</string>
     <string name="auto_eq_file_import_success">%s Başarıyla içe aktarıldı</string>
     <string name="auto_eq_file_import_fail">%s içe aktarılamadı</string>
-    <string name="auto_eq_remove_item">Öğeyi kaldır</string>
-    <string name="graphic_eq_title">Grafik ekolayzer</string>
+    <string name="auto_eq_remove_item">Öğeyi Kaldır</string>
+    <string name="graphic_eq_title">Grafik Ekolayzer</string>
     <string name="graphic_eq_dialog_title">Kişisel ön ayarın üzerine yaz</string>
     <string name="graphic_eq_presets">Ön Ayarlar</string>
 
@@ -60,10 +60,10 @@
     <string name="virtualizer_title">Sanallaştırıcı</string>
     <string name="virtualizer_strength">Sanallaştırıcı yoğunluğu</string>
     <string name="bass_tuner_title">Bas Ayarı</string>
-    <string name="bass_tuner_type">Bas türü</string>
+    <string name="bass_tuner_type">Bas modu</string>
     <string name="bass_tuner_type_natural">Doğal</string>
-    <string name="bass_tuner_type_transient_compressor">"Transient" kompresörü</string>
-    <string name="bass_tuner_type_sustain_compressor">"Sustain" kompresörü</string>
+    <string name="bass_tuner_type_transient_compressor">Transient kompresör</string>
+    <string name="bass_tuner_type_sustain_compressor">Sustain kompresör</string>
     <string name="bass_tuner_cutoff_frequency">Kesme frekansı</string>
     <string name="bass_tuner_post_gain">Ön-kazanç</string>
 
@@ -74,23 +74,23 @@
     <string name="limiter_ratio">Oran</string>
     <string name="limiter_threshold">Eşik</string>
     <string name="limiter_post_gain">Ön-Kazanç</string>
-    <string name="channel_balance_title">Kanal dengesi</string>
+    <string name="channel_balance_title">Kanal Dengesi</string>
     <string name="channel_balance_left_gain">Sol kanal kazancı</string>
     <string name="channel_balance_right_gain">Sağ kanal kazancı</string>
 
     <string name="graphic_eq_preset_flat">Flat</string>
     <string name="graphic_eq_preset_dark">Karanlık</string>
     <string name="graphic_eq_preset_bright">Parlak</string>
-    <string name="graphic_eq_preset_bass_boost">Bas yükseltici</string>
-    <string name="graphic_eq_preset_bass_reduction">Bas azaltıcı</string>
-    <string name="graphic_eq_preset_treble_boost">Tiz yükseltici</string>
-    <string name="graphic_eq_preset_treble_reduction">Tiz azaltıcı</string>
+    <string name="graphic_eq_preset_bass_boost">Bas Yükseltici</string>
+    <string name="graphic_eq_preset_bass_reduction">Bas Azaltıcı</string>
+    <string name="graphic_eq_preset_treble_boost">Tiz Yükseltici</string>
+    <string name="graphic_eq_preset_treble_reduction">Tiz Azaltıcı</string>
     <string name="graphic_eq_preset_loudness">Yüksek Ses</string>
-    <string name="graphic_eq_preset_vocal_boost">Vokal yükseltici</string>
-    <string name="graphic_eq_preset_m_shaped">M-şekilli</string>
-    <string name="graphic_eq_preset_u_shaped">U-şekilli</string>
-    <string name="graphic_eq_preset_v_shaped">V-şekilli</string>
-    <string name="graphic_eq_preset_w_shaped">W-şekilli</string>
+    <string name="graphic_eq_preset_vocal_boost">Vokal Yükseltici</string>
+    <string name="graphic_eq_preset_m_shaped">M Tipi</string>
+    <string name="graphic_eq_preset_u_shaped">U Tipi</string>
+    <string name="graphic_eq_preset_v_shaped">V Tipi</string>
+    <string name="graphic_eq_preset_w_shaped">W Tipi</string>
     <string name="graphic_eq_preset_personal">Kişisel</string>
 
     <string name="preset_reverb_small_room">Küçük boy oda</string>
@@ -104,5 +104,5 @@
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
-    <string name="unit_samples">örnekleme</string>
+    <string name="unit_samples">örnek</string>
 </resources>
