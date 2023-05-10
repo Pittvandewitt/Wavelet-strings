@@ -15,6 +15,9 @@
     <string name="purchase_dialog_positive">ซื้อเลย</string>
     <string name="purchase_dialog_negative">ภายหลัง</string>
 
+    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
+    <string name="open_settings">Fix it</string>
+
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet เปิด/ปิด</string>
     <string name="settings_title">การตั้งค่า</string>
@@ -25,7 +28,7 @@
     <string name="settings_permission_denied">ปฏิเสธการเข้าถึง</string>
     <string name="menu_help">ช่วยเหลือ</string>
     <string name="settings_buffer_size">ขนาดบัฟเฟอร์</string>
-    <string name="clipping_over_latency"ใช้การตัดทอนมากกว่าเวลาแฝง</string>
+    <string name="clipping_over_latency">ใช้การตัดทอนมากกว่าเวลาแฝง</string>
     <string name="latency_over_clipping">ใช้เวลาแฝงมากกว่าการตัดทอน</string>
     <string name="setting_enhanced_session_title">ปรับปรุงการตรวจจับเซสชั่น</string>
     <string name="setting_enhanced_session_summary">ต้องใช้สิทธิ์ทั้งสองอย่างนี้</string>
@@ -43,6 +46,8 @@
     <string name="device_bluetooth">บลูธูท</string>
     <string name="device_hearing_aid">เครื่องช่วยฟัง</string>
     <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
     <string name="reset">รีเซ็ต</string>

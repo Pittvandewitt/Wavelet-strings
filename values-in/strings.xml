@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Belum ada sesi musik yang dimulai!\n
-        Jika kamu perlu bantuan, tekan menu 3 titik</string>
+    <string name="no_active_sessions">Belum ada sesi musik yang dimulai!</string>
     <string name="single_user_warning">Harap pasang aplikasi ini sebagai pengguna Admin/Sistem</string>
     <string name="warning_library_null">Wavelet tidak dapat menyalakan efek %s</string>
     <string name="warning_no_browser">Tidak dapat membuka tautan %s</string>
     <string name="warning_billing_service">Error %d: Jasa pembayaran tidak ditemukan</string>
     <string name="paid_feature">Buka semua fitur seharga %s</string>
     <string name="unlock">Buka</string>
+
+    <string name="purchase_dialog_title">Upgrade your experience</string>
+    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
+    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
+    <string name="purchase_dialog_positive">Buy now</string>
+    <string name="purchase_dialog_negative">Later</string>
+
+    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
+    <string name="open_settings">Fix it</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
@@ -38,6 +46,8 @@
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_hearing_aid">Alat bantu dengar</string>
     <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
     <string name="reset">Reset</string>

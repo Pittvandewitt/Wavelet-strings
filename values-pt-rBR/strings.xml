@@ -9,6 +9,15 @@
     <string name="paid_feature">Desbloqueie todos os recursos para %s</string>
     <string name="unlock">Desbloqueio</string>
 
+    <string name="purchase_dialog_title">Upgrade your experience</string>
+    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
+    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
+    <string name="purchase_dialog_positive">Buy now</string>
+    <string name="purchase_dialog_negative">Later</string>
+
+    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
+    <string name="open_settings">Fix it</string>
+
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
     <string name="settings_title">Settings</string>
@@ -37,6 +46,8 @@
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_hearing_aid">Aparelho auditivo</string>
     <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
     <string name="reset">Reset</string>

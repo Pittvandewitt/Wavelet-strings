@@ -15,6 +15,9 @@
     <string name="purchase_dialog_positive">Køb nu</string>
     <string name="purchase_dialog_negative">Senere</string>
 
+    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
+    <string name="open_settings">Fix it</string>
+
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet tænd/sluk</string>
     <string name="settings_title">Indstillinger</string>
@@ -43,6 +46,8 @@
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_hearing_aid">høreapparat</string>
     <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
     <string name="reset">Nulstil</string>
