@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Frigivelsestid</string>
     <string name="limiter_ratio">Forhold</string>
     <string name="limiter_threshold">Grænseværdi</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Efter-forstærkning</string>
     <string name="channel_balance_title">Kanal balance</string>
     <string name="channel_balance_left_gain">Kanalforstærkning venstre</string>

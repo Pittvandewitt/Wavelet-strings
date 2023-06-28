@@ -84,6 +84,7 @@
     <string name="limiter_release_time">وقت الإفلات</string>
     <string name="limiter_ratio">النسبة</string>
     <string name="limiter_threshold">العتبة</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">الكسب البعدي</string>
     <string name="channel_balance_title">موازنة القناة</string>
     <string name="channel_balance_left_gain">الكسب للقناة اليسرى</string>

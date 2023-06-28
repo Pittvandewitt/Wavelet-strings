@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Czas wydania</string>
     <string name="limiter_ratio">Współczynnik</string>
     <string name="limiter_threshold">Próg</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Post-wzmacnianie</string>
     <string name="channel_balance_title">Balans kanałów</string>
     <string name="channel_balance_left_gain">Wzmacnianie lewego kanału</string>

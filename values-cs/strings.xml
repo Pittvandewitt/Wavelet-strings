@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Doba uvolnění</string>
     <string name="limiter_ratio">Poměr</string>
     <string name="limiter_threshold">Prahová hodnota</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Zisk</string>
     <string name="channel_balance_title">Vyvážení kanálů</string>
     <string name="channel_balance_left_gain">Zisk levého kanálu</string>

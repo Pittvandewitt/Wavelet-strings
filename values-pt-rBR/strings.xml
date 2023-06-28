@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Tempo de Release</string>
     <string name="limiter_ratio">Razão</string>
     <string name="limiter_threshold">Limiar</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Ganho de saída</string>
     <string name="channel_balance_title">Balanço</string>
     <string name="channel_balance_left_gain">Ganho do canal esquerdo</string>

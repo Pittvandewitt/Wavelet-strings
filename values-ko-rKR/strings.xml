@@ -84,6 +84,7 @@
     <string name="limiter_release_time">릴리즈 타임</string>
     <string name="limiter_ratio">비율</string>
     <string name="limiter_threshold">스레숄드</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">포스트 게인</string>
     <string name="channel_balance_title">채널 밸런스</string>
     <string name="channel_balance_left_gain">왼쪽</string>

@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Temps de relâchement</string>
     <string name="limiter_ratio">Ratio</string>
     <string name="limiter_threshold">Seuil</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Post-gain</string>
     <string name="channel_balance_title">Balance des canaux</string>
     <string name="channel_balance_left_gain">Gain du canal gauche</string>

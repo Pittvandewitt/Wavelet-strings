@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Tiempo de salida</string>
     <string name="limiter_ratio">Radio</string>
     <string name="limiter_threshold">Umbral</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Post-ganancia</string>
     <string name="channel_balance_title">Balance de canales</string>
     <string name="channel_balance_left_gain">Ganancia canal izquierdo</string>

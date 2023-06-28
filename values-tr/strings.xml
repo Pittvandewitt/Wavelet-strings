@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Bırakma süresi</string>
     <string name="limiter_ratio">Oran</string>
     <string name="limiter_threshold">Eşik</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Ön-Kazanç</string>
     <string name="channel_balance_title">Kanal Dengesi</string>
     <string name="channel_balance_left_gain">Sol kanal kazancı</string>

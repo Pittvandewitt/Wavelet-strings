@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Release</string>
     <string name="limiter_ratio">Ratio</string>
     <string name="limiter_threshold">Threshold-nivå</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Post-gain</string>
     <string name="channel_balance_title">Kanalbalans</string>
     <string name="channel_balance_left_gain">Nivå vänster</string>

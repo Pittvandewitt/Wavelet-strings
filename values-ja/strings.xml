@@ -48,6 +48,7 @@
     <string name="device_usb">USB</string>
     <string name="device_android_auto">Android Auto</string>
     <string name="device_chrome_os">Chrome OS</string>
+
     <!-- Preference strings -->
     <string name="reset">リセット</string>
     <string name="category_equalization">イコライゼーション</string>
@@ -83,6 +84,7 @@
     <string name="limiter_release_time">リリースタイム</string>
     <string name="limiter_ratio">割合</string>
     <string name="limiter_threshold">しきい値</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">ポストゲイン</string>
     <string name="channel_balance_title">チャンネルバランス</string>
     <string name="channel_balance_left_gain">左チャンネルのゲイン</string>

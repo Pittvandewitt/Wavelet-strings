@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Время релиза</string>
     <string name="limiter_ratio">Соотношение</string>
     <string name="limiter_threshold">Порог</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Усиление</string>
     <string name="channel_balance_title">Баланс каналов</string>
     <string name="channel_balance_left_gain">Левый</string>

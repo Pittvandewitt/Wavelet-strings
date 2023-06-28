@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Waktu rilis</string>
     <string name="limiter_ratio">Rasio</string>
     <string name="limiter_threshold">Ambang (Threshold)</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Gain akhir</string>
     <string name="channel_balance_title">Keseimbangan channel</string>
     <string name="channel_balance_left_gain">Channel gain kiri</string>

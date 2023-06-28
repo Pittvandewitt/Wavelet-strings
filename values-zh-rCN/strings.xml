@@ -84,6 +84,7 @@
     <string name="limiter_release_time">释放时间</string>
     <string name="limiter_ratio">压缩比</string>
     <string name="limiter_threshold">阈值</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">后级增益</string>
     <string name="channel_balance_title">声道平衡</string>
     <string name="channel_balance_left_gain">左声道增益</string>

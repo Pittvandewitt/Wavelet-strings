@@ -84,6 +84,7 @@
     <string name="limiter_release_time">Release-tijd</string>
     <string name="limiter_ratio">Ratio</string>
     <string name="limiter_threshold">Drempelwaarde</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Post-gain</string>
     <string name="channel_balance_title">Kanaalbalans</string>
     <string name="channel_balance_left_gain">Kanaalsterkte links</string>

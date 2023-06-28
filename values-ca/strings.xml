@@ -85,6 +85,7 @@
     <string name="limiter_ratio">Ràtio</string>
     <string name="limiter_threshold">Llindar</string>
     <string name="limiter_post_gain">Post-guany</string>
+    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="channel_balance_title">Balanç de canals</string>
     <string name="channel_balance_left_gain">Guany canal esquerre</string>
     <string name="channel_balance_right_gain">Guany canal dret</string>
