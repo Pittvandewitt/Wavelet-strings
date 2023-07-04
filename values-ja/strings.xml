@@ -15,8 +15,8 @@
     <string name="purchase_dialog_positive">購入する</string>
     <string name="purchase_dialog_negative">また後で</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">アプリのバッテリー使用量を「制限」に設定すると、Waveletが正常に動作しないことがあります。</string>
+    <string name="open_settings">修正する</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet オン/オフ</string>
@@ -84,7 +84,7 @@
     <string name="limiter_release_time">リリースタイム</string>
     <string name="limiter_ratio">割合</string>
     <string name="limiter_threshold">しきい値</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">自動ポストゲイン</string>
     <string name="limiter_post_gain">ポストゲイン</string>
     <string name="channel_balance_title">チャンネルバランス</string>
     <string name="channel_balance_left_gain">左チャンネルのゲイン</string>
