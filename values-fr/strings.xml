@@ -9,14 +9,14 @@
     <string name="paid_feature">Déverrouillez toutes les fonctionnalités pour %s</string>
     <string name="unlock">Déverrouillé</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_title">Améliorez votre expérience</string>
+    <string name="purchase_dialog_text">Votre expérience audio pourrait être encore meilleure pour %s</string>
+    <string name="purchase_dialog_refund">Google Play garantit un <annotation url="refund">remboursement sous 48h</annotation> pour que vous puissiez essayer toutes les fonctionnalités</string>
+    <string name="purchase_dialog_positive">Achetez maintenant</string>
+    <string name="purchase_dialog_negative">Plus tard</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">Wavelet ne peut pas fonctionner correctement si l\'utilisation de la batterie est réglée sur \'limitée\'</string>
+    <string name="open_settings">Réparez-le</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
@@ -84,7 +84,7 @@
     <string name="limiter_release_time">Temps de relâchement</string>
     <string name="limiter_ratio">Ratio</string>
     <string name="limiter_threshold">Seuil</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">Post-gain automatique</string>
     <string name="limiter_post_gain">Post-gain</string>
     <string name="channel_balance_title">Balance des canaux</string>
     <string name="channel_balance_left_gain">Gain du canal gauche</string>
