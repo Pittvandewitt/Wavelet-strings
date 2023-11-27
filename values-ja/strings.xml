@@ -62,8 +62,8 @@
     <string name="graphic_eq_title">グラフィック・イコライザー</string>
     <string name="graphic_eq_dialog_title">個人用プリセットの上書き</string>
     <string name="graphic_eq_presets">プリセット</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_title">ラウドネス等化</string>
+    <string name="equal_loudness_threshold">音量のしきい値</string>
 
     <string name="category_effects">エフェクト</string>
     <string name="bass_boost_title">低音ブースト</string>
