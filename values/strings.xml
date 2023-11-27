@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">Graphic equalizer</string>
     <string name="graphic_eq_dialog_title">Overwrite personal preset</string>
     <string name="graphic_eq_presets">Presets</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">Effects</string>
     <string name="bass_boost_title">Bass booster</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">Bass reduction</string>
     <string name="graphic_eq_preset_treble_boost">Treble boost</string>
     <string name="graphic_eq_preset_treble_reduction">Treble reduction</string>
-    <string name="graphic_eq_preset_loudness">Loudness</string>
     <string name="graphic_eq_preset_vocal_boost">Vocal boost</string>
     <string name="graphic_eq_preset_m_shaped">M-shaped</string>
     <string name="graphic_eq_preset_u_shaped">U-shaped</string>

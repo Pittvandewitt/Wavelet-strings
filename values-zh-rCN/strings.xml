@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">图形均衡器</string>
     <string name="graphic_eq_dialog_title">覆盖个人预设</string>
     <string name="graphic_eq_presets">预设</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">效果</string>
     <string name="bass_boost_title">低音增强</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">低音减弱</string>
     <string name="graphic_eq_preset_treble_boost">高音增强</string>
     <string name="graphic_eq_preset_treble_reduction">高音减弱</string>
-    <string name="graphic_eq_preset_loudness">音量增强</string>
     <string name="graphic_eq_preset_vocal_boost">人声增强</string>
     <string name="graphic_eq_preset_m_shaped">M 形</string>
     <string name="graphic_eq_preset_u_shaped">U 形</string>

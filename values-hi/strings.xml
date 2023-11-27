@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">अभी तक कोई नया संगीत शेषन शुरू नहीं किया गया है</string>
+    <string name="single_user_warning">कृपया इस ऐप को सिस्टम उपयोगकर्ता के रूप में इंस्टॉल करें</string>
+    <string name="warning_library_null">वेवलेट त्वरित करने में असमर्थ था %s प्रभाव</string>
+    <string name="warning_no_browser">यूआरएल नहीं खुल सका %s</string>
+    <string name="warning_billing_service">गलती %d: बिलिंग सेवा अनुपलब्ध है </string>
+    <string name="paid_feature">सभी फिचर इतने %s मे अनलॉक करें </string>
+    <string name="unlock">अनलॉक </string>
+
+    <string name="purchase_dialog_title">अपने अनुभव को अपगरेड करें</string>
+    <string name="purchase_dialog_text">आपका ऑडियो अनुभव और भी बेहतर हो सकता है %s</string>
+    <string name="purchase_dialog_refund">Google Play यह सुनिश्चित करता है <annotation url="refund">48 घंटे में धन-वापस गैरंटी</annotation> ताकि आप सभी सुविधाओं को आज़मा सकें</string>
+    <string name="purchase_dialog_positive">अभी खरीदें</string>
+    <string name="purchase_dialog_negative">बाद में</string>
+
+    <string name="restricted_warning_text">यदि बैटरी उपयोग \'वर्जित\' पर सेट है तो Wavelet ठीक से काम नहीं कर सकता है </string>
+    <string name="open_settings">इसे ठीक करें</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet चालू/बंद</string>
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_legacy_mode">लेगसि मोड</string>
+    <string name="settings_dump_permission">DUMP अनुमति</string>
+    <string name="settings_notification_access">नोटिफीकेशन ऐकसस</string>
+    <string name="settings_permission_granted">अनुमति मंज़ूर</string>
+    <string name="settings_permission_denied">अनुमति नहीं मिली</string>
+    <string name="menu_help">मदद</string>
+    <string name="settings_buffer_size">बफर परिमाण</string>
+    <string name="clipping_over_latency">विलंबता की तुलना में क्लिपिंग को प्राथमिकता दी जाती है</string>
+    <string name="latency_over_clipping">क्लिपिंग की तुलना में विलंबता को प्राथमिकता दी जाती है</string>
+    <string name="setting_enhanced_session_title">उन्नत शेषन पहचाना गया</string>
+    <string name="setting_enhanced_session_summary">दोनों अनुमतियाँ आवश्यक हैं</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_name">Wavelet सेवा</string>
+    <string name="service_description">आपके ऑडियो को बेहतरीन बनाए रखने के लिए Wavelet सेवा</string>
+    <string name="service_notification_text">वेवलेट का उपयोग करने वाले ऐप्स:</string>
+    <string name="service_notification_text_default">अधिक विकल्पों के लिए टैप करें</string>
+
+    <string name="device_unknown">अपरिचित</string>
+    <string name="device_headphone">हेड फोन्स</string>
+    <string name="device_headset">हेडसेट</string>
+    <string name="device_speaker">स्पीकर</string>
+    <string name="device_bluetooth">ब्लूटूथ</string>
+    <string name="device_hearing_aid">श्रवण - संबंधी उपकरण</string>
+    <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
+
+    <!-- Preference strings -->
+    <string name="reset">रीसेट</string>
+    <string name="category_equalization">समीकरण</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">हेडफ़ोन मॉडल</string>
+    <string name="auto_eq_strength">AutoEq की ताकत</string>
+    <string name="auto_eq_import">आयात</string>
+    <string name="auto_eq_file_import_success">सफलतापूर्वक आयात किया गया %s</string>
+    <string name="auto_eq_file_import_fail">आयात करने में विफल %s</string>
+    <string name="auto_eq_remove_item">वस्तु निकालें</string>
+    <string name="graphic_eq_title">ग्राफ़िक तुल्यकारक</string>
+    <string name="graphic_eq_dialog_title">व्यक्तिगत प्रीसेट को अधिलेखित करें</string>
+    <string name="graphic_eq_presets">प्रीसेट</string>
+    <string name="equal_loudness_title">बराबर प्रबलता</string>
+    <string name="equal_loudness_threshold">वोल्युम की सीमा</string>
+
+    <string name="category_effects">प्रभाव</string>
+    <string name="bass_boost_title">बेस बूस्टर</string>
+    <string name="bass_boost_strength">बूस्टर की ताकत</string>
+    <string name="preset_reverb_title">प्रतिध्वनि</string>
+    <string name="preset_reverb_preset">प्रीसेट</string>
+    <string name="virtualizer_title">वर्चुअलाइज़र</string>
+    <string name="virtualizer_strength">वर्चुअलाइजेशन की ताकत</string>
+    <string name="bass_tuner_title">बेस ट्यूनर</string>
+    <string name="bass_tuner_type">बेस प्रकार</string>
+    <string name="bass_tuner_type_natural">प्राकृतिक</string>
+    <string name="bass_tuner_type_transient_compressor">क्षणिक कंप्रेसर</string>
+    <string name="bass_tuner_type_sustain_compressor">कंप्रेसर को बनाए रखें</string>
+    <string name="bass_tuner_cutoff_frequency">आपूर्ती बंद करने की आवृत्ति</string>
+    <string name="bass_tuner_post_gain">पोस्ट-गेन</string>
+
+    <string name="category_gain_control">नियंत्रण हासिल करो</string>
+    <string name="limiter_title">सीमक</string>
+    <string name="limiter_attack_time">आक्रमण का समय</string>
+    <string name="limiter_release_time">रोकने का समय</string>
+    <string name="limiter_ratio">अनुपात</string>
+    <string name="limiter_threshold">सीमा</string>
+    <string name="limiter_automatic_post_gain">स्वचालित पोस्ट-गेन</string>
+    <string name="limiter_post_gain">पोस्ट-गेन</string>
+    <string name="channel_balance_title">चैनल संतुलन</string>
+    <string name="channel_balance_left_gain">लेफ्ट चैनल गेन </string>
+    <string name="channel_balance_right_gain">राइट चैनल गेन</string>
+
+    <string name="graphic_eq_preset_flat">समतल</string>
+    <string name="graphic_eq_preset_dark">अँधेरा</string>
+    <string name="graphic_eq_preset_bright">उज्ज्वल</string>
+    <string name="graphic_eq_preset_bass_boost">बेस बूस्ट</string>
+    <string name="graphic_eq_preset_bass_reduction">बेस कमी</string>
+    <string name="graphic_eq_preset_treble_boost">ट्रेबल बूस्ट</string>
+    <string name="graphic_eq_preset_treble_reduction">ट्रेबल कमी</string>
+    <string name="graphic_eq_preset_vocal_boost">स्वर बूस्ट</string>
+    <string name="graphic_eq_preset_m_shaped">M-आकार का</string>
+    <string name="graphic_eq_preset_u_shaped">U-आकार</string>
+    <string name="graphic_eq_preset_v_shaped">V-आकार का</string>
+    <string name="graphic_eq_preset_w_shaped">W-आकार</string>
+    <string name="graphic_eq_preset_personal">पर्सनल</string>
+
+    <string name="preset_reverb_small_room">छोटी कमरा</string>
+    <string name="preset_reverb_medium_room">मध्यम कमरा</string>
+    <string name="preset_reverb_large_room">बड़ा कमरा</string>
+    <string name="preset_reverb_medium_hall">मीडियम हॉल</string>
+    <string name="preset_reverb_large_hall">बड़ा हॉल</string>
+    <string name="preset_reverb_plate">प्लेट</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">सै़म्पल्स</string>
+</resources>

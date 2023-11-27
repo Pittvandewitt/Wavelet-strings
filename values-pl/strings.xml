@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">Korektor graficzny</string>
     <string name="graphic_eq_dialog_title">Nadpisz osobisty preset</string>
     <string name="graphic_eq_presets">Presety</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">Efekty</string>
     <string name="bass_boost_title">Wzmacnianie basu</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">Zmniejszenie basu</string>
     <string name="graphic_eq_preset_treble_boost">Zwiększenie sopranu</string>
     <string name="graphic_eq_preset_treble_reduction">Zmniejszenie sporanu</string>
-    <string name="graphic_eq_preset_loudness">Głośność</string>
     <string name="graphic_eq_preset_vocal_boost">Uwydatnienie wokali</string>
     <string name="graphic_eq_preset_m_shaped">W kształcie M</string>
     <string name="graphic_eq_preset_u_shaped">W kształcie U</string>

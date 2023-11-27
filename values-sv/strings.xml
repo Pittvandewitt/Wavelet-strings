@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">Grafisk EQ</string>
     <string name="graphic_eq_dialog_title">Ersätt personlig inställning</string>
     <string name="graphic_eq_presets">Inställningar</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">Effekter</string>
     <string name="bass_boost_title">Basförstärkning</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">Basreducering</string>
     <string name="graphic_eq_preset_treble_boost">Diskantförstärkning</string>
     <string name="graphic_eq_preset_treble_reduction">Diskantreducering</string>
-    <string name="graphic_eq_preset_loudness">Loudness</string>
     <string name="graphic_eq_preset_vocal_boost">Vokalförstärkning</string>
     <string name="graphic_eq_preset_m_shaped">M-formad</string>
     <string name="graphic_eq_preset_u_shaped">U-formad</string>

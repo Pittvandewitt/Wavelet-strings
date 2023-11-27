@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">กราฟปรับแต่ง</string>
     <string name="graphic_eq_dialog_title">เขียนทับการตั้งค่าส่วนตัว</string>
     <string name="graphic_eq_presets">ที่กำหนดไว้</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">เอฟเฟ็กต์</string>
     <string name="bass_boost_title">เพิ่มเบส</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">ลดเบส</string>
     <string name="graphic_eq_preset_treble_boost">เร่งเสียงแหลม</string>
     <string name="graphic_eq_preset_treble_reduction">ลดเสียงแหลม</string>
-    <string name="graphic_eq_preset_loudness">ความดัง</string>
     <string name="graphic_eq_preset_vocal_boost">เร่งเสียงร้อง</string>
     <string name="graphic_eq_preset_m_shaped">รูปตัว M</string>
     <string name="graphic_eq_preset_u_shaped">รูปตัว U</string>

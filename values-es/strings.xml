@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">Ecualizador gráfico</string>
     <string name="graphic_eq_dialog_title">Sobreescribir configuración personal</string>
     <string name="graphic_eq_presets">Configuraciones</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">Efectos</string>
     <string name="bass_boost_title">Resaltar bajos</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">Reducir bajos</string>
     <string name="graphic_eq_preset_treble_boost">Resaltar agudos</string>
     <string name="graphic_eq_preset_treble_reduction">Reducir agudos</string>
-    <string name="graphic_eq_preset_loudness">Potencia</string>
     <string name="graphic_eq_preset_vocal_boost">Resaltar vocales</string>
     <string name="graphic_eq_preset_m_shaped">Figura \'M\'</string>
     <string name="graphic_eq_preset_u_shaped">Figura \'U\'</string>
