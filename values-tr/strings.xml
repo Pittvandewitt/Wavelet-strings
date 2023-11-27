@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">Grafik Ekolayzer</string>
     <string name="graphic_eq_dialog_title">Kişisel ön ayarın üzerine yaz</string>
     <string name="graphic_eq_presets">Ön Ayarlar</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">Efektler</string>
     <string name="bass_boost_title">Bas Yükseltici</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">Bas Azaltıcı</string>
     <string name="graphic_eq_preset_treble_boost">Tiz Yükseltici</string>
     <string name="graphic_eq_preset_treble_reduction">Tiz Azaltıcı</string>
-    <string name="graphic_eq_preset_loudness">Yüksek Ses</string>
     <string name="graphic_eq_preset_vocal_boost">Vokal Yükseltici</string>
     <string name="graphic_eq_preset_m_shaped">M Tipi</string>
     <string name="graphic_eq_preset_u_shaped">U Tipi</string>

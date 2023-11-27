@@ -62,6 +62,8 @@
     <string name="graphic_eq_title">المعادل الرسومي</string>
     <string name="graphic_eq_dialog_title">تسجيل فوق الضبط المسبق الشخصي</string>
     <string name="graphic_eq_presets">الضبط المسبق</string>
+    <string name="equal_loudness_title">Equal loudness</string>
+    <string name="equal_loudness_threshold">Volume threshold</string>
 
     <string name="category_effects">التأثيرات</string>
     <string name="bass_boost_title">زيادة الجهير</string>
@@ -97,7 +99,6 @@
     <string name="graphic_eq_preset_bass_reduction">نقصان الجهير</string>
     <string name="graphic_eq_preset_treble_boost">زيادة الصوت الثلاثي</string>
     <string name="graphic_eq_preset_treble_reduction">نقصان الصوت الثلاثي</string>
-    <string name="graphic_eq_preset_loudness">الجهارة</string>
     <string name="graphic_eq_preset_vocal_boost">زيادة الملفوظ</string>
     <string name="graphic_eq_preset_m_shaped">شكل M</string>
     <string name="graphic_eq_preset_u_shaped">شكل U</string>
