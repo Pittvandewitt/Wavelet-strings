@@ -9,14 +9,14 @@
     <string name="paid_feature">以 %s 的价格解锁所有功能</string>
     <string name="unlock">解锁</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_title">升级你的体验</string>
+    <string name="purchase_dialog_text">只需 %s 你就能获得更好的音频体验</string>
+    <string name="purchase_dialog_refund">Google Play 提供 <annotation url="refund">48 小时的退款支持</annotation> 确保你体验完整功能</string>
+    <string name="purchase_dialog_positive">现在购买</string>
+    <string name="purchase_dialog_negative">稍后</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">电池用量设置为 \'受限\' 时 Wavelet 无法正常工作</string>
+    <string name="open_settings">修复问题</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet 开启/关闭</string>
@@ -62,8 +62,8 @@
     <string name="graphic_eq_title">图形均衡器</string>
     <string name="graphic_eq_dialog_title">覆盖个人预设</string>
     <string name="graphic_eq_presets">预设</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_title">等响度</string>
+    <string name="equal_loudness_threshold">音量阈值</string>
 
     <string name="category_effects">效果</string>
     <string name="bass_boost_title">低音增强</string>
@@ -86,7 +86,7 @@
     <string name="limiter_release_time">释放时间</string>
     <string name="limiter_ratio">压缩比</string>
     <string name="limiter_threshold">阈值</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">自动后级增益</string>
     <string name="limiter_post_gain">后级增益</string>
     <string name="channel_balance_title">声道平衡</string>
     <string name="channel_balance_left_gain">左声道增益</string>
