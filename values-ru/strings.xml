@@ -98,7 +98,7 @@
     <string name="graphic_eq_preset_bass_boost">Усилить басс</string>
     <string name="graphic_eq_preset_bass_reduction">Ослабить басс</string>
     <string name="graphic_eq_preset_treble_boost">Усилить ВЧ</string>
-    <string name="graphic_eq_preset_treble_reduction">Ослабить НЧ</string>
+    <string name="graphic_eq_preset_treble_reduction">Ослабить ВЧ</string>
     <string name="graphic_eq_preset_vocal_boost">Выровнить громкость</string>
     <string name="graphic_eq_preset_m_shaped">M-образный</string>
     <string name="graphic_eq_preset_u_shaped">U-образный</string>
