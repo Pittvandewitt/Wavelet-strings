@@ -62,7 +62,7 @@
     <string name="graphic_eq_title">Égaliseur graphique</string>
     <string name="graphic_eq_dialog_title">Écraser le préréglage personnel</string>
     <string name="graphic_eq_presets">Préréglages</string>
-    <string name="equal_loudness_title">Courbe d\'isosonie</string>
+    <string name="equal_loudness_title">Courbe isosonique</string>
     <string name="equal_loudness_threshold">Seuil de volume</string>
 
     <string name="category_effects">Effets</string>
