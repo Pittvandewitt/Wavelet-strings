@@ -31,7 +31,7 @@
     <string name="clipping_over_latency">Перевага кліппінгу над затримкою</string>
     <string name="latency_over_clipping">Перевага затримки над кліппінгом</string>
     <string name="setting_enhanced_session_title">Удосконалене виявлення сессії</string>
-    <string name="setting_enhanced_session_summary">Обидва дозволи обов'язкові</string>
+    <string name="setting_enhanced_session_summary">Обидва дозволи обов\'язкові</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">Сервіс Wavelet</string>
