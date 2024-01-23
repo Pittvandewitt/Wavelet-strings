@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Não há novas sessões de música iniciadas!</string>
+    <string name="no_active_sessions">Não há sessões de música ativas!</string>
     <string name="single_user_warning">Por gentileza instale este aplicativo como um usuário de sistema</string>
     <string name="warning_library_null">O Wavelet não foi capaz de instanciar o(s) efeito(s) %s</string>
     <string name="warning_no_browser">Não foi possível abrir a URL %s</string>
     <string name="warning_billing_service">Erro %d: O serviço de cobrança está indisponível</string>
-    <string name="paid_feature">Desbloqueie todos os recursos para %s</string>
-    <string name="unlock">Desbloqueio</string>
+    <string name="paid_feature">Desbloqueie todos os recursos por %s</string>
+    <string name="unlock">Desbloquear</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_title">Turbine sua experiência</string>
+    <string name="purchase_dialog_text">Sua experiência de som pode ser ainda melhor por %s</string>
+    <string name="purchase_dialog_refund">A Play Store assegura um período de <annotation url="refund">48h para devolução</annotation> para você experimentar todas as funções</string>
+    <string name="purchase_dialog_positive">Comprar</string>
+    <string name="purchase_dialog_negative">Depois</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">O Wavelet não pode funcionar corretamente se o uso de bateria estiver \'restrito\'</string>
+    <string name="open_settings">Corrigir</string>
 
     <!-- Settings -->
-    <string name="wavelet_toggle">Wavelet on/off</string>
-    <string name="settings_title">Settings</string>
+    <string name="wavelet_toggle">Wavelet lig/desl</string>
+    <string name="settings_title">Configurações</string>
     <string name="settings_legacy_mode">Modo legado</string>
-    <string name="settings_dump_permission">DUMP permission</string>
-    <string name="settings_notification_access">Notification access</string>
-    <string name="settings_permission_granted">Permission granted</string>
-    <string name="settings_permission_denied">Permission denied</string>
+    <string name="settings_dump_permission">Permissão DUMP</string>
+    <string name="settings_notification_access">Acesso às notificações</string>
+    <string name="settings_permission_granted">Permissão concedida</string>
+    <string name="settings_permission_denied">Permissão negada</string>
     <string name="menu_help">Ajuda</string>
-    <string name="settings_buffer_size">Buffer size</string>
+    <string name="settings_buffer_size">Tamanho de buffer</string>
     <string name="clipping_over_latency">Clipagem será preferida sobre a latência</string>
     <string name="latency_over_clipping">Latência será preferida sobre a clipagem</string>
-    <string name="setting_enhanced_session_title">Enhanced session detection</string>
-    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+    <string name="setting_enhanced_session_title">Detecção de sessão melhorada</string>
+    <string name="setting_enhanced_session_summary">Ambas as permissões são necessárias</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">Serviço Wavelet</string>
@@ -50,20 +50,20 @@
     <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
-    <string name="reset">Reset</string>
+    <string name="reset">Redefinir</string>
     <string name="category_equalization">Equalização</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modelo de fone de ouvido</string>
-    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_strength">Intensidade do AutoEq</string>
     <string name="auto_eq_import">Importar</string>
     <string name="auto_eq_file_import_success">Arquivo %s importado com sucesso</string>
-    <string name="auto_eq_file_import_fail">Arquivo %s falhou a importação</string>
+    <string name="auto_eq_file_import_fail">Falha na importação do arquivo %s</string>
     <string name="auto_eq_remove_item">Remover item</string>
     <string name="graphic_eq_title">Equalizador gráfico</string>
     <string name="graphic_eq_dialog_title">Sobrescrever perfil pessoal</string>
     <string name="graphic_eq_presets">Perfis</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_title">Nivelamento de áudio</string>
+    <string name="equal_loudness_threshold">Limiar de volume</string>
 
     <string name="category_effects">Efeitos</string>
     <string name="bass_boost_title">Ganho de graves</string>
@@ -86,7 +86,7 @@
     <string name="limiter_release_time">Tempo de Release</string>
     <string name="limiter_ratio">Razão</string>
     <string name="limiter_threshold">Limiar</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">Pós-ganho automático</string>
     <string name="limiter_post_gain">Ganho de saída</string>
     <string name="channel_balance_title">Balanço</string>
     <string name="channel_balance_left_gain">Ganho do canal esquerdo</string>
@@ -117,5 +117,5 @@
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
-    <string name="unit_samples">samples</string>
+    <string name="unit_samples">amostras</string>
 </resources>
