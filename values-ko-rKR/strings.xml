@@ -25,7 +25,7 @@
     <string name="settings_dump_permission">DUMP 권한</string>
     <string name="settings_notification_access">알림 접근</string>
     <string name="settings_permission_granted">권한 허용됨</string>
-    <string name="settings_permission_denied">권한 거부</string>
+    <string name="settings_permission_denied">권한 거부됨</string>
     <string name="menu_help">도움말</string>
     <string name="settings_buffer_size">버퍼 크기</string>
     <string name="clipping_over_latency">레이턴시보다 클리핑 우선</string>
