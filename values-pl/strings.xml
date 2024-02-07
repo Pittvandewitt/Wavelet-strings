@@ -15,8 +15,8 @@
     <string name="purchase_dialog_positive">Kup teraz</string>
     <string name="purchase_dialog_negative">Później</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">Wavelet może nie działać poprawnie, jeśli zużycie baterii jest ustawione na \'ograniczone\'</string>
+    <string name="open_settings">Napraw to</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet wł./wył.</string>
@@ -42,7 +42,7 @@
     <string name="device_unknown">Nieznane</string>
     <string name="device_headphone">Słuchawki</string>
     <string name="device_headset">Zestaw słuchawkowy</string>
-    <string name="device_speaker">Głóśnik</string>
+    <string name="device_speaker">Głośnik</string>
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_hearing_aid">Aparat słuchowy</string>
     <string name="device_usb">USB</string>
@@ -62,8 +62,8 @@
     <string name="graphic_eq_title">Korektor graficzny</string>
     <string name="graphic_eq_dialog_title">Nadpisz osobisty preset</string>
     <string name="graphic_eq_presets">Presety</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_title">Wyrównywanie głośności</string>
+    <string name="equal_loudness_threshold">Próg głośności</string>
 
     <string name="category_effects">Efekty</string>
     <string name="bass_boost_title">Wzmacnianie basu</string>
@@ -86,7 +86,7 @@
     <string name="limiter_release_time">Czas wydania</string>
     <string name="limiter_ratio">Współczynnik</string>
     <string name="limiter_threshold">Próg</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">Automatyczne post-wzmacnianie</string>
     <string name="limiter_post_gain">Post-wzmacnianie</string>
     <string name="channel_balance_title">Balans kanałów</string>
     <string name="channel_balance_left_gain">Wzmacnianie lewego kanału</string>
