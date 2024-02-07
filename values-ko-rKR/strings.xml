@@ -1,104 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">노래가 재생중인 상태가 아닙니다</string>
-    <string name="single_user_warning">시스템 유저 권한으로 앱을 설치해주세요</string>
-    <string name="warning_library_null">%s 효과를 Wavelet이 인스턴스화 할 수 없습니다</string>
-    <string name="warning_no_browser">URL 열 수 없음 %s</string>
-    <string name="warning_billing_service">Error %d: 결제 서비스 사용 불가능</string>
-    <string name="paid_feature">모든 기능 활성화 : %s</string>
-    <string name="unlock">구매</string>
+    <string name="no_active_sessions">아직 새로운 음악 세션이 시작되지 않았습니다.</string>
+    <string name="single_user_warning">이 앱을 시스템 유저 권한으로 설치해 주세요.</string>
+    <string name="warning_library_null">%s 효과를 Wavelet이 인스턴스화 할 수 없습니다.</string>
+    <string name="warning_no_browser">URL %s을(를) 열 수 없습니다.</string>
+    <string name="warning_billing_service">오류 %d: 결제 서비스 사용 불가능</string>
+    <string name="paid_feature">%s(으)로 모든 기능 잠금 해제</string>
+    <string name="unlock">잠금 해제</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_title">더 나은 경험으로 업그레이드</string>
+    <string name="purchase_dialog_text">%s(으)로 오디오 경험을 더욱 향상시킬 수 있습니다.</string>
+    <string name="purchase_dialog_refund">Google Play는 모든 기능을 사용해 볼 수 있도록 <annotation url="refund">48시간 환불 보장 서비스</annotation>를 제공합니다.</string>
+    <string name="purchase_dialog_positive">지금 구매</string>
+    <string name="purchase_dialog_negative">나중에</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
+    <string name="restricted_warning_text">배터리 사용량이 \'제한\'으로 설정되어 있으면 Wavelet이 제대로 작동하지 않을 수 있습니다.</string>
     <string name="open_settings">Fix it</string>
 
     <!-- Settings -->
-    <string name="wavelet_toggle">Wavelet on/off</string>
-    <string name="settings_title">Settings</string>
+    <string name="wavelet_toggle">Wavelet 켜기/끄기</string>
+    <string name="settings_title">설정</string>
     <string name="settings_legacy_mode">레거시 모드</string>
-    <string name="settings_dump_permission">DUMP permission</string>
-    <string name="settings_notification_access">Notification access</string>
-    <string name="settings_permission_granted">Permission granted</string>
-    <string name="settings_permission_denied">Permission denied</string>
+    <string name="settings_dump_permission">DUMP 권한</string>
+    <string name="settings_notification_access">알림 접근</string>
+    <string name="settings_permission_granted">권한 허용됨</string>
+    <string name="settings_permission_denied">권한 거부됨</string>
     <string name="menu_help">도움말</string>
-    <string name="settings_buffer_size">Buffer size</string>
-    <string name="clipping_over_latency">레이턴시보다 클리핑이 우선</string>
-    <string name="latency_over_clipping">클리핑보다 레이턴시가 우선</string>
-    <string name="setting_enhanced_session_title">Enhanced session detection</string>
-    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+    <string name="settings_buffer_size">버퍼 크기</string>
+    <string name="clipping_over_latency">레이턴시보다 클리핑 우선</string>
+    <string name="latency_over_clipping">클리핑보다 레이턴시 우선</string>
+    <string name="setting_enhanced_session_title">향상된 세션 감지</string>
+    <string name="setting_enhanced_session_summary">두 권한 모두 필요합니다.</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">Wavelet 서비스</string>
     <string name="service_description">최고의 음감을 선사하는 Wavelet 서비스</string>
     <string name="service_notification_text">Wavelet을 사용하는 앱:</string>
-    <string name="service_notification_text_default">추가 옵션을 보려면 누르십시오</string>
+    <string name="service_notification_text_default">더 많은 옵션을 보려면 탭하세요.</string>
 
-    <string name="device_unknown">알 수 없는 장치</string>
+    <string name="device_unknown">알 수 없음</string>
     <string name="device_headphone">헤드폰</string>
     <string name="device_headset">헤드셋</string>
     <string name="device_speaker">스피커</string>
-    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_bluetooth">블루투스</string>
     <string name="device_hearing_aid">보청기</string>
     <string name="device_usb">USB</string>
     <string name="device_android_auto">Android Auto</string>
     <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
-    <string name="reset">초기화</string>
+    <string name="reset">재설정</string>
     <string name="category_equalization">이퀄라이저</string>
-    <string name="auto_eq_title">자동선택</string>
-    <string name="auto_eq_dialog_title">기기 모델</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">기기명</string>
     <string name="auto_eq_strength">AutoEq 강도</string>
     <string name="auto_eq_import">추가</string>
-    <string name="auto_eq_file_import_success">성공적으로 추가됨 %s</string>
-    <string name="auto_eq_file_import_fail">추가 실패 %s</string>
+    <string name="auto_eq_file_import_success">%s 가져오기 성공</string>
+    <string name="auto_eq_file_import_fail">%s 가져오기 실패</string>
     <string name="auto_eq_remove_item">항목 제거</string>
     <string name="graphic_eq_title">그래픽 이퀄라이저</string>
-    <string name="graphic_eq_dialog_title">개인 프리셋 수정</string>
+    <string name="graphic_eq_dialog_title">개인 프리셋 덮어쓰기</string>
     <string name="graphic_eq_presets">프리셋</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_title">라우드니스 보정</string>
+    <string name="equal_loudness_threshold">볼륨 임계값</string>
 
     <string name="category_effects">효과</string>
     <string name="bass_boost_title">베이스 부스터</string>
-    <string name="bass_boost_strength">부스터 강도</string>
+    <string name="bass_boost_strength">베이스 부스트 강도</string>
     <string name="preset_reverb_title">리버브</string>
     <string name="preset_reverb_preset">프리셋</string>
-    <string name="virtualizer_title">버츄얼라이저</string>
-    <string name="virtualizer_strength">버츄얼라이저 강도</string>
+    <string name="virtualizer_title">버추얼라이저</string>
+    <string name="virtualizer_strength">버추얼라이저 강도</string>
     <string name="bass_tuner_title">베이스 튜너</string>
-    <string name="bass_tuner_type">베이스 타입</string>
-    <string name="bass_tuner_type_natural">내츄럴</string>
-    <string name="bass_tuner_type_transient_compressor">트랜전트 컴프레서</string>
+    <string name="bass_tuner_type">베이스 유형</string>
+    <string name="bass_tuner_type_natural">자연스럽게</string>
+    <string name="bass_tuner_type_transient_compressor">트랜지트 컴프레서</string>
     <string name="bass_tuner_type_sustain_compressor">서스테인 컴프레서</string>
-    <string name="bass_tuner_cutoff_frequency">차단 프리퀀시</string>
+    <string name="bass_tuner_cutoff_frequency">차단 주파수</string>
     <string name="bass_tuner_post_gain">포스트 게인</string>
 
-    <string name="category_gain_control">게인 컨트롤</string>
+    <string name="category_gain_control">게인 제어</string>
     <string name="limiter_title">리미터</string>
     <string name="limiter_attack_time">어택 타임</string>
     <string name="limiter_release_time">릴리즈 타임</string>
     <string name="limiter_ratio">비율</string>
     <string name="limiter_threshold">스레숄드</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">자동 포스트 게인</string>
     <string name="limiter_post_gain">포스트 게인</string>
     <string name="channel_balance_title">채널 밸런스</string>
-    <string name="channel_balance_left_gain">왼쪽</string>
-    <string name="channel_balance_right_gain">오른쪽</string>
+    <string name="channel_balance_left_gain">왼쪽 채널 게인</string>
+    <string name="channel_balance_right_gain">오른쪽 채널 게인</string>
 
     <string name="graphic_eq_preset_flat">플랫</string>
     <string name="graphic_eq_preset_dark">어둡게</string>
     <string name="graphic_eq_preset_bright">밝게</string>
     <string name="graphic_eq_preset_bass_boost">저음 강조</string>
-    <string name="graphic_eq_preset_bass_reduction">저음 억제</string>
+    <string name="graphic_eq_preset_bass_reduction">저음 감소</string>
     <string name="graphic_eq_preset_treble_boost">고음 강조</string>
-    <string name="graphic_eq_preset_treble_reduction">고음 억제</string>
+    <string name="graphic_eq_preset_treble_reduction">고음 감소</string>
     <string name="graphic_eq_preset_vocal_boost">보컬 강조</string>
     <string name="graphic_eq_preset_m_shaped">M자형</string>
     <string name="graphic_eq_preset_u_shaped">U자형</string>
@@ -117,5 +117,5 @@
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
-    <string name="unit_samples">samples</string>
+    <string name="unit_samples">샘플</string>
 </resources>
