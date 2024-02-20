@@ -2,42 +2,42 @@
 <resources>
     <string name="app_name">ويفليت</string>
     <string name="no_active_sessions">لم تبدأ أي جلسات موسيقية بعد</string>
-    <string name="single_user_warning">المرجو تثبيث هذا التطبيق كمستخدم النظام</string>
+    <string name="single_user_warning">الرجاء  تثبيث هذا التطبيق كمستخدم النظام</string>
     <string name="warning_library_null">ويفليت لم يتمكن من إنشاء %s تأثيرات</string>
     <string name="warning_no_browser">لا يمكن فتح الرابط %s</string>
     <string name="warning_billing_service">خطأ %d: خدمة الفوترة غير متاحة</string>
     <string name="paid_feature">فتح كل الميزات بـ %s</string>
     <string name="unlock">فتح</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_title">طور تجربتك</string>
+    <string name="purchase_dialog_text">تجربتك للاستماع لمقاطعك الصوتية سوف تكون افضل مع %s</string>
+    <string name="purchase_dialog_refund">متجر جوجل يضمن لك <annotation url="refund">48 ساعة لإسترجاع المبلغ</annotation> لك لتقوم بتجربة جميع خواص ويفليت</string>
+    <string name="purchase_dialog_positive">اشتر الآن</string>
+    <string name="purchase_dialog_negative">لاحقا</string>
 
     <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
     <string name="open_settings">Fix it</string>
 
     <!-- Settings -->
-    <string name="wavelet_toggle">Wavelet on/off</string>
-    <string name="settings_title">Settings</string>
+    <string name="wavelet_toggle">ايقاف/تشغيل ويفليت</string>
+    <string name="settings_title">الإعدادات</string>
     <string name="settings_legacy_mode">الوضع القديم</string>
     <string name="settings_dump_permission">DUMP permission</string>
-    <string name="settings_notification_access">Notification access</string>
-    <string name="settings_permission_granted">Permission granted</string>
+    <string name="settings_notification_access">اذن الإشعارات</string>
+    <string name="settings_permission_granted">تم السماح للاشعارات</string>
     <string name="settings_permission_denied">Permission denied</string>
     <string name="menu_help">مساعدة</string>
-    <string name="settings_buffer_size">Buffer size</string>
+    <string name="settings_buffer_size">حجم المعادل</string>
     <string name="clipping_over_latency">التقطّع مفضّل على الاستجابة</string>
     <string name="latency_over_clipping">الاستجابة مفضّلة على التقطّع</string>
-    <string name="setting_enhanced_session_title">Enhanced session detection</string>
-    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+    <string name="setting_enhanced_session_title">مكتشف الجلسات المحسن</string>
+    <string name="setting_enhanced_session_summary">الأذونات جميعها ضرورية</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">خدمة ويفليت</string>
-    <string name="service_description">خدمة ويفليت للاحتفاظ على أحسن صوت</string>
+    <string name="service_description">خدمة ويفليت للاحتفاظ بأحسن صوت</string>
     <string name="service_notification_text">التطبيقات التي تستعمل ويفليت:</string>
-    <string name="service_notification_text_default">اضغط للمزيد من الخيارات</string>
+    <string name="service_notification_text_default">اضغط للمزيد من المعلومات</string>
 
     <string name="device_unknown">غير معروف</string>
     <string name="device_headphone">سماعة الرأس</string>
@@ -46,24 +46,24 @@
     <string name="device_bluetooth">البلوتوث</string>
     <string name="device_hearing_aid">مساعد السمع</string>
     <string name="device_usb">يو إس بي</string>
-    <string name="device_android_auto">Android Auto</string>
-    <string name="device_chrome_os">Chrome OS</string>
+    <string name="device_android_auto">أندرويد أوتو</string>
+    <string name="device_chrome_os">كروم بوك</string>
 
     <!-- Preference strings -->
     <string name="reset">إعادة الضبط</string>
     <string name="category_equalization">معادلة الصوت</string>
     <string name="auto_eq_title">المعادل التلقائي</string>
     <string name="auto_eq_dialog_title">طراز السماعة الرأس</string>
-    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_strength">قوة معادل الصوت</string>
     <string name="auto_eq_import">استيراد</string>
     <string name="auto_eq_file_import_success">نجح استيراد %s</string>
-    <string name="auto_eq_file_import_fail">فشل استيرات %s</string>
+    <string name="auto_eq_file_import_fail">فشل استيراد %s</string>
     <string name="auto_eq_remove_item">إزالة عنصر</string>
     <string name="graphic_eq_title">المعادل الرسومي</string>
     <string name="graphic_eq_dialog_title">تسجيل فوق الضبط المسبق الشخصي</string>
     <string name="graphic_eq_presets">الضبط المسبق</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_title">معادل مستوى الصوت</string>
+    <string name="equal_loudness_threshold">مستوى الصوت</string>
 
     <string name="category_effects">التأثيرات</string>
     <string name="bass_boost_title">زيادة الجهير</string>
@@ -86,14 +86,14 @@
     <string name="limiter_release_time">وقت الإفلات</string>
     <string name="limiter_ratio">النسبة</string>
     <string name="limiter_threshold">العتبة</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">التأثير الأوتوماتيكي</string>
     <string name="limiter_post_gain">الكسب البعدي</string>
     <string name="channel_balance_title">موازنة القناة</string>
     <string name="channel_balance_left_gain">الكسب للقناة اليسرى</string>
     <string name="channel_balance_right_gain">الكسب للقناة اليمنى</string>
 
     <string name="graphic_eq_preset_flat">مسطح</string>
-    <string name="graphic_eq_preset_dark">غليض</string>
+    <string name="graphic_eq_preset_dark">غليظ</string>
     <string name="graphic_eq_preset_bright">حاد</string>
     <string name="graphic_eq_preset_bass_boost">زيادة الجهير</string>
     <string name="graphic_eq_preset_bass_reduction">نقصان الجهير</string>
@@ -114,8 +114,8 @@
     <string name="preset_reverb_plate">الطبق</string>
 
     <!-- Units -->
-    <string name="unit_milliseconds">ms</string>
-    <string name="unit_decibel">dB</string>
-    <string name="unit_hertz">Hz</string>
-    <string name="unit_samples">samples</string>
+    <string name="unit_milliseconds">ج.ث</string>
+    <string name="unit_decibel">ديسيبل</string>
+    <string name="unit_hertz">هيرتز</string>
+    <string name="unit_samples">عينات</string>
 </resources>
