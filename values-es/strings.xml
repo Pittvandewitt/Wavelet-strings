@@ -2,32 +2,32 @@
 <resources>
     <string name="app_name">Wavelet</string>
     <string name="no_active_sessions">No hay sesiones abiertas todavía</string>
-    <string name="single_user_warning">Favor de instalar esta aplicación como usuario de sistema</string>
+    <string name="single_user_warning">Por favor, instale la aplicación como usuario del sistema</string>
     <string name="warning_library_null">Wavelet no pudo inicializar efectos %s</string>
     <string name="warning_no_browser">Error al navegar a %s</string>
     <string name="warning_billing_service">Error %d: Servicio de cobro no disponible</string>
     <string name="paid_feature">Desbloquear todas las características por %s</string>
     <string name="unlock">Desbloquear</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
+    <string name="purchase_dialog_title">Mejore su experiencia</string>
+    <string name="purchase_dialog_text">Su experiencia de audio podría ser aún mejor por %s</string>
+    <string name="purchase_dialog_refund">Google Play proporciona una <annotation url="refund">garantía de devolución de 48hs</annotation> para que pueda probar todas las funciones</string>
+    <string name="purchase_dialog_positive">Comprar ahora</string>
     <string name="purchase_dialog_negative">Later</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">Wavelet no puede funcionar correctamente si el uso de la batería se establece en \'restringido\'</string>
+    <string name="open_settings">Corregir</string>
 
     <!-- Settings -->
-    <string name="wavelet_toggle">Wavelet on/off</string>
-    <string name="settings_title">Settings</string>
+    <string name="wavelet_toggle">Wavelet activado/desactivado</string>
+    <string name="settings_title">Ajustes</string>
     <string name="settings_legacy_mode">Modo original</string>
-    <string name="settings_dump_permission">DUMP permission</string>
-    <string name="settings_notification_access">Notification access</string>
-    <string name="settings_permission_granted">Permission granted</string>
-    <string name="settings_permission_denied">Permission denied</string>
+    <string name="settings_dump_permission">Acceso DUMP</string>
+    <string name="settings_notification_access">Acceso a notificaciones</string>
+    <string name="settings_permission_granted">Permitido</string>
+    <string name="settings_permission_denied">No permitido</string>
     <string name="menu_help">Ayuda</string>
-    <string name="settings_buffer_size">Buffer size</string>
+    <string name="settings_buffer_size">Tamaño de búfer</string>
     <string name="clipping_over_latency">Preferir recortes a latencia</string>
     <string name="latency_over_clipping">Preferir latencia a recortes</string>
     <string name="setting_enhanced_session_title">Enhanced session detection</string>
