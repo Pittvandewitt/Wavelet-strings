@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">No hay sesiones abiertas todavía</string>
+    <string name="no_active_sessions">No hay aplicaciones abiertas todavía</string>
     <string name="single_user_warning">Por favor, instale la aplicación como usuario del sistema</string>
     <string name="warning_library_null">Wavelet no pudo inicializar efectos %s</string>
     <string name="warning_no_browser">Error al navegar a %s</string>
@@ -21,7 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet activado/desactivado</string>
     <string name="settings_title">Ajustes</string>
-    <string name="settings_legacy_mode">Modo original</string>
+    <string name="settings_legacy_mode">Modo heredado</string>
     <string name="settings_dump_permission">Acceso DUMP</string>
     <string name="settings_notification_access">Acceso a notificaciones</string>
     <string name="settings_permission_granted">Permitido</string>
@@ -30,19 +30,19 @@
     <string name="settings_buffer_size">Tamaño de búfer</string>
     <string name="clipping_over_latency">Preferir recortes a latencia</string>
     <string name="latency_over_clipping">Preferir latencia a recortes</string>
-    <string name="setting_enhanced_session_title">Enhanced session detection</string>
-    <string name="setting_enhanced_session_summary">Both permissions are required</string>
+    <string name="setting_enhanced_session_title">Detección de aplicaciones mejorada</string>
+    <string name="setting_enhanced_session_summary">Ambos permisos son requeridos</string>
 
     <!-- Foreground Service notification -->
     <string name="service_channel_name">Servicio Wavelet</string>
-    <string name="service_description">Servicio Wavelet para optimizar la calidad de tu audio</string>
+    <string name="service_description">Servicio Wavelet para mantener las mejoras de audio activas</string>
     <string name="service_notification_text">Aplicaciones usando Wavelet:</string>
-    <string name="service_notification_text_default">Selecciona para más opciones</string>
+    <string name="service_notification_text_default">Pulsa para más opciones</string>
 
     <string name="device_unknown">Desconocido</string>
     <string name="device_headphone">Audífonos pequeños</string>
     <string name="device_headset">Audífonos medianos</string>
-    <string name="device_speaker">Bocina</string>
+    <string name="device_speaker">Altavoz</string>
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_hearing_aid">Hearing aid</string>
     <string name="device_usb">USB</string>
@@ -50,7 +50,7 @@
     <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
-    <string name="reset">Reset</string>
+    <string name="reset">Restablecer</string>
     <string name="category_equalization">Ecualizador</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modelo de audífonos</string>
@@ -60,7 +60,7 @@
     <string name="auto_eq_file_import_fail">Error al importar %s</string>
     <string name="auto_eq_remove_item">Remover elemento</string>
     <string name="graphic_eq_title">Ecualizador gráfico</string>
-    <string name="graphic_eq_dialog_title">Sobreescribir configuración personal</string>
+    <string name="graphic_eq_dialog_title">Cambiar configuración personalizada</string>
     <string name="graphic_eq_presets">Configuraciones</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
@@ -77,7 +77,7 @@
     <string name="bass_tuner_type_natural">Natural</string>
     <string name="bass_tuner_type_transient_compressor">Compresor transitorio</string>
     <string name="bass_tuner_type_sustain_compressor">Compresor sostenido</string>
-    <string name="bass_tuner_cutoff_frequency">Cutoff frequency</string>
+    <string name="bass_tuner_cutoff_frequency">Frecuencia de corte</string>
     <string name="bass_tuner_post_gain">Post-ganancia</string>
 
     <string name="category_gain_control">Control de ganancia</string>
@@ -86,7 +86,7 @@
     <string name="limiter_release_time">Tiempo de salida</string>
     <string name="limiter_ratio">Radio</string>
     <string name="limiter_threshold">Umbral</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
+    <string name="limiter_automatic_post_gain">Post-ganancia automática</string>
     <string name="limiter_post_gain">Post-ganancia</string>
     <string name="channel_balance_title">Balance de canales</string>
     <string name="channel_balance_left_gain">Ganancia canal izquierdo</string>
@@ -104,18 +104,18 @@
     <string name="graphic_eq_preset_u_shaped">Figura \'U\'</string>
     <string name="graphic_eq_preset_v_shaped">Figura \'V\'</string>
     <string name="graphic_eq_preset_w_shaped">Figura \'W\'</string>
-    <string name="graphic_eq_preset_personal">Personal</string>
+    <string name="graphic_eq_preset_personal">Personalizado</string>
 
     <string name="preset_reverb_small_room">Habitación pequeña</string>
     <string name="preset_reverb_medium_room">Habitación mediana</string>
     <string name="preset_reverb_large_room">Habitación grande</string>
     <string name="preset_reverb_medium_hall">Salón mediano</string>
     <string name="preset_reverb_large_hall">Salón grande</string>
-    <string name="preset_reverb_plate">Plato</string>
+    <string name="preset_reverb_plate">Placa</string>
 
     <!-- Units -->
     <string name="unit_milliseconds">ms</string>
     <string name="unit_decibel">dB</string>
     <string name="unit_hertz">Hz</string>
-    <string name="unit_samples">samples</string>
+    <string name="unit_samples">muestras</string>
 </resources>
