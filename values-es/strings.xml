@@ -4,7 +4,7 @@
     <string name="no_active_sessions">No hay aplicaciones abiertas todavía</string>
     <string name="single_user_warning">Por favor, instale la aplicación como usuario del sistema</string>
     <string name="warning_library_null">Wavelet no pudo inicializar efectos %s</string>
-    <string name="warning_no_browser">Error al navegar a %s</string>
+    <string name="warning_no_browser">No se pudo abrir la dirección %s</string>
     <string name="warning_billing_service">Error %d: Servicio de cobro no disponible</string>
     <string name="paid_feature">Desbloquear todas las características por %s</string>
     <string name="unlock">Desbloquear</string>
@@ -13,9 +13,9 @@
     <string name="purchase_dialog_text">Su experiencia de audio podría ser aún mejor por %s</string>
     <string name="purchase_dialog_refund">Google Play proporciona una <annotation url="refund">garantía de devolución de 48hs</annotation> para que pueda probar todas las funciones</string>
     <string name="purchase_dialog_positive">Comprar ahora</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_negative">Quizás más tarde</string>
 
-    <string name="restricted_warning_text">Wavelet no puede funcionar correctamente si el uso de la batería se establece en \'restringido\'</string>
+    <string name="restricted_warning_text">Wavelet no puede funcionar correctamente si el uso de batería se establece en \'restringido\'</string>
     <string name="open_settings">Corregir</string>
 
     <!-- Settings -->
@@ -40,8 +40,8 @@
     <string name="service_notification_text_default">Pulsa para más opciones</string>
 
     <string name="device_unknown">Desconocido</string>
-    <string name="device_headphone">Audífonos pequeños</string>
-    <string name="device_headset">Audífonos medianos</string>
+    <string name="device_headphone">Auriculares</string>
+    <string name="device_headset">Cascos</string>
     <string name="device_speaker">Altavoz</string>
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_hearing_aid">Hearing aid</string>
@@ -53,7 +53,7 @@
     <string name="reset">Restablecer</string>
     <string name="category_equalization">Ecualizador</string>
     <string name="auto_eq_title">AutoEq</string>
-    <string name="auto_eq_dialog_title">Modelo de audífonos</string>
+    <string name="auto_eq_dialog_title">Modelo de auriculares</string>
     <string name="auto_eq_strength">Potencia de AutoEq</string>
     <string name="auto_eq_import">Importar</string>
     <string name="auto_eq_file_import_success">%s importado</string>
@@ -61,7 +61,7 @@
     <string name="auto_eq_remove_item">Remover elemento</string>
     <string name="graphic_eq_title">Ecualizador gráfico</string>
     <string name="graphic_eq_dialog_title">Cambiar configuración personalizada</string>
-    <string name="graphic_eq_presets">Configuraciones</string>
+    <string name="graphic_eq_presets">Preajustes</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
 
@@ -69,7 +69,7 @@
     <string name="bass_boost_title">Resaltar bajos</string>
     <string name="bass_boost_strength">Potencia de bajos</string>
     <string name="preset_reverb_title">Reverberación</string>
-    <string name="preset_reverb_preset">Configuración</string>
+    <string name="preset_reverb_preset">Preajuste</string>
     <string name="virtualizer_title">Virtualizador</string>
     <string name="virtualizer_strength">Potencia de virtualización</string>
     <string name="bass_tuner_title">Ajustar bajos</string>
