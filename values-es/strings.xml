@@ -4,7 +4,7 @@
     <string name="no_active_sessions">No hay aplicaciones abiertas todavía</string>
     <string name="single_user_warning">Por favor, instale la aplicación como usuario del sistema</string>
     <string name="warning_library_null">Wavelet no pudo inicializar efectos %s</string>
-    <string name="warning_no_browser">No se pudo abrir la dirección %s</string>
+    <string name="warning_no_browser">No se pudo abrir la página %s</string>
     <string name="warning_billing_service">Error %d: Servicio de cobro no disponible</string>
     <string name="paid_feature">Desbloquear todas las características por %s</string>
     <string name="unlock">Desbloquear</string>
