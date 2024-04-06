@@ -37,14 +37,14 @@
     <string name="service_channel_name">Servicio Wavelet</string>
     <string name="service_description">Servicio Wavelet para mantener las mejoras de audio activas</string>
     <string name="service_notification_text">Aplicaciones usando Wavelet:</string>
-    <string name="service_notification_text_default">Pulsa para más opciones</string>
+    <string name="service_notification_text_default">Pulse para más opciones</string>
 
-    <string name="device_unknown">Desconocido</string>
+    <string name="device_unknown">Dispositivo desconocido</string>
     <string name="device_headphone">Auriculares</string>
     <string name="device_headset">Cascos</string>
     <string name="device_speaker">Altavoz</string>
     <string name="device_bluetooth">Bluetooth</string>
-    <string name="device_hearing_aid">Hearing aid</string>
+    <string name="device_hearing_aid">Dispositivo para la audición</string>
     <string name="device_usb">USB</string>
     <string name="device_android_auto">Android Auto</string>
     <string name="device_chrome_os">Chrome OS</string>
@@ -61,15 +61,15 @@
     <string name="auto_eq_remove_item">Remover elemento</string>
     <string name="graphic_eq_title">Ecualizador gráfico</string>
     <string name="graphic_eq_dialog_title">Cambiar configuración personalizada</string>
-    <string name="graphic_eq_presets">Preajustes</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="graphic_eq_presets">Preconfiguración</string>
+    <string name="equal_loudness_title">Igualdad de volumen</string>
+    <string name="equal_loudness_threshold">Umbral de volumen</string>
 
     <string name="category_effects">Efectos</string>
     <string name="bass_boost_title">Resaltar bajos</string>
     <string name="bass_boost_strength">Potencia de bajos</string>
     <string name="preset_reverb_title">Reverberación</string>
-    <string name="preset_reverb_preset">Preajuste</string>
+    <string name="preset_reverb_preset">Preconfiguración</string>
     <string name="virtualizer_title">Virtualizador</string>
     <string name="virtualizer_strength">Potencia de virtualización</string>
     <string name="bass_tuner_title">Ajustar bajos</string>
@@ -104,7 +104,7 @@
     <string name="graphic_eq_preset_u_shaped">Figura \'U\'</string>
     <string name="graphic_eq_preset_v_shaped">Figura \'V\'</string>
     <string name="graphic_eq_preset_w_shaped">Figura \'W\'</string>
-    <string name="graphic_eq_preset_personal">Personalizado</string>
+    <string name="graphic_eq_preset_personal">Personalizada</string>
 
     <string name="preset_reverb_small_room">Habitación pequeña</string>
     <string name="preset_reverb_medium_room">Habitación mediana</string>
