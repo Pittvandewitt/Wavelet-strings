@@ -21,7 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
     <string name="settings_title">Réglages</string>
-    <string name="settings_legacy_mode">Ancien mode</string>
+    <string name="settings_legacy_mode">Mode hérité</string>
     <string name="settings_dump_permission">Permission DUMP</string>
     <string name="settings_notification_access">Accès notification</string>
     <string name="settings_permission_granted">Permission accordée</string>
