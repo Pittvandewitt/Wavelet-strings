@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet 开启/关闭</string>
     <string name="settings_title">设置</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">传统模式</string>
     <string name="settings_dump_permission">DUMP 权限</string>
     <string name="settings_notification_access">通知读取权限</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">图形均衡器</string>
     <string name="graphic_eq_dialog_title">覆盖个人预设</string>
     <string name="graphic_eq_presets">预设</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">保存</string>
     <string name="equal_loudness_title">等响度</string>
     <string name="equal_loudness_threshold">音量阈值</string>
 

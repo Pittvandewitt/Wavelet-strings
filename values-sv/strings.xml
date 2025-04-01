@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet på/av</string>
     <string name="settings_title">Inställningar</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">Kompatibilitetsläge</string>
     <string name="settings_dump_permission">DUMP-tillstånd</string>
     <string name="settings_notification_access">Aviseringsåtkomst</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">Grafisk EQ</string>
     <string name="graphic_eq_dialog_title">Ersätt personlig inställning</string>
     <string name="graphic_eq_presets">Inställningar</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">Spara</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
 

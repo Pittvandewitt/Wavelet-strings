@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet wł./wył.</string>
     <string name="settings_title">Ustawienia</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">Tryb Legacy</string>
     <string name="settings_dump_permission">Uprawnienie DUMP</string>
     <string name="settings_notification_access">Dostęp do powiadomień</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">Korektor graficzny</string>
     <string name="graphic_eq_dialog_title">Nadpisz osobisty preset</string>
     <string name="graphic_eq_presets">Presety</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">Zapisz</string>
     <string name="equal_loudness_title">Wyrównywanie głośności</string>
     <string name="equal_loudness_threshold">Próg głośności</string>
 

@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
     <string name="settings_title">Settings</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">Mode Lama</string>
     <string name="settings_dump_permission">DUMP permission</string>
     <string name="settings_notification_access">Notification access</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">Graphic equalizer</string>
     <string name="graphic_eq_dialog_title">Tindih preset pribadi</string>
     <string name="graphic_eq_presets">Preset</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">Simpan</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
 

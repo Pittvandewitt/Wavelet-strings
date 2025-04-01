@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet चालू/बंद</string>
     <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">लेगसि मोड</string>
     <string name="settings_dump_permission">DUMP अनुमति</string>
     <string name="settings_notification_access">नोटिफीकेशन ऐकसस</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">ग्राफ़िक तुल्यकारक</string>
     <string name="graphic_eq_dialog_title">व्यक्तिगत प्रीसेट को अधिलेखित करें</string>
     <string name="graphic_eq_presets">प्रीसेट</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">सेव करें</string>
     <string name="equal_loudness_title">बराबर प्रबलता</string>
     <string name="equal_loudness_threshold">वोल्युम की सीमा</string>
 

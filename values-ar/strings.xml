@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">ايقاف/تشغيل ويفليت</string>
     <string name="settings_title">الإعدادات</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">الوضع القديم</string>
     <string name="settings_dump_permission">DUMP permission</string>
     <string name="settings_notification_access">اذن الإشعارات</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">المعادل الرسومي</string>
     <string name="graphic_eq_dialog_title">تسجيل فوق الضبط المسبق الشخصي</string>
     <string name="graphic_eq_presets">الضبط المسبق</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">>حفظ</string>
     <string name="equal_loudness_title">معادل مستوى الصوت</string>
     <string name="equal_loudness_threshold">مستوى الصوت</string>
 

@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Выключить/включить wavelet</string>
     <string name="settings_title">Настройки</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">Устаревший режим</string>
     <string name="settings_dump_permission">Разрешение на сброс</string>
     <string name="settings_notification_access">Доступ к уведомлениям</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">Графический эквалайзер</string>
     <string name="graphic_eq_dialog_title">Перезаписать</string>
     <string name="graphic_eq_presets">Пресеты</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">Сохранить</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
 

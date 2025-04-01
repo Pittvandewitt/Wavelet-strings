@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet オン/オフ</string>
     <string name="settings_title">設定</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">レガシーモード</string>
     <string name="settings_dump_permission">DUMP パーミッション</string>
     <string name="settings_notification_access">通知へのアクセス</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">グラフィック・イコライザー</string>
     <string name="graphic_eq_dialog_title">個人用プリセットの上書き</string>
     <string name="graphic_eq_presets">プリセット</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">保存</string>
     <string name="equal_loudness_title">ラウドネス等化</string>
     <string name="equal_loudness_threshold">音量のしきい値</string>
 

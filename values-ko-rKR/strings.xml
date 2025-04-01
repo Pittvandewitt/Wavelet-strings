@@ -21,6 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet 켜기/끄기</string>
     <string name="settings_title">설정</string>
+    <string name="settings_aidl_mode">AIDL mode</string>
     <string name="settings_legacy_mode">레거시 모드</string>
     <string name="settings_dump_permission">DUMP 권한</string>
     <string name="settings_notification_access">알림 접근</string>
@@ -62,6 +63,10 @@
     <string name="graphic_eq_title">그래픽 이퀄라이저</string>
     <string name="graphic_eq_dialog_title">개인 프리셋 덮어쓰기</string>
     <string name="graphic_eq_presets">프리셋</string>
+    <string name="graphic_eq_new">New</string>
+    <string name="graphic_eq_new_preset">New preset</string>
+    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_preset_save">저장</string>
     <string name="equal_loudness_title">라우드니스 보정</string>
     <string name="equal_loudness_threshold">볼륨 임계값</string>
 
