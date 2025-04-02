@@ -53,9 +53,9 @@
     <!-- Preference strings -->
     <string name="reset">Sıfırla</string>
     <string name="category_equalization">Ekolayzer</string>
-    <string name="auto_eq_title">OtoEQ</string>
+    <string name="auto_eq_title">AutoEQ</string>
     <string name="auto_eq_dialog_title">Kulaklık Modeli</string>
-    <string name="auto_eq_strength">OtoEQ Yoğunluğu</string>
+    <string name="auto_eq_strength">AutoEQ Yoğunluğu</string>
     <string name="auto_eq_import">İçe Aktar</string>
     <string name="auto_eq_file_import_success">%s Başarıyla içe aktarıldı</string>
     <string name="auto_eq_file_import_fail">%s içe aktarılamadı</string>
