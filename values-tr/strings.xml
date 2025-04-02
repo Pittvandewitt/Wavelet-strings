@@ -9,19 +9,19 @@
     <string name="paid_feature">Tüm özelliklerin kilidini %s ile açabilirsiniz</string>
     <string name="unlock">Kilidini aç</string>
 
-    <string name="purchase_dialog_title">Upgrade your experience</string>
-    <string name="purchase_dialog_text">Your audio experience could be even better for %s</string>
-    <string name="purchase_dialog_refund">Google Play ensures a <annotation url="refund">48h money-back guarantee</annotation> for you to try all features</string>
-    <string name="purchase_dialog_positive">Buy now</string>
-    <string name="purchase_dialog_negative">Later</string>
+    <string name="purchase_dialog_title">Deneyiminizi yükseltin</string>
+    <string name="purchase_dialog_text">%s Karşılığında daha iyi bir ses deneyimi elde edebilirsiniz.</string>
+    <string name="purchase_dialog_refund">Google Play tüm özellikleri deneyebilmeniz için <annotation url="refund">48 Saatlik para iade garantisi</annotation> sağlar.</string>
+    <string name="purchase_dialog_positive">Şimdi al</string>
+    <string name="purchase_dialog_negative">Daha sonra</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">Wavelet pil kullanımı \'kısıtlanmış\' olarak ayarlanınca düzgün bir şekilde çalışamaz.</string>
+    <string name="open_settings">Düzelt</string>
 
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet açık/kapalı</string>
     <string name="settings_title">Ayarlar</string>
-    <string name="settings_aidl_mode">AIDL mode</string>
+    <string name="settings_aidl_mode">AIDL modu</string>
     <string name="settings_legacy_mode">Eski mod</string>
     <string name="settings_dump_permission">DUMP izni</string>
     <string name="settings_notification_access">Bildirim erişimi</string>
@@ -53,9 +53,9 @@
     <!-- Preference strings -->
     <string name="reset">Sıfırla</string>
     <string name="category_equalization">Ekolayzer</string>
-    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_title">AutoEQ</string>
     <string name="auto_eq_dialog_title">Kulaklık Modeli</string>
-    <string name="auto_eq_strength">AutoEq Yoğunluğu</string>
+    <string name="auto_eq_strength">AutoEQ Yoğunluğu</string>
     <string name="auto_eq_import">İçe Aktar</string>
     <string name="auto_eq_file_import_success">%s Başarıyla içe aktarıldı</string>
     <string name="auto_eq_file_import_fail">%s içe aktarılamadı</string>
@@ -63,12 +63,12 @@
     <string name="graphic_eq_title">Grafik Ekolayzer</string>
     <string name="graphic_eq_dialog_title">Kişisel ön ayarın üzerine yaz</string>
     <string name="graphic_eq_presets">Ön Ayarlar</string>
-    <string name="graphic_eq_new">New</string>
-    <string name="graphic_eq_new_preset">New preset</string>
-    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_new">Yeni</string>
+    <string name="graphic_eq_new_preset">Yeni Önayar</string>
+    <string name="graphic_eq_new_preset_name_hint">Önayar adı</string>
     <string name="graphic_eq_preset_save">Kaydet</string>
-    <string name="equal_loudness_title">Equal loudness</string>
-    <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_title">Eşit ses yüksekliği</string>
+    <string name="equal_loudness_threshold">Ses yüksekliği eşiği</string>
 
     <string name="category_effects">Efektler</string>
     <string name="bass_boost_title">Bas Yükseltici</string>
@@ -77,7 +77,7 @@
     <string name="preset_reverb_preset">Ön Ayar</string>
     <string name="virtualizer_title">Sanallaştırıcı</string>
     <string name="virtualizer_strength">Sanallaştırıcı yoğunluğu</string>
-    <string name="bass_tuner_title">Bas Ayarı</string>
+    <string name="bass_tuner_title">Bas ayarı</string>
     <string name="bass_tuner_type">Bas modu</string>
     <string name="bass_tuner_type_natural">Doğal</string>
     <string name="bass_tuner_type_transient_compressor">Transient kompresör</string>
@@ -91,13 +91,13 @@
     <string name="limiter_release_time">Bırakma süresi</string>
     <string name="limiter_ratio">Oran</string>
     <string name="limiter_threshold">Eşik</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
-    <string name="limiter_post_gain">Ön-Kazanç</string>
+    <string name="limiter_automatic_post_gain">Otomatik ön kazanç</string>
+    <string name="limiter_post_gain">Ön Kazanç</string>
     <string name="channel_balance_title">Kanal Dengesi</string>
     <string name="channel_balance_left_gain">Sol kanal kazancı</string>
     <string name="channel_balance_right_gain">Sağ kanal kazancı</string>
 
-    <string name="graphic_eq_preset_flat">Flat</string>
+    <string name="graphic_eq_preset_flat">Düz</string>
     <string name="graphic_eq_preset_dark">Karanlık</string>
     <string name="graphic_eq_preset_bright">Parlak</string>
     <string name="graphic_eq_preset_bass_boost">Bas Yükseltici</string>
