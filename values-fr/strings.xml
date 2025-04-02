@@ -21,7 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet on/off</string>
     <string name="settings_title">Réglages</string>
-    <string name="settings_aidl_mode">AIDL mode</string>
+    <string name="settings_aidl_mode">Mode AIDL</string>
     <string name="settings_legacy_mode">Mode hérité</string>
     <string name="settings_dump_permission">Permission DUMP</string>
     <string name="settings_notification_access">Accès notification</string>
@@ -63,9 +63,9 @@
     <string name="graphic_eq_title">Égaliseur graphique</string>
     <string name="graphic_eq_dialog_title">Écraser le préréglage personnel</string>
     <string name="graphic_eq_presets">Préréglages</string>
-    <string name="graphic_eq_new">New</string>
-    <string name="graphic_eq_new_preset">New preset</string>
-    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_new">Nouveau</string>
+    <string name="graphic_eq_new_preset">Nouveau préréglage</string>
+    <string name="graphic_eq_new_preset_name_hint">Nom du préréglage</string>
     <string name="graphic_eq_preset_save">Enregistrer</string>
     <string name="equal_loudness_title">Courbe isosonique</string>
     <string name="equal_loudness_threshold">Seuil de volume</string>
