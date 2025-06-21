@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Жаңы музыка сессиялары али баштала элек</string>
+    <string name="single_user_warning">Бул колдонмону системдик колдонуучу катары орнотуңуз</string>
+    <string name="warning_library_null">Wavelet %s эффекттерин ишке киргизе алган жок</string>
+    <string name="warning_no_browser">url %s ачылбай жатат</string>
+    <string name="warning_billing_service">Ката %d: Төлөм кызматы жеткиликтүү эмес</string>
+    <string name="paid_feature">Бардык функцияларды ачуу үчүн %s</string>
+    <string name="unlock">Ачуу</string>
+
+    <string name="purchase_dialog_title">Тажрыйбаңызды жаңыртыңыз</string>
+    <string name="purchase_dialog_text">Аудио тажрыйбаңыз %s менен дагы да жакшыртылат</string>
+    <string name="purchase_dialog_refund">Google Play сизге <annotation url="refund">48 сааттык кайтаруу кепилдигин</annotation> камсыздайт, бардык функцияларды сынап көрүңүз</string>
+    <string name="purchase_dialog_positive">Азыр сатып алуу</string>
+    <string name="purchase_dialog_negative">Кийинчерээк</string>
+
+    <string name="restricted_warning_text">Wavelet туура иштебейт, эгер батареяны колдонуу "чектелген" деп коюлса</string>
+    <string name="open_settings">Оңдоо</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet күйгүзүү/өчүрүү</string>
+    <string name="settings_title">Орнотуулар</string>
+    <string name="settings_aidl_mode">AIDL режими</string>
+    <string name="settings_legacy_mode">Мурас режими</string>
+    <string name="settings_dump_permission">DUMP уруксат</string>
+    <string name="settings_notification_access">Эскертмеге кирүү</string>
+    <string name="settings_permission_granted">Уруксат берилди</string>
+    <string name="settings_permission_denied">Уруксат жок</string>
+    <string name="menu_help">Жардам</string>
+    <string name="settings_buffer_size">Буфер өлчөмү</string>
+    <string name="clipping_over_latency">Кесүү кечигүүдөн артык</string>
+    <string name="latency_over_clipping">Кечигүү кесүүдөн артык</string>
+    <string name="setting_enhanced_session_title">Жакшыртылган сессияны аныктоо</string>
+    <string name="setting_enhanced_session_summary">Эки уруксат талап кылынат</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_name">Wavelet кызматы</string>
+    <string name="service_description">Аудиоңузду күчтүү сактоо үчүн Wavelet кызматы</string>
+    <string name="service_notification_text">Wavelet колдонуп жаткан колдонмолор:</string>
+    <string name="service_notification_text_default">Көбүрөөк параметрлер үчүн таптаңыз</string>
+
+    <string name="device_unknown">Белгисиз</string>
+    <string name="device_headphone">Наушник</string>
+    <string name="device_headset">Гарнитура</string>
+    <string name="device_speaker">Динамик</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Угуу аппараты</string>
+    <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Кайтаруу</string>
+    <string name="category_equalization">Эквалайзер</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Наушник модели</string>
+    <string name="auto_eq_strength">AutoEq күчү</string>
+    <string name="auto_eq_import">Импорттоо</string>
+    <string name="auto_eq_file_import_success">%s ийгиликтүү импорттолду</string>
+    <string name="auto_eq_file_import_fail">%s импорттолбой калды</string>
+    <string name="auto_eq_remove_item">Өчүрүү</string>
+    <string name="graphic_eq_title">Графикалык эквалайзер</string>
+    <string name="graphic_eq_dialog_title">Жеке алдын ала орнотууну алмаштыруу</string>
+    <string name="graphic_eq_presets">Алдын ала орнотуулар</string>
+    <string name="graphic_eq_new">Жаңы</string>
+    <string name="graphic_eq_new_preset">Жаңы орнотуу</string>
+    <string name="graphic_eq_new_preset_name_hint">Орнотуунун аты</string>
+    <string name="graphic_eq_preset_save">Сактоо</string>
+    <string name="equal_loudness_title">Тең үндүүлүк</string>
+    <string name="equal_loudness_threshold">Үндүн чеги</string>
+
+    <string name="category_effects">Эффекттер</string>
+    <string name="bass_boost_title">Бассты күчөтүүчү</string>
+    <string name="bass_boost_strength">Басс күчү</string>
+    <string name="preset_reverb_title">Реверберация</string>
+    <string name="preset_reverb_preset">Алдын ала орнотуу</string>
+    <string name="virtualizer_title">Виртуалдаштыргыч</string>
+    <string name="virtualizer_strength">Виртуалдаштыруу күчү</string>
+    <string name="bass_tuner_title">Басс жөндөөчү</string>
+    <string name="bass_tuner_type">Басс түрү</string>
+    <string name="bass_tuner_type_natural">Табигый</string>
+    <string name="bass_tuner_type_transient_compressor">Убактылуу компрессор</string>
+    <string name="bass_tuner_type_sustain_compressor">Узартылган компрессор</string>
+    <string name="bass_tuner_cutoff_frequency">Чектөөчү жыштык</string>
+    <string name="bass_tuner_post_gain">Кийинки күчөтүү</string>
+
+    <string name="category_gain_control">Күчөтүүнү көзөмөлдөө</string>
+    <string name="limiter_title">Лимитер</string>
+    <string name="limiter_attack_time">Атак убактысы</string>
+    <string name="limiter_release_time">Бошотуу убактысы</string>
+    <string name="limiter_ratio">Коэффициент</string>
+    <string name="limiter_threshold">Чектөөчү чек</string>
+    <string name="limiter_automatic_post_gain">Автоматтык кийинки күчөтүү</string>
+    <string name="limiter_post_gain">Кийинки күчөтүү</string>
+    <string name="channel_balance_title">Каналдын балансы</string>
+    <string name="channel_balance_left_gain">Сол каналдын күчү</string>
+    <string name="channel_balance_right_gain">Оң каналдын күчү</string>
+
+    <string name="graphic_eq_preset_flat">Тегиз</string>
+    <string name="graphic_eq_preset_dark">Караңгы</string>
+    <string name="graphic_eq_preset_bright">Жаркыраган</string>
+    <string name="graphic_eq_preset_bass_boost">Басс күчөтүү</string>
+    <string name="graphic_eq_preset_bass_reduction">Басс азайтуу</string>
+    <string name="graphic_eq_preset_treble_boost">Жогорку үн күчөтүү</string>
+    <string name="graphic_eq_preset_treble_reduction">Жогорку үн азайтуу</string>
+    <string name="graphic_eq_preset_vocal_boost">Вокал күчөтүү</string>
+    <string name="graphic_eq_preset_m_shaped">M-түрүндө</string>
+    <string name="graphic_eq_preset_u_shaped">U-түрүндө</string>
+    <string name="graphic_eq_preset_v_shaped">V-түрүндө</string>
+    <string name="graphic_eq_preset_w_shaped">W-түрүндө</string>
+    <string name="graphic_eq_preset_personal">Жеке</string>
+
+    <string name="preset_reverb_small_room">Кичине бөлмө</string>
+    <string name="preset_reverb_medium_room">Орто бөлмө</string>
+    <string name="preset_reverb_large_room">Чоң бөлмө</string>
+    <string name="preset_reverb_medium_hall">Орто зал</string>
+    <string name="preset_reverb_large_hall">Чоң зал</string>
+    <string name="preset_reverb_plate">Пластина</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">мс</string>
+    <string name="unit_decibel">дБ</string>
+    <string name="unit_hertz">Гц</string>
+    <string name="unit_samples">үлгү</string>
+</resources>
