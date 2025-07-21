@@ -21,7 +21,7 @@
     <!-- Settings -->
     <string name="wavelet_toggle">Wavelet activado/desactivado</string>
     <string name="settings_title">Ajustes</string>
-    <string name="settings_aidl_mode">AIDL mode</string>
+    <string name="settings_aidl_mode">Modo AIDL</string>
     <string name="settings_legacy_mode">Modo heredado</string>
     <string name="settings_dump_permission">Acceso DUMP</string>
     <string name="settings_notification_access">Acceso a notificaciones</string>
@@ -63,9 +63,9 @@
     <string name="graphic_eq_title">Ecualizador gráfico</string>
     <string name="graphic_eq_dialog_title">Sobrescribir configuración personal</string>
     <string name="graphic_eq_presets">Configuraciones</string>
-    <string name="graphic_eq_new">New</string>
-    <string name="graphic_eq_new_preset">New preset</string>
-    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_new">Añadir</string>
+    <string name="graphic_eq_new_preset">Nueva configuración</string>
+    <string name="graphic_eq_new_preset_name_hint">Nombre de configuración</string>
     <string name="graphic_eq_preset_save">Guardar</string>
     <string name="equal_loudness_title">Compensación de sonoridad</string>
     <string name="equal_loudness_threshold">Umbral de volumen</string>
