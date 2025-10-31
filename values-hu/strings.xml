@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavelet</string>
+    <string name="no_active_sessions">Még nem indultak új zenei munkamenetek</string>
+    <string name="single_user_warning">Kérjük, telepítse ezt az alkalmazást rendszergazdaként</string>
+    <string name="warning_library_null">Wavelet nem tudta inicializálni a %s effekteket</string>
+    <string name="warning_no_browser">Nem sikerült megnyitni az URL-t: %s</string>
+    <string name="warning_billing_service">Hiba %d: A számlázási szolgáltatás nem érhető el</string>
+    <string name="paid_feature">Minden funkció feloldása %s-ért</string>
+    <string name="unlock">Feloldás</string>
+
+    <string name="purchase_dialog_title">Frissítse az élményt</string>
+    <string name="purchase_dialog_text">A hangzás még jobb lehet %s-ért</string>
+    <string name="purchase_dialog_refund">A Google Play <annotation url="refund">48 órás pénzvisszafizetési garanciát</annotation> biztosít minden funkció kipróbálásához</string>
+    <string name="purchase_dialog_positive">Vásárlás most</string>
+    <string name="purchase_dialog_negative">Később</string>
+
+    <string name="restricted_warning_text">Wavelet nem működik megfelelően, ha az akkumulátorhasználat „korlátozott” beállítású</string>
+    <string name="open_settings">Javítás</string>
+
+    <!-- Settings -->
+    <string name="wavelet_toggle">Wavelet be/ki</string>
+    <string name="settings_title">Beállítások</string>
+    <string name="settings_aidl_mode">AIDL mód</string>
+    <string name="settings_legacy_mode">Hagyományos mód</string>
+    <string name="settings_dump_permission">DUMP engedély</string>
+    <string name="settings_notification_access">Értesítési hozzáférés</string>
+    <string name="settings_permission_granted">Engedély megadva</string>
+    <string name="settings_permission_denied">Engedély megtagadva</string>
+    <string name="menu_help">Súgó</string>
+    <string name="settings_buffer_size">Pufferméret</string>
+    <string name="clipping_over_latency">A torzítás előnyben részesítése a késleltetéssel szemben</string>
+    <string name="latency_over_clipping">A késleltetés előnyben részesítése a torzítással szemben</string>
+    <string name="setting_enhanced_session_title">Fokozott munkamenet-érzékelés</string>
+    <string name="setting_enhanced_session_summary">Mindkét engedély szükséges</string>
+
+    <!-- Foreground Service notification -->
+    <string name="service_channel_name">Wavelet szolgáltatás</string>
+    <string name="service_description">Wavelet szolgáltatás a hangzás fenntartásához</string>
+    <string name="service_notification_text">Waveletet használó alkalmazások:</string>
+    <string name="service_notification_text_default">További opciókért koppintson</string>
+
+    <string name="device_unknown">Ismeretlen</string>
+    <string name="device_headphone">Fejhallgató</string>
+    <string name="device_headset">Fülhallgató</string>
+    <string name="device_speaker">Hangszóró</string>
+    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_hearing_aid">Hallókészülék</string>
+    <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
+
+    <!-- Preference strings -->
+    <string name="reset">Visszaállítás</string>
+    <string name="category_equalization">Hangszínszabályó</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">Fejhallgató modell</string>
+    <string name="auto_eq_strength">AutoEq erősség</string>
+    <string name="auto_eq_import">Importálás</string>
+    <string name="auto_eq_file_import_success">%s sikeresen importálva</string>
+    <string name="auto_eq_file_import_fail">%s importálása sikertelen</string>
+    <string name="auto_eq_remove_item">Elem eltávolítása</string>
+    <string name="graphic_eq_title">Grafikus hangszínszabályozó</string>
+    <string name="graphic_eq_dialog_title">Személyes EQ beállítás felülírása</string>
+    <string name="graphic_eq_presets">EQ beállítás</string>
+    <string name="graphic_eq_new">Új</string>
+    <string name="graphic_eq_new_preset">Új EQ beállítás</string>
+    <string name="graphic_eq_new_preset_name_hint">EQ beállítás neve</string>
+    <string name="graphic_eq_preset_save">Mentés</string>
+    <string name="equal_loudness_title">Egyenlő hangerő</string>
+    <string name="equal_loudness_threshold">Hangerő küszöb</string>
+
+    <string name="category_effects">Effektek</string>
+    <string name="bass_boost_title">Basszuserősítő</string>
+    <string name="bass_boost_strength">Basszuserősítés erőssége</string>
+    <string name="preset_reverb_title">Visszhang</string>
+    <string name="preset_reverb_preset">Előbeállítás</string>
+    <string name="virtualizer_title">Virtualizátor</string>
+    <string name="virtualizer_strength">Virtualizáció erőssége</string>
+    <string name="bass_tuner_title">Basszushangoló</string>
+    <string name="bass_tuner_type">Basszus típusa</string>
+    <string name="bass_tuner_type_natural">Természetes</string>
+    <string name="bass_tuner_type_transient_compressor">Átmeneti kompresszor</string>
+    <string name="bass_tuner_type_sustain_compressor">Fenntartó kompresszor</string>
+    <string name="bass_tuner_cutoff_frequency">Levágási frekvencia</string>
+    <string name="bass_tuner_post_gain">Utólagos erősítés</string>
+
+    <string name="category_gain_control">Erősítésszabályozás</string>
+    <string name="limiter_title">Limiter</string>
+    <string name="limiter_attack_time">Támadási idő</string>
+    <string name="limiter_release_time">Kiadási idő</string>
+    <string name="limiter_ratio">Arány</string>
+    <string name="limiter_threshold">Küszöb</string>
+    <string name="limiter_automatic_post_gain">Automatikus utólagos erősítés</string>
+    <string name="limiter_post_gain">Utólagos erősítés</string>
+    <string name="channel_balance_title">Csatornaegyensúly</string>
+    <string name="channel_balance_left_gain">Bal csatorna erősítése</string>
+    <string name="channel_balance_right_gain">Jobb csatorna erősítése</string>
+
+    <string name="graphic_eq_preset_flat">Egyenletes</string>
+    <string name="graphic_eq_preset_dark">Sötét</string>
+    <string name="graphic_eq_preset_bright">Világos</string>
+    <string name="graphic_eq_preset_bass_boost">Basszuserősítés</string>
+    <string name="graphic_eq_preset_bass_reduction">Basszuscsökkentés</string>
+    <string name="graphic_eq_preset_treble_boost">Magashang-erősítés</string>
+    <string name="graphic_eq_preset_treble_reduction">Magashang-csökkentés</string>
+    <string name="graphic_eq_preset_vocal_boost">Énekhang-erősítés</string>
+    <string name="graphic_eq_preset_m_shaped">M-alakú</string>
+    <string name="graphic_eq_preset_u_shaped">U-alakú</string>
+    <string name="graphic_eq_preset_v_shaped">V-alakú</string>
+    <string name="graphic_eq_preset_w_shaped">W-alakú</string>
+    <string name="graphic_eq_preset_personal">Személyes</string>
+
+    <string name="preset_reverb_small_room">Kis szoba</string>
+    <string name="preset_reverb_medium_room">Közepes szoba</string>
+    <string name="preset_reverb_large_room">Nagy szoba</string>
+    <string name="preset_reverb_medium_hall">Közepes terem</string>
+    <string name="preset_reverb_large_hall">Nagy terem</string>
+    <string name="preset_reverb_plate">Lemez</string>
+
+    <!-- Units -->
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">minták</string>
+</resources>
