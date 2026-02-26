@@ -1,124 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wavelet</string>
-    <string name="no_active_sessions">Жодної нової музичної сессії ще не було розпочато</string>
-    <string name="single_user_warning">Будь ласка встановіть Wavelet як звичайний додаток</string>
-    <string name="warning_library_null">Wavelet не може створити екземпляри %s ефектів</string>
-    <string name="warning_service_not_started">Wavelet service could not be started</string>
-    <string name="warning_no_browser">Неможливо відрити посилання %s</string>
-    <string name="warning_billing_service">Помилка %d: Сервіс оплати не доступний</string>
-    <string name="paid_feature">Розблокуйте всі можливості за %s</string>
+    <string name="no_active_sessions">Нові музичні сеанси ще не було розпочато</string>
+    <string name="single_user_warning">Будь ласка, встановіть цей додаток як системний користувач</string>
+    <string name="warning_library_null">Wavelet не вдалося ініціалізувати ефекти %s</string>
+    <string name="warning_service_not_started">Не вдалося запустити службу Wavelet</string>
+    <string name="warning_no_browser">Не вдалося відкрити URL %s</string>
+    <string name="warning_billing_service">Помилка %d: служба виставлення рахунків недоступна</string>
+    <string name="paid_feature">Розблокуйте всі функції за %s</string>
     <string name="unlock">Розблокувати</string>
-
-    <string name="purchase_dialog_title">Покращити досвід користування</string>
-    <string name="purchase_dialog_text">Ваш досвід прослуховування може бути навіть кращим за %s</string>
-    <string name="purchase_dialog_refund">Google Play надає гарантію повернення коштів впродовж <annotation url="refund">48 год.</annotation> щоби ви могли спробувати всі можливості додатку</string>
+    <string name="purchase_dialog_title">Покращте свої враження</string>
+    <string name="purchase_dialog_text">Ваші враження від аудіо можуть бути ще кращими за %s</string>
+    <string name="purchase_dialog_refund">Google Play забезпечує для вас <annotation url="refund">48-годинну гарантію повернення коштів</annotation>, щоб ви могли спробувати всі функції</string>
     <string name="purchase_dialog_positive">Купити зараз</string>
     <string name="purchase_dialog_negative">Пізніше</string>
-
-    <string name="restricted_warning_text">Wavelet може не працювати корректно в \'обмеженому\' режимі використання заряду батареї</string>
-    <string name="open_settings">Виправити це</string>
-
+    <string name="restricted_warning_text">Wavelet не може працювати належним чином, якщо використання батареї встановлено на \"обмежено\"</string>
+    <string name="open_settings">Виправити</string>
     <!-- Settings -->
-    <string name="wavelet_toggle">Wavelet увімкнено/вимкнено</string>
+    <string name="wavelet_toggle">Wavelet увімк./вимк.</string>
     <string name="settings_title">Налаштування</string>
-    <string name="settings_aidl_mode">AIDL mode</string>
+    <string name="settings_aidl_mode">Режим AIDL</string>
     <string name="settings_legacy_mode">Legacy режим</string>
-    <string name="settings_dump_permission">DUMP дозвіл</string>
-    <string name="settings_notification_access">Доступ до сповіщеннь</string>
+    <string name="settings_dump_permission">Дозвіл DUMP</string>
+    <string name="settings_notification_access">Доступ до сповіщень</string>
     <string name="settings_permission_granted">Дозвіл надано</string>
     <string name="settings_permission_denied">Дозвіл відхилено</string>
-    <string name="menu_help">Допомога</string>
-    <string name="settings_buffer_size">Розмір буферу</string>
-    <string name="clipping_over_latency">Перевага кліппінгу над затримкою</string>
-    <string name="latency_over_clipping">Перевага затримки над кліппінгом</string>
-    <string name="setting_enhanced_session_title">Удосконалене виявлення сессії</string>
-    <string name="setting_enhanced_session_summary">Обидва дозволи обов\'язкові</string>
-
+    <string name="menu_help">Довідка</string>
+    <string name="settings_buffer_size">Розмір буфера</string>
+    <string name="clipping_over_latency">Перевага кліпінгу над затримкою</string>
+    <string name="latency_over_clipping">Перевага затримки над кліпінгом</string>
+    <string name="setting_enhanced_session_title">Покращене виявлення сеансів</string>
+    <string name="setting_enhanced_session_summary">Потрібні обидва дозволи</string>
     <!-- Foreground Service notification -->
-    <string name="service_channel_name">Сервіс Wavelet</string>
-    <string name="service_description">Сервіс Вейвлет працює щоби ваш звук залишався потрясним</string>
-    <string name="service_notification_text">Додатки що використовують Wavelet:</string>
-    <string name="service_notification_text_default">Натисніть для додаткових налаштувань</string>
-
-    <string name="device_unknown">Невідомий</string>
+    <string name="service_channel_name">Служба Wavelet</string>
+    <string name="service_description">Служба Wavelet, щоб ваше аудіо звучало потужно</string>
+    <string name="service_notification_text">Застосунки, що використовують Wavelet:</string>
+    <string name="service_notification_text_default">Торкніться, щоб переглянути більше параметрів</string>
+    <string name="device_unknown">Невідомо</string>
     <string name="device_headphone">Навушники</string>
     <string name="device_headset">Гарнітура</string>
     <string name="device_speaker">Динамік</string>
     <string name="device_bluetooth">Bluetooth</string>
-    <string name="device_hearing_aid">Слуховий аппарат</string>
+    <string name="device_hearing_aid">Слуховий апарат</string>
     <string name="device_usb">USB</string>
     <string name="device_android_auto">Android Auto</string>
     <string name="device_chrome_os">Chrome OS</string>
-
     <!-- Preference strings -->
     <string name="reset">Скинути</string>
     <string name="category_equalization">Еквалізація</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Модель навушників</string>
-    <string name="auto_eq_strength">Сила</string>
-    <string name="auto_eq_import">Імпорт</string>
+    <string name="auto_eq_strength">Інтенсивність AutoEq</string>
+    <string name="auto_eq_import">Імпортувати</string>
     <string name="auto_eq_file_import_success">Успішно імпортовано %s</string>
-    <string name="auto_eq_file_import_fail">Не вадалось імпортувати %s</string>
-    <string name="auto_eq_remove_item">Видалити</string>
+    <string name="auto_eq_file_import_fail">Не вдалося імпортувати %s</string>
+    <string name="auto_eq_remove_item">Видалити елемент</string>
     <string name="graphic_eq_title">Графічний еквалайзер</string>
-    <string name="graphic_eq_dialog_title">Перезаписати персональні налаштування</string>
-    <string name="graphic_eq_presets">Передвстановлення</string>
-    <string name="graphic_eq_new">New</string>
-    <string name="graphic_eq_new_preset">New preset</string>
-    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
+    <string name="graphic_eq_dialog_title">Перезаписати особистий пресет</string>
+    <string name="graphic_eq_presets">Пресети</string>
+    <string name="graphic_eq_new">Новий</string>
+    <string name="graphic_eq_new_preset">Новий пресет</string>
+    <string name="graphic_eq_new_preset_name_hint">Назва пресета</string>
     <string name="graphic_eq_preset_save">Зберегти</string>
-    <string name="equal_loudness_title">Тонально-збалансована гучність</string>
-    <string name="equal_loudness_threshold">Поріг</string>
-
-    <string name="category_effects">Еффекти</string>
-    <string name="bass_boost_title">Підсилення басу</string>
-    <string name="bass_boost_strength">Сила</string>
+    <string name="equal_loudness_title">Збалансована гучність</string>
+    <string name="equal_loudness_threshold">Поріг гучності</string>
+    <string name="category_effects">Ефекти</string>
+    <string name="bass_boost_title">Підсилювач басів</string>
+    <string name="bass_boost_strength">Інтенсивність підсилення басів</string>
     <string name="preset_reverb_title">Реверберація</string>
-    <string name="preset_reverb_preset">Передвстановлення</string>
+    <string name="preset_reverb_preset">Пресет</string>
     <string name="virtualizer_title">Віртуалізатор</string>
-    <string name="virtualizer_strength">Сила</string>
-    <string name="bass_tuner_title">Бас-тюнер</string>
-    <string name="bass_tuner_type">Алгоритм</string>
-    <string name="bass_tuner_type_natural">Natural</string>
-    <string name="bass_tuner_type_transient_compressor">Transient shaper</string>
-    <string name="bass_tuner_type_sustain_compressor">Sustain compressor</string>
-    <string name="bass_tuner_cutoff_frequency">Частотний зріз</string>
-    <string name="bass_tuner_post_gain">Після-library_dirs=libpostal_lib_dirs</string>
-
-    <string name="category_gain_control">Контроль підсилення</string>
+    <string name="virtualizer_strength">Інтенсивність віртуалізації</string>
+    <string name="bass_tuner_title">Налаштування басів</string>
+    <string name="bass_tuner_type">Тип басів</string>
+    <string name="bass_tuner_type_natural">Природний</string>
+    <string name="bass_tuner_type_transient_compressor">Компресор транзієнтів</string>
+    <string name="bass_tuner_type_sustain_compressor">Компресор сустейну</string>
+    <string name="bass_tuner_cutoff_frequency">Частота зрізу</string>
+    <string name="bass_tuner_post_gain">Постпідсилення</string>
+    <string name="category_gain_control">Керування підсиленням</string>
     <string name="limiter_title">Лімітер</string>
-    <string name="limiter_attack_time">Атака</string>
-    <string name="limiter_release_time">Затухання</string>
-    <string name="limiter_ratio">Відношення</string>
+    <string name="limiter_attack_time">Час наростання</string>
+    <string name="limiter_release_time">Час затухання</string>
+    <string name="limiter_ratio">Коефіцієнт</string>
     <string name="limiter_threshold">Поріг</string>
-    <string name="limiter_automatic_post_gain">Автоматичне після-підсилення</string>
-    <string name="limiter_post_gain">Після-підсилення</string>
+    <string name="limiter_automatic_post_gain">Автоматичне постпідсилення</string>
+    <string name="limiter_post_gain">Постпідсилення</string>
     <string name="channel_balance_title">Баланс каналів</string>
     <string name="channel_balance_left_gain">Підсилення лівого каналу</string>
     <string name="channel_balance_right_gain">Підсилення правого каналу</string>
-
-    <string name="graphic_eq_preset_flat">Плосий</string>
+    <string name="graphic_eq_preset_flat">Плаский</string>
     <string name="graphic_eq_preset_dark">Темний</string>
     <string name="graphic_eq_preset_bright">Яскравий</string>
-    <string name="graphic_eq_preset_bass_boost">Підсилення басу</string>
-    <string name="graphic_eq_preset_bass_reduction">Послаблення басу</string>
-    <string name="graphic_eq_preset_treble_boost">Підсилення ВЧ</string>
-    <string name="graphic_eq_preset_treble_reduction">Послаблення ВЧ</string>
+    <string name="graphic_eq_preset_bass_boost">Підсилення басів</string>
+    <string name="graphic_eq_preset_bass_reduction">Зниження басів</string>
+    <string name="graphic_eq_preset_treble_boost">Підсилення високих частот</string>
+    <string name="graphic_eq_preset_treble_reduction">Зниження високих частот</string>
     <string name="graphic_eq_preset_vocal_boost">Підсилення вокалу</string>
-    <string name="graphic_eq_preset_m_shaped">M-образний</string>
-    <string name="graphic_eq_preset_u_shaped">U-образний</string>
-    <string name="graphic_eq_preset_v_shaped">V-образний</string>
-    <string name="graphic_eq_preset_w_shaped">W-образний</string>
-    <string name="graphic_eq_preset_personal">Персональний</string>
-
-    <string name="preset_reverb_small_room">Маленька кімната</string>
+    <string name="graphic_eq_preset_m_shaped">M-подібний</string>
+    <string name="graphic_eq_preset_u_shaped">U-подібний</string>
+    <string name="graphic_eq_preset_v_shaped">V-подібний</string>
+    <string name="graphic_eq_preset_w_shaped">W-подібний</string>
+    <string name="graphic_eq_preset_personal">Особистий</string>
+    <string name="preset_reverb_small_room">Мала кімната</string>
     <string name="preset_reverb_medium_room">Середня кімната</string>
     <string name="preset_reverb_large_room">Велика кімната</string>
     <string name="preset_reverb_medium_hall">Середній зал</string>
     <string name="preset_reverb_large_hall">Великий зал</string>
-    <string name="preset_reverb_plate">Пластинчатий ревербератор</string>
-
+    <string name="preset_reverb_plate">Пластина</string>
     <!-- Units -->
     <string name="unit_milliseconds">мс</string>
     <string name="unit_decibel">дБ</string>
