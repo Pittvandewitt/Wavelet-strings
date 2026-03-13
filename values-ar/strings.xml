@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">الكسب البعدي</string>
 
     <string name="category_gain_control">التحكم في الكسب</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">المحدد</string>
     <string name="limiter_attack_time">وقت الهجوم</string>
     <string name="limiter_release_time">وقت الإفلات</string>
     <string name="limiter_ratio">النسبة</string>
     <string name="limiter_threshold">العتبة</string>
-    <string name="limiter_automatic_post_gain">التأثير الأوتوماتيكي</string>
     <string name="limiter_post_gain">الكسب البعدي</string>
     <string name="channel_balance_title">موازنة القناة</string>
     <string name="channel_balance_left_gain">الكسب للقناة اليسرى</string>

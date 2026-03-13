@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">Кийинки күчөтүү деңгээли</string>
 
     <string name="category_gain_control">Күчөтүүнү башкаруу</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">Лимитер</string>
     <string name="limiter_attack_time">Атак убактысы</string>
     <string name="limiter_release_time">Бошотуу убактысы</string>
     <string name="limiter_ratio">Коэффициент</string>
     <string name="limiter_threshold">Чектөөчү деңгээл</string>
-    <string name="limiter_automatic_post_gain">Автоматтык кийинки күчөтүү</string>
     <string name="limiter_post_gain">Кийинки күчөтүү деңгээли</string>
     <string name="channel_balance_title">Каналдын балансы</string>
     <string name="channel_balance_left_gain">Сол каналдын күчү</string>

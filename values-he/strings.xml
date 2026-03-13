@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">לאחר-הגברה</string>
 
     <string name="category_gain_control">בקרת הגבר</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">מגביל</string>
     <string name="limiter_attack_time">זמן התקפה</string>
     <string name="limiter_release_time">זמן שחרור</string>
     <string name="limiter_ratio">יחס</string>
     <string name="limiter_threshold">סף</string>
-    <string name="limiter_automatic_post_gain">מיכון לאחר-הגברה</string>
     <string name="limiter_post_gain">לאחר-הגברה</string>
     <string name="channel_balance_title">איזון ערוץ</string>
     <string name="channel_balance_left_gain">ערוץ הגברה שמאלי</string>

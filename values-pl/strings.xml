@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">Post-wzmacnianie</string>
 
     <string name="category_gain_control">Kontrola wzmacniania</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">Ogranicznik</string>
     <string name="limiter_attack_time">Czas ataku</string>
     <string name="limiter_release_time">Czas wydania</string>
     <string name="limiter_ratio">Współczynnik</string>
     <string name="limiter_threshold">Próg</string>
-    <string name="limiter_automatic_post_gain">Automatyczne post-wzmacnianie</string>
     <string name="limiter_post_gain">Post-wzmacnianie</string>
     <string name="channel_balance_title">Balans kanałów</string>
     <string name="channel_balance_left_gain">Wzmacnianie lewego kanału</string>

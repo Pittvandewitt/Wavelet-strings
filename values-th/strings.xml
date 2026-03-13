@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">อัตราขยายหลังปรับ</string>
 
     <string name="category_gain_control">ควบคุมอัตราขยาย</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">ตัวจำกัด</string>
     <string name="limiter_attack_time">ความเร็วเวลา</string>
     <string name="limiter_release_time">เวลาเปลี่ยน</string>
     <string name="limiter_ratio">อัตราส่วน</string>
     <string name="limiter_threshold">ระดับเกณฑ์</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">อัตราขยายหลังปรับ</string>
     <string name="channel_balance_title">สมดุลช่อง</string>
     <string name="channel_balance_left_gain">ปรับช่องฝั่งซ้าย</string>

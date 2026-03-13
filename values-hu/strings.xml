@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">Utólagos erősítés</string>
 
     <string name="category_gain_control">Erősítésszabályozás</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">Limiter</string>
     <string name="limiter_attack_time">Támadási idő</string>
     <string name="limiter_release_time">Kiadási idő</string>
     <string name="limiter_ratio">Arány</string>
     <string name="limiter_threshold">Küszöb</string>
-    <string name="limiter_automatic_post_gain">Automatikus utólagos erősítés</string>
     <string name="limiter_post_gain">Utólagos erősítés</string>
     <string name="channel_balance_title">Csatornaegyensúly</string>
     <string name="channel_balance_left_gain">Bal csatorna erősítése</string>

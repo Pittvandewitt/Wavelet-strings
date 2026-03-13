@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">Gain akhir</string>
 
     <string name="category_gain_control">Kontrol gain</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">Pembatas (Limiter)</string>
     <string name="limiter_attack_time">Waktu attack</string>
     <string name="limiter_release_time">Waktu rilis</string>
     <string name="limiter_ratio">Rasio</string>
     <string name="limiter_threshold">Ambang (Threshold)</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Gain akhir</string>
     <string name="channel_balance_title">Keseimbangan channel</string>
     <string name="channel_balance_left_gain">Channel gain kiri</string>

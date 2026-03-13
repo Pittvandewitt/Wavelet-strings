@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">포스트 게인</string>
 
     <string name="category_gain_control">게인 제어</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">리미터</string>
     <string name="limiter_attack_time">어택 타임</string>
     <string name="limiter_release_time">릴리즈 타임</string>
     <string name="limiter_ratio">비율</string>
     <string name="limiter_threshold">스레숄드</string>
-    <string name="limiter_automatic_post_gain">자동 포스트 게인</string>
     <string name="limiter_post_gain">포스트 게인</string>
     <string name="channel_balance_title">채널 밸런스</string>
     <string name="channel_balance_left_gain">왼쪽 채널 게인</string>

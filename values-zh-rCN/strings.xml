@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">后级增益</string>
 
     <string name="category_gain_control">增益控制</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">限制器</string>
     <string name="limiter_attack_time">启动时间</string>
     <string name="limiter_release_time">释放时间</string>
     <string name="limiter_ratio">压缩比</string>
     <string name="limiter_threshold">阈值</string>
-    <string name="limiter_automatic_post_gain">自动后级增益</string>
     <string name="limiter_post_gain">后级增益</string>
     <string name="channel_balance_title">声道平衡</string>
     <string name="channel_balance_left_gain">左声道增益</string>

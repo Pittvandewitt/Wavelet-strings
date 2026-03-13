@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">पोस्ट-गेन</string>
 
     <string name="category_gain_control">नियंत्रण हासिल करो</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">सीमक</string>
     <string name="limiter_attack_time">आक्रमण का समय</string>
     <string name="limiter_release_time">रोकने का समय</string>
     <string name="limiter_ratio">अनुपात</string>
     <string name="limiter_threshold">सीमा</string>
-    <string name="limiter_automatic_post_gain">स्वचालित पोस्ट-गेन</string>
     <string name="limiter_post_gain">पोस्ट-गेन</string>
     <string name="channel_balance_title">चैनल संतुलन</string>
     <string name="channel_balance_left_gain">लेफ्ट चैनल गेन </string>

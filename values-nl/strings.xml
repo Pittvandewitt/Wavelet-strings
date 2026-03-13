@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">Post-gain</string>
 
     <string name="category_gain_control">Geluidssterkteregeling</string>
+    <string name="input_gain_title">Ingangsversterking</string>
+    <string name="automatic_input_gain">Automatische ingangsversterking</string>
     <string name="limiter_title">Begrenzer</string>
     <string name="limiter_attack_time">Attack-tijd</string>
     <string name="limiter_release_time">Release-tijd</string>
     <string name="limiter_ratio">Ratio</string>
     <string name="limiter_threshold">Drempelwaarde</string>
-    <string name="limiter_automatic_post_gain">Automatic post-gain</string>
     <string name="limiter_post_gain">Post-gain</string>
     <string name="channel_balance_title">Kanaalbalans</string>
     <string name="channel_balance_left_gain">Kanaalsterkte links</string>

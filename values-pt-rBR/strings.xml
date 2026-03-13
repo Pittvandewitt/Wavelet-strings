@@ -87,12 +87,13 @@
     <string name="bass_tuner_post_gain">Ganho de saída</string>
 
     <string name="category_gain_control">Controle de ganho</string>
+    <string name="input_gain_title">Input gain</string>
+    <string name="automatic_input_gain">Automatic input gain</string>
     <string name="limiter_title">Limitador</string>
     <string name="limiter_attack_time">Tempo de ataque</string>
     <string name="limiter_release_time">Tempo de Release</string>
     <string name="limiter_ratio">Razão</string>
     <string name="limiter_threshold">Limiar</string>
-    <string name="limiter_automatic_post_gain">Pós-ganho automático</string>
     <string name="limiter_post_gain">Ganho de saída</string>
     <string name="channel_balance_title">Balanço</string>
     <string name="channel_balance_left_gain">Ganho do canal esquerdo</string>
