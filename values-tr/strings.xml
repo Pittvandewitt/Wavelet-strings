@@ -87,8 +87,8 @@
     <string name="bass_tuner_post_gain">Ön-kazanç</string>
 
     <string name="category_gain_control">Kazanç kontrolü</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Giriş kazancı</string>
+    <string name="automatic_input_gain">Otomatik giriş kazancı</string>
     <string name="limiter_title">Limitleyici</string>
     <string name="limiter_attack_time">Tepki süresi</string>
     <string name="limiter_release_time">Bırakma süresi</string>
