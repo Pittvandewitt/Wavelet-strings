@@ -87,8 +87,8 @@
     <string name="bass_tuner_post_gain">后级增益</string>
 
     <string name="category_gain_control">增益控制</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">输入增益</string>
+    <string name="automatic_input_gain">自动输入增益</string>
     <string name="limiter_title">限制器</string>
     <string name="limiter_attack_time">启动时间</string>
     <string name="limiter_release_time">释放时间</string>
