@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Enregistrer</string>
     <string name="equal_loudness_title">Courbe isosonique</string>
     <string name="equal_loudness_threshold">Seuil de volume</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Effets</string>
     <string name="bass_boost_title">Bass booster</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Post-gain</string>
 
     <string name="category_gain_control">Contrôle de gain</string>
-    <string name="input_gain_title">Gain d\'entrée</string>
-    <string name="automatic_input_gain">Gain d\'entrée automatique</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Limiteur</string>
     <string name="limiter_attack_time">Temps d\'attaque</string>
     <string name="limiter_release_time">Temps de relâchement</string>

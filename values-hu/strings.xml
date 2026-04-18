@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Mentés</string>
     <string name="equal_loudness_title">Egyenlő hangerő</string>
     <string name="equal_loudness_threshold">Hangerő küszöb</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Effektek</string>
     <string name="bass_boost_title">Basszuserősítő</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Utólagos erősítés</string>
 
     <string name="category_gain_control">Erősítésszabályozás</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Limiter</string>
     <string name="limiter_attack_time">Támadási idő</string>
     <string name="limiter_release_time">Kiadási idő</string>

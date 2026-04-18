@@ -56,7 +56,7 @@
     <string name="category_equalization">Equalization</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Headphone model</string>
-    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_strength">Strength</string>
     <string name="auto_eq_import">Import</string>
     <string name="auto_eq_file_import_success">Successfully imported %s</string>
     <string name="auto_eq_file_import_fail">Failed to import %s</string>
@@ -70,14 +70,15 @@
     <string name="graphic_eq_preset_save">Save</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Effects</string>
     <string name="bass_boost_title">Bass booster</string>
-    <string name="bass_boost_strength">Bass boost strength</string>
+    <string name="bass_boost_strength">Strength</string>
     <string name="preset_reverb_title">Reverberation</string>
     <string name="preset_reverb_preset">Preset</string>
     <string name="virtualizer_title">Virtualizer</string>
-    <string name="virtualizer_strength">Virtualization strength</string>
+    <string name="virtualizer_strength">Strength</string>
     <string name="bass_tuner_title">Bass tuner</string>
     <string name="bass_tuner_type">Bass type</string>
     <string name="bass_tuner_type_natural">Natural</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Post-gain</string>
 
     <string name="category_gain_control">Gain control</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Limiter</string>
     <string name="limiter_attack_time">Attack time</string>
     <string name="limiter_release_time">Release time</string>

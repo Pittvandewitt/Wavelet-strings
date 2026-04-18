@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Uložit</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Efekty</string>
     <string name="bass_boost_title">Zesílení basů</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Zisk</string>
 
     <string name="category_gain_control">Ovládání zisku</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Omezovač</string>
     <string name="limiter_attack_time">Doba náběhu</string>
     <string name="limiter_release_time">Doba uvolnění</string>

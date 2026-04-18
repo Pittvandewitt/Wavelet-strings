@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">>حفظ</string>
     <string name="equal_loudness_title">معادل مستوى الصوت</string>
     <string name="equal_loudness_threshold">مستوى الصوت</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">التأثيرات</string>
     <string name="bass_boost_title">زيادة الجهير</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">الكسب البعدي</string>
 
     <string name="category_gain_control">التحكم في الكسب</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">المحدد</string>
     <string name="limiter_attack_time">وقت الهجوم</string>
     <string name="limiter_release_time">وقت الإفلات</string>

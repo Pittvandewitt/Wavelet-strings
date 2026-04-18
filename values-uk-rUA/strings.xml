@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Зберегти</string>
     <string name="equal_loudness_title">Збалансована гучність</string>
     <string name="equal_loudness_threshold">Поріг гучності</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Ефекти</string>
     <string name="bass_boost_title">Підсилювач басів</string>
@@ -87,6 +88,9 @@
     <string name="bass_tuner_post_gain">Постпідсилення</string>
 
     <string name="category_gain_control">Керування підсиленням</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Лімітер</string>
     <string name="limiter_attack_time">Час наростання</string>
     <string name="limiter_release_time">Час затухання</string>
@@ -123,6 +127,4 @@
     <string name="unit_decibel">дБ</string>
     <string name="unit_hertz">Гц</string>
     <string name="unit_samples">семпли</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
 </resources>

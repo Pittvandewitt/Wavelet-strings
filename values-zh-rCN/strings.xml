@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">保存</string>
     <string name="equal_loudness_title">等响度</string>
     <string name="equal_loudness_threshold">音量阈值</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">效果</string>
     <string name="bass_boost_title">低音增强</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">后级增益</string>
 
     <string name="category_gain_control">增益控制</string>
-    <string name="input_gain_title">输入增益</string>
-    <string name="automatic_input_gain">自动输入增益</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">限制器</string>
     <string name="limiter_attack_time">启动时间</string>
     <string name="limiter_release_time">释放时间</string>

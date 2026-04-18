@@ -56,7 +56,7 @@
     <string name="category_equalization">Ekualisasi</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Model headphone</string>
-    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_strength">Strength</string>
     <string name="auto_eq_import">Impor</string>
     <string name="auto_eq_file_import_success">Berhasil mengimpor %s</string>
     <string name="auto_eq_file_import_fail">Gagal mengimpor %s</string>
@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Simpan</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Efek</string>
     <string name="bass_boost_title">Bass booster</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Gain akhir</string>
 
     <string name="category_gain_control">Kontrol gain</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Pembatas (Limiter)</string>
     <string name="limiter_attack_time">Waktu attack</string>
     <string name="limiter_release_time">Waktu rilis</string>

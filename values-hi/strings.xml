@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">सेव करें</string>
     <string name="equal_loudness_title">बराबर प्रबलता</string>
     <string name="equal_loudness_threshold">वोल्युम की सीमा</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">प्रभाव</string>
     <string name="bass_boost_title">बेस बूस्टर</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">पोस्ट-गेन</string>
 
     <string name="category_gain_control">नियंत्रण हासिल करो</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">सीमक</string>
     <string name="limiter_attack_time">आक्रमण का समय</string>
     <string name="limiter_release_time">रोकने का समय</string>

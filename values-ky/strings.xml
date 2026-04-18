@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Пресетти сактоо</string>
     <string name="equal_loudness_title">Тең үндүүлүк орнотуу</string>
     <string name="equal_loudness_threshold">Үндүн деңгээлинин чеги</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Эффекттер тизмеси</string>
     <string name="bass_boost_title">Бассты күчөтүүчү эффект</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Кийинки күчөтүү деңгээли</string>
 
     <string name="category_gain_control">Күчөтүүнү башкаруу</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Лимитер</string>
     <string name="limiter_attack_time">Атак убактысы</string>
     <string name="limiter_release_time">Бошотуу убактысы</string>

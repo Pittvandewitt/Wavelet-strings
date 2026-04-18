@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Guardar</string>
     <string name="equal_loudness_title">Compensación de sonoridad</string>
     <string name="equal_loudness_threshold">Umbral de volumen</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Efectos</string>
     <string name="bass_boost_title">Aumento de graves</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Ganancia posterior</string>
 
     <string name="category_gain_control">Control de ganancia</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Limitador</string>
     <string name="limiter_attack_time">Tiempo de ataque</string>
     <string name="limiter_release_time">Tiempo de liberación</string>

@@ -56,7 +56,7 @@
     <string name="category_equalization">Equalizzazione</string>
     <string name="auto_eq_title">AutoEq</string>
     <string name="auto_eq_dialog_title">Modello cuffie</string>
-    <string name="auto_eq_strength">AutoEq strength</string>
+    <string name="auto_eq_strength">Strength</string>
     <string name="auto_eq_import">Importa</string>
     <string name="auto_eq_file_import_success">%s importato con successo</string>
     <string name="auto_eq_file_import_fail">Importazione fallita di %s</string>
@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">Salva</string>
     <string name="equal_loudness_title">Equal loudness</string>
     <string name="equal_loudness_threshold">Volume threshold</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">Effetti</string>
     <string name="bass_boost_title">Incremento bassi</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">Post-guadagno</string>
 
     <string name="category_gain_control">Controllo guadagno audio</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">Limitatore</string>
     <string name="limiter_attack_time">Tempo d\'attacco</string>
     <string name="limiter_release_time">Tempo di rilascio</string>

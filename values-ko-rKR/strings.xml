@@ -70,6 +70,7 @@
     <string name="graphic_eq_preset_save">저장</string>
     <string name="equal_loudness_title">라우드니스 보정</string>
     <string name="equal_loudness_threshold">볼륨 임계값</string>
+    <string name="equal_loudness_strength">Strength</string>
 
     <string name="category_effects">효과</string>
     <string name="bass_boost_title">베이스 부스터</string>
@@ -87,8 +88,9 @@
     <string name="bass_tuner_post_gain">포스트 게인</string>
 
     <string name="category_gain_control">게인 제어</string>
-    <string name="input_gain_title">Input gain</string>
-    <string name="automatic_input_gain">Automatic input gain</string>
+    <string name="input_gain_title">Attenuator</string>
+    <string name="automatic_input_gain">Automatic attenuation</string>
+    <string name="input_gain_strength">Attenuation</string>
     <string name="limiter_title">리미터</string>
     <string name="limiter_attack_time">어택 타임</string>
     <string name="limiter_release_time">릴리즈 타임</string>
