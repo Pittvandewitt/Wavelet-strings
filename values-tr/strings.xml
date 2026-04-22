@@ -79,18 +79,18 @@
     <string name="preset_reverb_preset">Ön Ayar</string>
     <string name="virtualizer_title">Sanallaştırıcı</string>
     <string name="virtualizer_strength">Sanallaştırıcı yoğunluğu</string>
-    <string name="bass_tuner_title">Bas ayarı</string>
-    <string name="bass_tuner_type">Bas modu</string>
+    <string name="bass_tuner_title">Bas Ayarlayıcı</string>
+    <string name="bass_tuner_type">Bas Modu</string>
     <string name="bass_tuner_type_natural">Doğal</string>
     <string name="bass_tuner_type_transient_compressor">Transient kompresör</string>
     <string name="bass_tuner_type_sustain_compressor">Sustain kompresör</string>
     <string name="bass_tuner_cutoff_frequency">Kesme frekansı</string>
-    <string name="bass_tuner_post_gain">Ön-kazanç</string>
+    <string name="bass_tuner_post_gain">Ön Kazanç</string>
 
     <string name="category_gain_control">Kazanç kontrolü</string>
-    <string name="input_gain_title">Attenuator</string>
-    <string name="automatic_input_gain">Automatic attenuation</string>
-    <string name="input_gain_strength">Attenuation</string>
+    <string name="input_gain_title">Giriş Zayıflatıcı</string>
+    <string name="automatic_input_gain">Otomatik Zayıflatıcı</string>
+    <string name="input_gain_strength">Zayıflatma Gücü</string>
     <string name="limiter_title">Limitleyici</string>
     <string name="limiter_attack_time">Tepki süresi</string>
     <string name="limiter_release_time">Bırakma süresi</string>
