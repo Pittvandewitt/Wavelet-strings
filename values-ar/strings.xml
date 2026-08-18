@@ -1,114 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ويفليت</string>
+    <string name="app_name">Wavelet</string>
     <string name="no_active_sessions">لم تبدأ أي جلسات موسيقية بعد</string>
-    <string name="single_user_warning">الرجاء  تثبيث هذا التطبيق كمستخدم النظام</string>
-    <string name="warning_library_null">ويفليت لم يتمكن من إنشاء %s تأثيرات</string>
-    <string name="warning_service_not_started">Wavelet service could not be started</string>
-    <string name="warning_no_browser">لا يمكن فتح الرابط %s</string>
+    <string name="single_user_warning">يُرجى تثبيت هذا التطبيق كمستخدم للنظام</string>
+    <string name="warning_library_null">فشل Wavelet في تهيئة %s من التأثيرات</string>
+    <string name="warning_service_not_started">تعذر تشغيل خدمة Wavelet</string>
+    <string name="warning_no_browser">تعذر فتح الرابط %s</string>
     <string name="warning_billing_service">خطأ %d: خدمة الفوترة غير متاحة</string>
-    <string name="paid_feature">فتح كل الميزات بـ %s</string>
+    <string name="paid_feature">فتح جميع الميزات مقابل %s</string>
     <string name="unlock">فتح</string>
 
-    <string name="purchase_dialog_title">طور تجربتك</string>
-    <string name="purchase_dialog_text">تجربتك للاستماع لمقاطعك الصوتية سوف تكون افضل مع %s</string>
-    <string name="purchase_dialog_refund">متجر جوجل يضمن لك <annotation url="refund">48 ساعة لإسترجاع المبلغ</annotation> لك لتقوم بتجربة جميع خواص ويفليت</string>
-    <string name="purchase_dialog_positive">اشتر الآن</string>
-    <string name="purchase_dialog_negative">لاحقا</string>
+    <string name="purchase_dialog_title">رَقِّ تجربتك</string>
+    <string name="purchase_dialog_text">ستكون تجربة الاستماع الخاصة بك أفضل بكثير مقابل %s</string>
+    <string name="purchase_dialog_refund">يضمن لك Google Play مهلة <annotation url="refund">48 ساعة لاسترجاع المبلغ</annotation> لتجربة كافة الميزات</string>
+    <string name="purchase_dialog_positive">اشترِ الآن</string>
+    <string name="purchase_dialog_negative">لاحقًا</string>
 
-    <string name="restricted_warning_text">Wavelet can not work properly if battery usage is set to \'restricted\'</string>
-    <string name="open_settings">Fix it</string>
+    <string name="restricted_warning_text">لن يعمل Wavelet بشكل صحيح إذا تم ضبط استخدام البطارية على \'مقيّد\'</string>
+    <string name="open_settings">إصلاح المشكلة</string>
 
     <!-- Settings -->
-    <string name="wavelet_toggle">ايقاف/تشغيل ويفليت</string>
+    <string name="wavelet_toggle">تفعيل/إيقاف Wavelet</string>
     <string name="settings_title">الإعدادات</string>
-    <string name="settings_aidl_mode">AIDL mode</string>
+    <string name="settings_aidl_mode">وضع AIDL</string>
     <string name="settings_legacy_mode">الوضع القديم</string>
-    <string name="settings_dump_permission">DUMP permission</string>
-    <string name="settings_notification_access">اذن الإشعارات</string>
-    <string name="settings_permission_granted">تم السماح للاشعارات</string>
-    <string name="settings_permission_denied">Permission denied</string>
+    <string name="settings_dump_permission">إذن DUMP</string>
+    <string name="settings_notification_access">إذن الوصول للإشعارات</string>
+    <string name="settings_permission_granted">تم منح الإذن</string>
+    <string name="settings_permission_denied">تم رفض الإذن</string>
     <string name="menu_help">مساعدة</string>
-    <string name="settings_buffer_size">حجم المعادل</string>
-    <string name="clipping_over_latency">التقطّع مفضّل على الاستجابة</string>
-    <string name="latency_over_clipping">الاستجابة مفضّلة على التقطّع</string>
-    <string name="setting_enhanced_session_title">مكتشف الجلسات المحسن</string>
-    <string name="setting_enhanced_session_summary">الأذونات جميعها ضرورية</string>
+    <string name="settings_buffer_size">حجم الذاكرة المؤقتة</string>
+    <string name="clipping_over_latency">تفضيل تفادي التشويه على سرعة الاستجابة</string>
+    <string name="latency_over_clipping">تفضيل سرعة الاستجابة على تفادي التشويه</string>
+    <string name="setting_enhanced_session_title">مكتشف الجلسات المحسّن</string>
+    <string name="setting_enhanced_session_summary">كلا الإذنين مطلوبان</string>
 
     <!-- Foreground Service notification -->
-    <string name="service_channel_name">خدمة ويفليت</string>
-    <string name="service_description">خدمة ويفليت للاحتفاظ بأحسن صوت</string>
-    <string name="service_notification_text">التطبيقات التي تستعمل ويفليت:</string>
-    <string name="service_notification_text_default">اضغط للمزيد من المعلومات</string>
+    <string name="service_channel_name">خدمة Wavelet</string>
+    <string name="service_description">خدمة Wavelet لضمان أداء صوتي متميز باستمرار</string>
+    <string name="service_notification_text">التطبيقات التي تستخدم Wavelet:</string>
+    <string name="service_notification_text_default">اضغط للمزيد من الخيارات</string>
 
     <string name="device_unknown">غير معروف</string>
-    <string name="device_headphone">سماعة الرأس</string>
-    <string name="device_headset">سماعة</string>
-    <string name="device_speaker">مكبر الصوت</string>
-    <string name="device_bluetooth">البلوتوث</string>
-    <string name="device_hearing_aid">مساعد السمع</string>
-    <string name="device_usb">يو إس بي</string>
-    <string name="device_android_auto">أندرويد أوتو</string>
-    <string name="device_chrome_os">كروم بوك</string>
+    <string name="device_headphone">سماعة رأس</string>
+    <string name="device_headset">سماعة مع ميكروفون</string>
+    <string name="device_speaker">مكبر صوت</string>
+    <string name="device_bluetooth">بلوتوث</string>
+    <string name="device_hearing_aid">معين سمعي</string>
+    <string name="device_usb">USB</string>
+    <string name="device_android_auto">Android Auto</string>
+    <string name="device_chrome_os">Chrome OS</string>
 
     <!-- Preference strings -->
-    <string name="reset">إعادة الضبط</string>
+    <string name="reset">إعادة ضبط</string>
     <string name="category_equalization">معادلة الصوت</string>
-    <string name="auto_eq_title">المعادل التلقائي</string>
-    <string name="auto_eq_dialog_title">طراز السماعة الرأس</string>
-    <string name="auto_eq_strength">قوة معادل الصوت</string>
+    <string name="auto_eq_title">AutoEq</string>
+    <string name="auto_eq_dialog_title">طراز سماعة الرأس</string>
+    <string name="auto_eq_strength">القوّة</string>
     <string name="auto_eq_import">استيراد</string>
-    <string name="auto_eq_file_import_success">نجح استيراد %s</string>
+    <string name="auto_eq_file_import_success">تم استيراد %s بنجاح</string>
     <string name="auto_eq_file_import_fail">فشل استيراد %s</string>
-    <string name="auto_eq_remove_item">إزالة عنصر</string>
+    <string name="auto_eq_remove_item">إزالة العنصر</string>
     <string name="graphic_eq_title">المعادل الرسومي</string>
-    <string name="graphic_eq_dialog_title">تسجيل فوق الضبط المسبق الشخصي</string>
-    <string name="graphic_eq_presets">الضبط المسبق</string>
-    <string name="graphic_eq_new">New</string>
-    <string name="graphic_eq_new_preset">New preset</string>
-    <string name="graphic_eq_new_preset_name_hint">Preset name</string>
-    <string name="graphic_eq_preset_save">>حفظ</string>
+    <string name="graphic_eq_dialog_title">استبدال الإعداد المسبق الشخصي</string>
+    <string name="graphic_eq_presets">الإعدادات المسبقة</string>
+    <string name="graphic_eq_new">جديد</string>
+    <string name="graphic_eq_new_preset">إعداد مسبق جديد</string>
+    <string name="graphic_eq_new_preset_name_hint">اسم الإعداد المسبق</string>
+    <string name="graphic_eq_preset_save">حفظ</string>
     <string name="equal_loudness_title">معادل مستوى الصوت</string>
-    <string name="equal_loudness_threshold">مستوى الصوت</string>
-    <string name="equal_loudness_strength">Strength</string>
+    <string name="equal_loudness_threshold">عتبة مستوى الصوت</string>
+    <string name="equal_loudness_strength">القوّة</string>
 
     <string name="category_effects">التأثيرات</string>
-    <string name="bass_boost_title">زيادة الجهير</string>
-    <string name="bass_boost_strength">قوة زيادة الجهير</string>
-    <string name="preset_reverb_title">ارتداد الصوت</string>
-    <string name="preset_reverb_preset">ضبط مسبق</string>
-    <string name="virtualizer_title">المحاكي</string>
-    <string name="virtualizer_strength">قوة المحاكاة</string>
+    <string name="bass_boost_title">معزز الجهير</string>
+    <string name="bass_boost_strength">القوّة</string>
+    <string name="preset_reverb_title">الصدى</string>
+    <string name="preset_reverb_preset">إعداد مسبق</string>
+    <string name="virtualizer_title">المحاكي المحيطي</string>
+    <string name="virtualizer_strength">القوّة</string>
     <string name="bass_tuner_title">موالف الجهير</string>
     <string name="bass_tuner_type">نوع الجهير</string>
     <string name="bass_tuner_type_natural">طبيعي</string>
     <string name="bass_tuner_type_transient_compressor">ضاغط الانتقال</string>
-    <string name="bass_tuner_type_sustain_compressor">ضاغط الدعم</string>
+    <string name="bass_tuner_type_sustain_compressor">ضاغط الاستدامة</string>
     <string name="bass_tuner_cutoff_frequency">تردد القطع</string>
-    <string name="bass_tuner_post_gain">الكسب البعدي</string>
+    <string name="bass_tuner_post_gain">الكسب النهائي</string>
 
     <string name="category_gain_control">التحكم في الكسب</string>
-    <string name="input_gain_title">Attenuator</string>
-    <string name="automatic_input_gain">Automatic attenuation</string>
-    <string name="input_gain_strength">Attenuation</string>
+    <string name="input_gain_title">موهّن الإشارة</string>
+    <string name="automatic_input_gain">توهين تلقائي</string>
+    <string name="input_gain_strength">قوة التوهين</string>
     <string name="limiter_title">المحدد</string>
-    <string name="limiter_attack_time">وقت الهجوم</string>
-    <string name="limiter_release_time">وقت الإفلات</string>
+    <string name="limiter_attack_time">زمن الاستجابة</string>
+    <string name="limiter_release_time">زمن الإفلات</string>
     <string name="limiter_ratio">النسبة</string>
     <string name="limiter_threshold">العتبة</string>
-    <string name="limiter_post_gain">الكسب البعدي</string>
-    <string name="channel_balance_title">موازنة القناة</string>
-    <string name="channel_balance_left_gain">الكسب للقناة اليسرى</string>
-    <string name="channel_balance_right_gain">الكسب للقناة اليمنى</string>
+    <string name="limiter_post_gain">الكسب النهائي</string>
+    <string name="channel_balance_title">موازنة القنوات</string>
+    <string name="channel_balance_left_gain">كسب القناة اليسرى</string>
+    <string name="channel_balance_right_gain">كسب القناة اليمنى</string>
 
     <string name="graphic_eq_preset_flat">مسطح</string>
     <string name="graphic_eq_preset_dark">غليظ</string>
     <string name="graphic_eq_preset_bright">حاد</string>
-    <string name="graphic_eq_preset_bass_boost">زيادة الجهير</string>
-    <string name="graphic_eq_preset_bass_reduction">نقصان الجهير</string>
-    <string name="graphic_eq_preset_treble_boost">زيادة الصوت الثلاثي</string>
-    <string name="graphic_eq_preset_treble_reduction">نقصان الصوت الثلاثي</string>
-    <string name="graphic_eq_preset_vocal_boost">زيادة الملفوظ</string>
+    <string name="graphic_eq_preset_bass_boost">تعزيز الجهير</string>
+    <string name="graphic_eq_preset_bass_reduction">خفض الجهير</string>
+    <string name="graphic_eq_preset_treble_boost">تعزيز الحدّة</string>
+    <string name="graphic_eq_preset_treble_reduction">خفض الحدّة</string>
+    <string name="graphic_eq_preset_vocal_boost">تعزيز الصوت البشري</string>
     <string name="graphic_eq_preset_m_shaped">شكل M</string>
     <string name="graphic_eq_preset_u_shaped">شكل U</string>
     <string name="graphic_eq_preset_v_shaped">شكل V</string>
@@ -120,11 +120,11 @@
     <string name="preset_reverb_large_room">غرفة كبيرة</string>
     <string name="preset_reverb_medium_hall">قاعة متوسطة</string>
     <string name="preset_reverb_large_hall">قاعة كبيرة</string>
-    <string name="preset_reverb_plate">الطبق</string>
+    <string name="preset_reverb_plate">صدى صفيحي</string>
 
     <!-- Units -->
-    <string name="unit_milliseconds">ج.ث</string>
-    <string name="unit_decibel">ديسيبل</string>
-    <string name="unit_hertz">هيرتز</string>
-    <string name="unit_samples">عينات</string>
+    <string name="unit_milliseconds">ms</string>
+    <string name="unit_decibel">dB</string>
+    <string name="unit_hertz">Hz</string>
+    <string name="unit_samples">عينة</string>
 </resources>
