@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
+Dolby Átomos <?xml version="1.0" encoding="utf-8"?>
+<resources> Bluetooth (ION Pathfinder go Bluetooth 
     <string name="app_name">Wavelet</string>
     <string name="no_active_sessions">No new music sessions have been started yet</string>
     <string name="single_user_warning">Please install this app as system user</string>
