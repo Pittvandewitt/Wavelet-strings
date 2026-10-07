@@ -4,7 +4,7 @@
     <string name="no_active_sessions">Aún no se han iniciado sesiones de música</string>
     <string name="single_user_warning">Instala la aplicación como usuario del sistema</string>
     <string name="warning_library_null">Wavelet no pudo crear los efectos %s</string>
-    <string name="warning_service_not_started">Wavelet service could not be started</string>
+    <string name="warning_service_not_started">No se pudo iniciar el servicio de Wavelet</string>
     <string name="warning_no_browser">No se pudo abrir la URL %s</string>
     <string name="warning_billing_service">Error %d: Servicio de cobro no disponible</string>
     <string name="paid_feature">Desbloquear todas las funciones por %s</string>
@@ -70,7 +70,7 @@
     <string name="graphic_eq_preset_save">Guardar</string>
     <string name="equal_loudness_title">Compensación de sonoridad</string>
     <string name="equal_loudness_threshold">Umbral de volumen</string>
-    <string name="equal_loudness_strength">Strength</string>
+    <string name="equal_loudness_strength">Intensidad</string>
 
     <string name="category_effects">Efectos</string>
     <string name="bass_boost_title">Aumento de graves</string>
@@ -88,9 +88,9 @@
     <string name="bass_tuner_post_gain">Ganancia posterior</string>
 
     <string name="category_gain_control">Control de ganancia</string>
-    <string name="input_gain_title">Attenuator</string>
-    <string name="automatic_input_gain">Automatic attenuation</string>
-    <string name="input_gain_strength">Attenuation</string>
+    <string name="input_gain_title">Atenuador</string>
+    <string name="automatic_input_gain">Atenuación automática</string>
+    <string name="input_gain_strength">Atenuación</string>
     <string name="limiter_title">Limitador</string>
     <string name="limiter_attack_time">Tiempo de ataque</string>
     <string name="limiter_release_time">Tiempo de liberación</string>
